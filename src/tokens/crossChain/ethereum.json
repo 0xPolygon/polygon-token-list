@@ -10,6 +10,15 @@
     },
     {
         "chainId": 1,
+        "name": "Matic",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
+        "tags": ["erc20"]
+    },
+    {
+        "chainId": 1,
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
