@@ -1,12 +1,26 @@
-#Serve the app with NGINX
+########################
+# 1️⃣ Build the project
+########################
+FROM node:24-alpine AS builder
+
+# Create app directory
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm ci --ignore-scripts
+
+# Copy the rest of the source and build
+COPY . .
+RUN npm run build
+
+########################
+# 2️⃣ Serve with NGINX
+########################
 FROM nginx:alpine
 
-# Copy the build files from the dist folder to /usr/share/nginx/html
-COPY build /usr/share/nginx/html
+# Copy the compiled static bundle
+COPY --from=builder /app/build /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Expose the desired port (default is 80 for NGINX)
 EXPOSE 3000
-
-# Start NGINX
 CMD ["nginx", "-g", "daemon off;"]

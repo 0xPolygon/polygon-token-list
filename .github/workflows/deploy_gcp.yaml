@@ -1,0 +1,28 @@
+name: Polygon Tokenlist api GCP docker publish image
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag to build and push'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  generate-version:
+    uses: 0xPolygon/pipelines/.github/workflows/generate_version.yaml@main
+
+  docker-release:
+    needs:
+        - generate-version  
+    uses: 0xPolygon/pipelines/.github/workflows/gcp_pipeline_release_image.yaml@main    
+    with:
+        image_name: "api-polygon-tokens"
+        image_tag: ${{ inputs.tag || needs.generate-version.outputs.version }}
+        checkout_ref: ${{ github.ref_name }}
