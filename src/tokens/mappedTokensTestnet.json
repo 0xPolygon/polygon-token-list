@@ -3270,5 +3270,26 @@
                 "wrappedChainBridgeAdapter": "0xa2A2b7e365612795E5381214d1c321f245a34E31"
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "ERC20-Testv4",
+        "symbol": "ERC20-Testv4",
+        "decimals": 18,
+        "originTokenAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2d7882bedcbfddce29ba99965dd3cdf7fcb10a1e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
