@@ -226,6 +226,14 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg"
@@ -3536,6 +3544,14 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x5e1ddf2e5a0ecdd923692d4b4429d8603825a8c6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
                     "erc20"
                 ]
             }
@@ -38788,6 +38804,14 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xc1381c17d29a22df5c3015c3d83ebd90abd0e6b3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/Trufin-Logo-Symbol.svg"
@@ -51622,6 +51646,14 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xcc7c456cfe4d63d95947985c15d613dba5a6eaed",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
             }
         ]
     },
@@ -53700,6 +53732,14 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x97392b5bf12b70ab7eff76a4b9130d69ed48f23d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xb059ec27ad2c9233ca6e4b4e0fa94f2b51e560be",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
@@ -56241,6 +56281,14 @@
                 "tags": [
                     "fx",
                     "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x2620e15b7b57064bb867ee3dae6fac4eca548d86",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
                 ]
             }
         ]
@@ -59271,6 +59319,5877 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x2f4efd3aa42e15a1ec6114547151b63ee5d39958",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PAZA",
+        "symbol": "PAZA",
+        "decimals": 18,
+        "originTokenAddress": "0x362410477cd1e993c9975d7ea97e4027dc6e448b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2c0316a70eee548dad88806d5742ff3c8b0e2df5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DecentralizedEURO",
+        "symbol": "dEURO",
+        "decimals": 18,
+        "originTokenAddress": "0xba3f535bbcccca2a154b573ca6c5a49baae0a3ea",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc2ff25dd99e467d2589b2c26edd270f220f14e47",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NEYX_Token",
+        "symbol": "NEYXT",
+        "decimals": 18,
+        "originTokenAddress": "0x86b8b002ff72be60c63e9ae716348edc1771f52e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6dceff586744f3f1e637fe5ee45e0ff3880bb761",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Status Network Token",
+        "symbol": "SNT",
+        "decimals": 18,
+        "originTokenAddress": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x97f3757d9597f48f99e434861bf811a71c2d27ed",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Pluto2",
+        "symbol": "PLUTO2",
+        "originTokenAddress": "0x3f691327267993cfe4842ca1364a52dfe6190ec1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3b8a54213a898ce4f04180155c0631e105368913",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PlayDapp",
+        "symbol": "PDA",
+        "decimals": 18,
+        "originTokenAddress": "0x0d3cbed3f69ee050668adf3d9ea57241cba33a2b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1c9d256887bfd43582da5d0508123ed57b319f75",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SIORA",
+        "symbol": "XSR",
+        "decimals": 18,
+        "originTokenAddress": "0xef10bf0498732cade67bb52a18a4e07f2f2f5e18",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa5b1e92659c10851d6bc9d34723225508b5b1a62",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OrbCity District",
+        "symbol": "EDST",
+        "originTokenAddress": "0x1ea36918f6d9b842319b15a823aaccb5cdc933c4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb1386210676176eaf69afefdd444b14e822bb4d2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xf2933422dc53eb01a712589c9ab55e6fc5a669a1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0f28954ba506f2a350d3b27d26fad660e2fee267",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Pirate",
+        "symbol": "PIRATE",
+        "originTokenAddress": "0x31fe9d95dde43cf9893b76160f63521a9e3d26b0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x687e4d88c45eba1aefb0ace6d127d038e7235943",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DummyFx721V3",
+        "symbol": "DF721V3",
+        "originTokenAddress": "0x4169f6fe0f80576c0ad6cd472093eaaf3125e07b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xde86b19c546a7da7dbc5125cfc9298896062a3b6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Girls,Robots,Dragons",
+        "symbol": "GRD",
+        "originTokenAddress": "0x0847d1fb2adc3d1c19b233afb7d01a631728a415",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9ab26d93aef3e78c3e220ecb20e769cbd07077c9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xc11adeaa18dbbac23b4de0e4c7ade86346c484d1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7bced7c26d92ccf9a11708064559f51bd4d4c1ae",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "TaipeNFT",
+        "symbol": "TPE",
+        "originTokenAddress": "0x44fe31411f486357ad6edac323af322510580854",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd67fd42025127d3248a81f2ceab1e82b935b75da",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bombay",
+        "symbol": "BOM",
+        "originTokenAddress": "0x92f60c1fe5c97130ee4843563eea255408b669f0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd5ceed7988c136dcef83fcdc5938207401802a51",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Good Minds",
+        "symbol": "GM",
+        "originTokenAddress": "0xda64c62254e6ffe6783dd00472559a1744512846",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x25ef3d687afc636042908048d72131079dd8c4d8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "They Xolo",
+        "symbol": "TXO",
+        "originTokenAddress": "0xbb3a83e3cbb30cea709c0abc3db1915127792816",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb91af84bed8ce3e5d7e7f05726eb6efb14ebcf1a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Dragos Part Two",
+        "symbol": "DRAGOS",
+        "originTokenAddress": "0x627494fbb1635b15b1af3bf69c1ab452f0018ccc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x153d66c9abc5bd4809304c6c46cd33aecd82cbb5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DummyFx721V4",
+        "symbol": "DF721V4",
+        "originTokenAddress": "0x9b6e4d608dc70a1a3fe1307e231a619752165129",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x55c1f4f6a1368749137b24311ed805e5ed7778c8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x201d77a2ebb8dc233fca1e8d21787336c8ac9bd8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe1e033ca13211adadbe2ccaa0d27499a88c62b10",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Delhi",
+        "symbol": "DEL",
+        "originTokenAddress": "0x400fff733ee9c93dea90dbf17c3cee57417e5d50",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7dbe3504b6473e19327885602f30f7cb034a6e8b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xfe5aef9e91c86ee01b1542d942a1635bc5ed96e0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb5442effa5d68d3caf188bf4780dbb65c152adc9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x56f129b90d36709c0a20d92a00135fffa0d68694",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x64a70ec518964d3790b9662776bf212662953aa2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DummyFx721V1",
+        "symbol": "DF721V1",
+        "originTokenAddress": "0x38ed9f49a95dc09a1b744372e63b3d13c1b1ff7c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xea053281e02a63617bad14ba42e1a8c840f8ccda",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DummyFx721V2",
+        "symbol": "DF721V2",
+        "originTokenAddress": "0x766643c882308069396802c08e6e32c51c8ecdb3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7c84a397e54186f265684149111f5ef436395900",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xb56c3a43d322c90fe1930a1551ce778e563eb42b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe67df5febd919e49bb57a9c1a0d138570facefa5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "FewoWorld Paint",
+        "symbol": "Paint",
+        "originTokenAddress": "0x06911466341299d79e9e1368a016c73d009691cc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xcf5b6f7ae0a1f35be64c401c8759aa3f19a7fa50",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Moonbirds",
+        "symbol": "MOONBIRD",
+        "originTokenAddress": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9edeefcd57daa98ea6d4b1ba855a6fce96291fc7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "World Of Women",
+        "symbol": "WOW",
+        "originTokenAddress": "0xe785e82358879f061bc3dcac6f0444462d4b5330",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x912300f2c68c1c5a14aa5e13a67242e12a6a720f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x3848ca9f99068455c0a4cda0cb71dcf94df56cc2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x268166c237f6d7a061157891a3e2183c943e5f87",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "mfer",
+        "symbol": "MFER",
+        "originTokenAddress": "0x79fcdef22feed20eddacbb2587640e45491b757f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x03a98077ce72e34b64aed3348f064660878b650a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Warrior",
+        "symbol": "WARRIOR",
+        "originTokenAddress": "0x423b3fb7a5ed634aae812a7d093783a715c1d7a5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd2218ac0034e7cdd33ddb0c37929c99080928c9e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Baby Dragos",
+        "symbol": "BDRAGOS",
+        "originTokenAddress": "0xb8802a4231b31ce977aa37f693d3d9bf5857facd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xaaa3217ac3275edf0c0e4b53146c23dd00ebafcd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PudgyPenguins",
+        "symbol": "PPG",
+        "originTokenAddress": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0dcbe41bb17c44e1bd10011636aaae4b6dac3b8c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x280d11ce7c786f88011b03e9e2b200fba44381ce",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Moonbirds Oddities",
+        "symbol": "ODDITIES",
+        "originTokenAddress": "0x1792a96e5668ad7c167ab804a100ce42395ce54d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7d4b58afa8d60c95bf6281dca1fa8980c8007df9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x42775d4be2acb9e1cf653684687bd4ea244f5f8f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2f7e0a670f8bba20b245b224924f4b95205064e1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NibblNFT",
+        "symbol": "NIBBL",
+        "originTokenAddress": "0x41fb4d352ed6fe97b3b74f2f9545ff9eeb74e0e8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x49aa875855efa3efd1d197e1ce416a4df873935f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Doodles",
+        "symbol": "DOODLE",
+        "originTokenAddress": "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xaab82fcc513dbf55fedef107d923a8e96393ff80",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Dragos",
+        "symbol": "DRAGOS",
+        "originTokenAddress": "0xb0858ac51bca73c11ba3203712e319b7c45b0896",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x113f79788fe1d9f1b4ccd4b841afbb878b9d9ecd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xc6cef0fcd9ade5b60c25b14e46a47bd48d4c397f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x08bbe53cd50b8f03296e59b7fd4aea325546921a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x46b52267a6aadf7e1a519eb5143188c3ade37190",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc44a7982ada19b3f5b90706acd3a0732babf56c4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Treta",
+        "symbol": "TRETA",
+        "originTokenAddress": "0x1be5d3267e1543a071075bae234716154cbfe8ff",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2981225434a1b9cc9b84434ab5d1afa0049c3a02",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Celestials ETH",
+        "symbol": "CELESTIAL",
+        "originTokenAddress": "0x80581ea8339d682ca5a71e3f561e3ab0e270398e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf111dbd38c61bf323db4d744ecdb2df553a985d0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Skeletal Cats",
+        "symbol": "SKTLCAT",
+        "originTokenAddress": "0x517a5d9b9a531576713dea44eb13c66b08305b21",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa808ca1b3ac290533539d04cf2a53aab4eb95d4f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Genesis Bloodshed Bears",
+        "symbol": "GBSB",
+        "originTokenAddress": "0x8ce89c1bc462832ad3f5a6b30baf7c6f488875c7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd87ba8ea021d366292b2f77d68ebb6d134ed905c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bloodshed Bears Tree House",
+        "symbol": "BSBTH",
+        "originTokenAddress": "0x49fc6bc4156509ffd7d6621d270670031d370395",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6d9b6821ab5b9111c64828dc7445f8c5066f0999",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bloodshed Bears BloodShard",
+        "symbol": "BSBBS",
+        "originTokenAddress": "0x52d9b490db0a311c089531c7865ef810a87eb103",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc7f608c2f8ebc019863d29d17e5112fa317e86d8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bloodshed Bears Token Generator",
+        "symbol": "BSBTG",
+        "originTokenAddress": "0xf5061b8a7b04631d21a1548a61800e23bf8ce6dd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf04a857dec5a684c7949887979a43120b723bd6b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bloodshed Bears Gen1",
+        "symbol": "BSBG1",
+        "originTokenAddress": "0xd7f06ca459f5ed2e0fd0083499aa3069591c0483",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd36f9011323d24a9d43e53f6dc6e00b28cf0f3fd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bloodshed Bears MetaPass",
+        "symbol": "BSBMP",
+        "originTokenAddress": "0xc8868ae0019ab675e9149bf9c8424f169d2f73c4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xaa78b801fef9281a2cddcf7207b020cf3265fa80",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BabaCat",
+        "symbol": "BBC",
+        "originTokenAddress": "0x896f4c26e00704956c3e3b1ccb857ebc1a441fb2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x91812c38968daada5558d575131edddcaabaad5e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Peace Aliens",
+        "symbol": "ALIEN",
+        "originTokenAddress": "0x06e75806cc1d510174aed109857fd26f9c8e6186",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7b10424acaa6a58b3c9e6f80ecea1cb388d55f07",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Project Cube",
+        "symbol": "❑",
+        "originTokenAddress": "0xe523627a06d2137141ceebe29db32ee47920069a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7f43ff956050b12cfc510da01781b1849bca7db5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xe6b68127f4270df2450464c8e0689b6859eee652",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x5a473fcb983239bc277ed2ed8b2e3c30144a97cb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "KingFrogs",
+        "symbol": "KF",
+        "originTokenAddress": "0xd668a2e001f3385b8bbc5a8682ac3c0d83c19122",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x378848bd6680e0e88ab8ddb9ca7c9313047778f4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BabaZombie",
+        "symbol": "BBZ",
+        "originTokenAddress": "0x0302fec23b942a2c5ecdf928d9895054d220a116",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc80e0b195872eeae90930b4b83ceda70568f406a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Testnet BAYC",
+        "symbol": "BAYC",
+        "originTokenAddress": "0x42e82cda993d26cd9f1ffb0944d565549e46b289",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x36daf3be531ca494561a4560453b4e04f560ffbb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Azuki",
+        "symbol": "AZUKI",
+        "originTokenAddress": "0xed5af388653567af2f388e6224dc7c4b3241c544",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xda8b525b5c3216d4a13641126b3ba7399439b622",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "LateDAO",
+        "symbol": "LATE",
+        "originTokenAddress": "0x9717e477cc5869a4a228361492b9bf7b8db58582",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd261dabd5598e95741420345abe408061e82e760",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "AmazingNFT",
+        "symbol": "AMAZING",
+        "originTokenAddress": "0xf3e2d728f35401eb71a1d3b5093d93b23ce1ab1c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6062fda678cf3b510b361fa58704fa26fce6c110",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Squirrels Flow",
+        "symbol": "SF",
+        "originTokenAddress": "0x3024c800cb11e528744056184fe2792a75c76f0f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x535af9659fe9d07770ac16639ef3e3b95e788e11",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Kiwami",
+        "symbol": "KIWAMI",
+        "originTokenAddress": "0x701a038af4bd0fc9b69a829ddcb2f61185a49568",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfdfd252daeb43948fe526295f1d3f5d6469e35a2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Shinsekai",
+        "symbol": "SSK",
+        "originTokenAddress": "0x98b82d9efc577b1c3aa6578342121231db2b47b9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa3ee0417d989b5d1df468cad40f9579d756b7448",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Gutter Clone",
+        "symbol": "CLONE",
+        "originTokenAddress": "0x41f20599e9e049004c4d169046eb7023117a6244",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x5e4f1d879b3957ae07847599a47c1587a49a88ef",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PREMINT Collector",
+        "symbol": "PREMINTCOLL",
+        "originTokenAddress": "0xe0176ba60efddb29cac5b15338c9962daee9de0c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6bcdaae415cdc16b66564dfbddcba3ab8ed7888b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CryptoMories",
+        "symbol": "CRYPTOMORIES",
+        "originTokenAddress": "0x1a2f71468f656e97c2f86541e57189f59951efe7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x955287dca20b44ff84578f0fe7909223767df15f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DegenGangBeastsNFT",
+        "symbol": "DGB1",
+        "originTokenAddress": "0x32c406c6c09d85d9442802c919850dcdf87c4a38",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x476dd06cf9764c82cf1d3ff513a06f9e72f8a4cc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ZeGarden - Operation Smile",
+        "symbol": "FLOWER",
+        "originTokenAddress": "0xc6166db1cddbca153f1225d630c2b3a39add69ae",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4aa177f1428a1d0325f573b5f67aa1ec6727ff34",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ConnectClubEvents",
+        "symbol": "CCE",
+        "originTokenAddress": "0x7c560343200ae87e003474b0f7a2a5f8754d5bba",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x720833879ca5727434b247fdaca101e18cace7c6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ConnectClubEvents",
+        "symbol": "CCE",
+        "originTokenAddress": "0xb3f8dcde82ec53f98fd40d18a8e723a3a57df146",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x37c946359bd4345948907b8c873759908704ec49",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wolf Game",
+        "symbol": "WGAME",
+        "originTokenAddress": "0xeb834ae72b30866af20a6ce5440fa598bfad3a42",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0d4cafbe9a6fe307c7083ec6c94b54175f4a56e4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xdd6e7ff87ce5e19f7856280a24f1eec612947248",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7cbccc4a1576d7a05eb6f6286206596bcbee14ac",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "THE MYSTIC ENTS",
+        "symbol": "TME",
+        "originTokenAddress": "0x8edab87f1e63e4266e4e17c5f5dba243aab2294a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1540d3319779e681d1c355745a92b980cd01fcf4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CyberKongz VX",
+        "symbol": "KONGZ VX",
+        "originTokenAddress": "0x7ea3cca10668b8346aec0bf1844a49e995527c8b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x05df72d911e52ab122f7d9955728bc96a718782c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Rush Avatar",
+        "symbol": "RA",
+        "originTokenAddress": "0x955949d2aad4a3945225e3ed2d3387a46fa48721",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8ef7e72eaaab6b95112ea036f9b77083846c28f8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Unstoppable Domains",
+        "symbol": "UD",
+        "originTokenAddress": "0x049aba7510f45ba5b64ea9e658e342f904db358d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa9a6a3626993d487d2dbda3173cf58ca1a9d9e9f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Lazy Tiger Wood Club",
+        "symbol": "LTWC",
+        "originTokenAddress": "0xa905736754e8caf16020849b370ba056d372e6cb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4c9b03a63875b3753f1b50953f9fc8e9ceae24a8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Colonists",
+        "symbol": "CLNST",
+        "originTokenAddress": "0x9f4df153d95a8460f6e82c21cab92719781fab84",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb6837c2018257d2b4ca50f399e34636ca139e314",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xf117593e01d376ca95035a7596171311a5616d11",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x107f4498f99736e2747e692732635c2c70bf1387",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Toodle Loot Bag",
+        "symbol": "BAG",
+        "originTokenAddress": "0x2a16107ea0d28ae822168c8bb3ef5460b1924a78",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xef59ee19ddb75092d005b34791fb26629b5582cc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "originTokenAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
+        "originNetworkId": 0,
+        "tags": [
+            null
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8b47b31aaabfc6280f43c77a04f80eb2f57d032b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    null
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "!Butterfly Protocol Registry Token",
+        "symbol": "BPROTO",
+        "originTokenAddress": "0x5ff749b95e00f17bd754895abb502fd1c66f56f8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x996207f31d16ff49ff52c21b705a70c296a8a2bd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wobblebug",
+        "symbol": "WOB",
+        "originTokenAddress": "0x58f57c3818d864c93e10d51ee39ea1a4ca75d2e5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xab1e55cb9bdc2d3569531378fe280d7445ddf752",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CryptoRabbits",
+        "symbol": "CRABBIT",
+        "originTokenAddress": "0x1caf5811954f5b8d8b4fcf81bde43524bdcf532f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xabde2946f9aa63b8be3a3a890062c260dc0b7559",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ZestyFrens",
+        "symbol": "FRENS",
+        "originTokenAddress": "0x1e054e938baca37bebe0f4e1b481edcd599e0701",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1e054e938baca37bebe0f4e1b481edcd599e0701",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "The Doge Pound",
+        "symbol": "DOGGY",
+        "originTokenAddress": "0xf4ee95274741437636e748ddac70818b4ed7d043",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x5778d683aeb80b78893f156ab7e956665214781d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "VoxoDeus | Faction Art",
+        "symbol": "VXFA",
+        "originTokenAddress": "0xf00dea7fc4913876729ae8e0baafc59a9b485592",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf00dea7fc4913876729ae8e0baafc59a9b485592",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MealDrops",
+        "symbol": "MLDRP",
+        "originTokenAddress": "0xab08d32fba3aa0d15e6092282664b4bfaa090d5e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x46995e00c85dc6b65eda186d42418cfce34f5f39",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wanderers",
+        "symbol": "WANDERER",
+        "originTokenAddress": "0x8184a482a5038b124d933b779e0ea6e0fb72f54e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x787055bfccf6280a2a59720775f071dd005b1d30",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xb2469a7dd9e154c97b99b33e88196f7024f2979e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x476f047622dadb0c32f848d3c86699a09453668a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Valorem",
+        "symbol": "VFNFT",
+        "originTokenAddress": "0x2909abf857dc69ee29c7f199254285161f14e0b4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xeca84ae6261fd1ab3b93d5fcfc9ab8da5fd716fb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Punk Crushers",
+        "symbol": "PKCS",
+        "originTokenAddress": "0xf918903a0ff9cf03cfd3e5cbb40c600d33bcc336",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9239c2d5abd620c88aebf19f5147efc842e4f14a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PugFrens",
+        "symbol": "PUG",
+        "originTokenAddress": "0xb9e971c00b1257d0f6d67eff37f4a46e1ab6bf24",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4c7ccd324887fd7139c335a2026a2f416e359dcb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CryptoServalGame",
+        "symbol": "CSG",
+        "originTokenAddress": "0x14c4293d7e7325cec8c52cea3df37d91aa9cc7b6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb8da3513a18de522c15eb3b84b111542aa5e8d00",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x3a8b5cbdd84d24967fb125e57fde62912da3b171",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6ddcc90614d47acd7596447686c4fd6aee782742",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Numbre",
+        "symbol": "NBR",
+        "originTokenAddress": "0x80c87cab6c9a94cc9b61ab0f27e355243b7e7a35",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbdbc3ec35b762742a60985385640ec4dccd7f394",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Crypto Nijigen Girls",
+        "symbol": "CNG",
+        "originTokenAddress": "0x6800c6fa007390da9a3965f5ade354005e1193bd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x428edf405f9f970d61e361fe768fa6ce73929853",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Fantasmas",
+        "symbol": "FTMS",
+        "originTokenAddress": "0x71c97d36f1fecc0a66726e104eefb147f070c004",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x339a9a9b50da3ff5a7080b6d82a2bf6d339eb8a6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped Cryptopunks",
+        "symbol": "WPUNKS",
+        "originTokenAddress": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc952a14abc9a9632f2c011c29b7abe02456f32f1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "RealityCards",
+        "symbol": "RC",
+        "originTokenAddress": "0xe7c721cf66d1666d59bb88427978ff515bfff492",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe7c721cf66d1666d59bb88427978ff515bfff492",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Matic Mike Ethereum Bridge",
+        "symbol": "MIKE",
+        "originTokenAddress": "0x9cfc5c2721d4534c8712ee4f03443a8b4fca7f29",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7c09194d33686e9b4dda51a5221340f484919446",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Polygon Chromatic Plot Ticket",
+        "symbol": "ticket",
+        "originTokenAddress": "0xecd5b049ec7ef37985a9dda4955d9a2aad1c7cf7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb0d7a500e0e0d9d5a03be597623175ca82efa479",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Attention Deficit",
+        "symbol": "ADHD",
+        "originTokenAddress": "0x6b2233e38b7712351cb57c7f603dc00f0c4b243e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe1cf7f0b9cf35eee07e0ca7d8088d2c38245f6c7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Floki Nagato",
+        "symbol": "Floki Nagato",
+        "originTokenAddress": "0xa2267d34e912af7569a0c15343936651f4afe44a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9538e494e3b0672f5703e73a0029f8721a6d41f3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Chi Gastoken by 1inch",
+        "symbol": "CHI",
+        "originTokenAddress": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb9edc594fb7b1066d15ab5dfd7d80de8e837c332",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x12b119f8a9ec89ab92236205b01d6579bb0e3e7b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb19dd661f076998e3b0456935092a233e12c2280",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xd37056611ae6abe2c86aaa9dec4044e354209276",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x004ee99fd804466eb4db6985156bd980f5fb482d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OpenSea Shared Storefront",
+        "symbol": "OPENSTORE",
+        "originTokenAddress": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x145798f85cbdb5564b0d573fc5960174b1448fd8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ProceduralSpace",
+        "symbol": "PLANET",
+        "originTokenAddress": "0x52a22e11cb6e2599d177fec046a9655682a02b14",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xad8dc1edde3cb13f3be8705fd7a0b9bed65f0ff7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "RealityCards",
+        "symbol": "RC",
+        "originTokenAddress": "0xe7c72123d29803e7fe11f53bca2cb96b89a9a619",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe7c72123d29803e7fe11f53bca2cb96b89a9a619",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "LootCreatures",
+        "symbol": "LOOTC",
+        "originTokenAddress": "0xb89a71f1abe992dc71349fc782b393da2b6fb4c2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfb7d79753d6cabcb7889b15ca15a5d8b7b2b4f6e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MurAll L2 Montage",
+        "symbol": "L2MONTAGE",
+        "originTokenAddress": "0x42ea05fb3d5cf4ef3927e370dc2beffd453195d3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb200c550749c8f996376e7dbf56b368bc0967b8e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ART HAUS",
+        "symbol": "ARTHAUS",
+        "originTokenAddress": "0xadf9b34b82de3ef70bb943db659791f44e65af4a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa8e3aeb851b0a8254fee430d56ccb73c1493482d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Besties",
+        "symbol": "BEST",
+        "originTokenAddress": "0xca66485d031471def5f53dd6950c98847c4ecc91",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xff8755dda48a9b5b65c1c2f4579a5ed11c42afff",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CryptoVerses",
+        "symbol": "CVERS",
+        "originTokenAddress": "0xc60b4ac998931ae20db26a096a719ef0a88aa73e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x23ef6f6b4dd9f3418dbcabd30a0ee6b55683fd9e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Chinese Opera Mask Plus",
+        "symbol": "COMP",
+        "originTokenAddress": "0xaba31c041e916e4141036f080b554d40cdb2bcd0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x83124e9a8a83b57dc3f2f9490e9304f0d7cbb724",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x32b02ebafcb5781460d15a0244169f6d84eec887",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe73358aebb3b6f57d91de4f591f6a235cf727bd9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x3afe3de67894fcd578eb492d1a74d13327b41aae",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xec8883608adbf19bde7dfde043898e2f6bd12b23",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x628a5237e5f282d32b40477234a23ca675d2d303",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x28b0f48636c86ee7524be43492a3eb76d46c1e37",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Origin Polygon Test",
+        "symbol": "CRAZYBUSTER",
+        "originTokenAddress": "0x0e5e1cebaab24f47cd8f8537ca5454aeb9bbefd2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x31efc84a941d4b4d17e2f61846269e0cc99f6bbb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x3df25f701c97f8f95590c8dd7b0ce34d61e3b590",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x67e0484161976a7ce4575aa2a1cdaca0a6912e77",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x912ba2984910f9e3576df76ccbbba3b8e8b1dd97",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8c118ee5e1e9a8d8adc717e9522b646d416b0f52",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x20e9e39d17f1746737e52325d67870102cbe1adf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x466a9b5092459a555fce3595af087ce372480055",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BitsForAI",
+        "symbol": "BFA",
+        "originTokenAddress": "0xce5b23f11c486be7f8be4fac3b4ee6372d7ee91e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8ffcd9106bf60f465fdf2cb5c9e0d0a016605e06",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MakersTokenV2",
+        "symbol": "MKT2",
+        "originTokenAddress": "0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x81a0c7feb1d69963f66f21bd0ba0c4ea03cb6f06",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Sorare",
+        "symbol": "SOR",
+        "originTokenAddress": "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xaf55d762ec89932362322dda4e744d9c4037d96c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Async Art",
+        "symbol": "ASYNC-V2",
+        "originTokenAddress": "0xb6dae651468e9593e4581705a09c10a76ac1e0c8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4eead1e2f271ffb979819166ad664c17319c100e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "KnownOriginDigitalAsset",
+        "symbol": "KODA",
+        "originTokenAddress": "0xfbeef911dc5821886e1dda71586d90ed28174b7d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbbc3759b6fd8e333a6eae348a121800326e09942",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Cryptovoxels Parcel",
+        "symbol": "CVPA",
+        "originTokenAddress": "0x79986af15539de2db9a5086382daeda917a9cf0c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xacbc1f543c51028f4f6a01091bda3dfe16067604",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x9ef27de616154ff8b38893c59522b69c7ba8a81c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8a224e90ed0ae959584703ff81e35f04a93529d4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "RealityCardsBeta",
+        "symbol": "RCb",
+        "originTokenAddress": "0xf95e7b295a611d02de29fdfe2229b8f43e76b3e6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0bb97a56a5f28e841e3e4183fcfe92c2348e826f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NFT PRO CRYPTO",
+        "symbol": "NFTPRO",
+        "originTokenAddress": "0x32e4d40d437db403bb68db323be0cf92c43dd4c6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6b50679e1fdd8ddf2374129612b318f257312219",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "TradeSquad",
+        "symbol": "TS",
+        "originTokenAddress": "0xdbd4264248e2f814838702e0cb3015ac3a7157a1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x69130978dc2dcecc0311689d2d686cb92cebd629",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Cometh Art",
+        "symbol": "COMART",
+        "originTokenAddress": "0xac08afe0d0d0183dc3e92236f6a749c5c97867ad",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x710951cb03bf78d7e616b8fb69960d3f2f220f36",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BAYC #5645",
+        "symbol": "BAYC5645",
+        "originTokenAddress": "0x78e3de067c03cc6c1a05b52a73dd241b5b79369c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xdd1a57d4ad64e980fa1707159ad87f822425e514",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Teller NFT",
+        "symbol": "TNFT",
+        "originTokenAddress": "0x8f9bbbb0282699921372a134b63799a48c7d17fc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x83af2b36a3f8593203b2098cbec616a57f1a80cc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xd75e416493029702de5eeeef604936b01654d6f0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x55089dfc0cb7c92bef8693a3220366fe7a7d477a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x1288c1539cfb247b8cdc1bce57796f1277ab3588",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe3f2b6a8e761fb58f03a955a83ad8f638accaf07",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xa5e77e7018cc34aa17191942eafec52dee9dfca9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7d5c0324185ee991e0df613c7011ec7d857ea23f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x5650c9649a77228e32bf2906d874716cf6a21374",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x122993243c592971275d8eceb8f073d98dad43cb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x81ffc95a0773af5e0e29c78c1974e14bbbf55f18",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4299df6df2ac4365e04e01dd1883b9b91599e1a4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x9d2b0a0ea55df2e6bbe8056206440995d20f3171",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf313982cc68cc8f432b2133e94bf536d8b7fcdc3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xd495255ca4a7f0f0dcd1d53f662607764558a5c6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xcd94ac0da2d5298063d85246d14f02cd3710794c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x6bc02773e39a2c763d81481edc7c0d4fe992b85c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6cc63d0e9d47471e4c0a89768afe39e4af46b4d3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xe2c6dc6520fc2857f9adf3abf9cdd7229b404d2a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x35e23ebadec00f35fa6dace45d4e3bf71669fe0d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xa8e4459a64e368880eec620b7ab1caa1a297be21",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8a1d5a9b3f21580653c0d06990d369cc0744727c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x9b56b89e5d45ea4abe8565423790544f83a480fc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1e08d5494e366bbb679ceef181f712730626544b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xd320cf5dae1559731ed88193d6bc835a4f3a0f8e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe6b500c01c6124f874b3837ee494839b5cd490b8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xc0dbd4b2bea1e72af989a7e775781024c031668a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xab8a11f79556e3c7101594fbee5a4f3c0b9c96be",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x8c08b529b9ca49ee2ff4750cc5294c4c07f0645d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x87a1c5a7c268c50ce016df080fd8159008cecd35",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x015efddc623337e1dff5ff8339167a8e37138850",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4bebddbc44ae61455c14292bbc59410c36afb045",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x917f76e11dcb455a4cfdbefc8e2f62217f65405c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xae24db107cfba217f9ded88a64afe710d546f840",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xaf016b5708f013e3c4b7cfa8b2ec43021465fa28",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbb4eead1a005d970ae4afdec38a4f99308813d90",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xe60ab5b3c356abab07678a4fa59c26069b69da2b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7de8ed4a0b6cf963e3289dde212beea016588be5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xa767258a27b99cf6ad0409690258a75eac0100a1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8a7b7c1c85a8319646dc7aa02f632b24a30b3719",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x44d72a93dcbcce8c000c477999b95b24c8daf818",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfe6746c930f075624649304e6907154e5b24998e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x0c0aecc3e0e152c4db8d741e303df1988a4fb4b3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xebed6b7a6f6cfb703261bc2589c0b1358848f03a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x542aec94a252e046e5c39fafdca19bce62d2193b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x42d77109b2f9b0c445bf1a36d4c7dad14da07d89",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x95e6c5012c538054d5f2f88060d0b1e9a3159230",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4dc702a26208e362f24c3f4213b4a29663f7505a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xf98b8651c6957715c8bb95dc07ee3189c03b3eff",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa7ec627398483c29ee9b52532be17d5bdfe1b560",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x3ef4cbe2d16420dea700acd6cfd05954fd5ddd3c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x5ff1afa340525062c88b8d0f197c9af935ef0d45",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x1b7f1f63d284ff264c97f1f2426b74119fecc3b1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x44bd108529cd3afc8454f1295ca98cf7537a4565",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xc3ea52d903692814d6dbf043cba015975043560f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x73c5e52eea9a1e41760acde2e6f8e654ea9e32f6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xde88396d523ec2e6ed82b01b254da092b65c03af",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa08c8047bac7fe41d11ea6d2a63e3fb375a22aed",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xe191d9629b46e132c3cb9cca9427904c91035943",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0d17bb30f996044bb34d0671002f447abb58f563",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x34d465653db345ec9b338528c655ad68afc6d9db",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x27169d5c027f0f27cd8f993d6964fb563de41a5c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xaf1b9e46935587b08ecf242234111c1e919b763f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3243a48452cc36c5b9eb339c0368d17d21fed7cd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x56e0a0d0c8ebb29a3db38b52de9e9dc71781ffe0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xafa8b9f81deeec508d0e4d9017895b17dbae9042",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x4e0dfd74857e9eebbdf332727d30818a0ae13e2c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd56dc214c7a0e0c52bd0a01b5d9bce1a72ec0c8d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x78c127d9451e2361d42f09fe2996bae1c70686d0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe0b90132c1dd6138263c609242e6442b259794ab",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x6f60a2855ddf15c5f9f204f83ba7a7d4061285a7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9b9d4515bd653194b2422cd7d953b5c07d4e8cb6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xb0ec56162be68d03e9b7036aa8c3074201a71203",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfb09db1d8eddf8b6a5187a038c59718206b3b9bd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x02e6a16d99ca2e08583da3861240890efc302755",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x44eb4658fe99d95ba4e79c9cd9f01babddf7d432",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x6ecf3c08102c9d81afd579635a806b94d454dd63",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc292c0fd4eac2bb3d02a2a05b4c717567a8b1a54",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xafd8ca3ddc9b196a834ea82c0b4573946450bd67",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa9d9e57e4da4229e3c20db96a17bcb08af456aa8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x4cf948cd32716b34b016d4ae0c44e9895d3afb1b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x08639bfe97f0d2eb5e224ea498f22aadb0867d1e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x42c13ede08ce59c54c0a4c8318be18d284b5c097",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfe02b82fedd4ba35ddaaa0e965c7a050a3d646b4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xe3da41cd7d644129920b06a92cdda4fda7beaaf3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x613d144d38aba838fff77daea6875cafd71b6ac8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x05b96092c0b81847fc9ce583512792b6ade0e14f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x354b107725cb9b042854b57815792c13f69f05dc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x141042c1e0c1e60bcd649412072df4aa670dd2fb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7efc872ee96a9798edcc2dbc48f3d25a0306d697",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "VoxoDeus",
+        "symbol": "VXO",
+        "originTokenAddress": "0xafba8c6b3875868a90e5055e791213258a9fe7a7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x714148f882f5bab4ad4b81709db6750843e9a480",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xc3b92420b3f762ffcaf3686358d98bdca6bf49ea",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb9aee1ad85bed213b53329f060a13328eb26b7a0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xef163692de9445135eef1dcd367933f963216921",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xee708d44ac1b2dc1d4df3c09e29abdf8b4e7ca2d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x44e52194ceef1c00198418ce0238dec7d217e12e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3f989ec5b34489b661d54570e2482a2adc1eb647",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "FuckingPickles",
+        "symbol": "FUCKINGPICKLES",
+        "originTokenAddress": "0xf78296dfcf01a2612c2c847f68ad925801eeed80",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd4150b90ccb9765d5138b20c6bc40cdca2dfa14f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CryptOrchids",
+        "symbol": "ORCHD",
+        "originTokenAddress": "0x941ee2e831d278db802a541d3855a8de749ef635",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7c939bc15f329c58c11d499ba4b11abca0cfb321",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CTRL",
+        "symbol": "CTRL",
+        "originTokenAddress": "0xb6e8cd309b1ce76d70619b55fcf79a274bc120ce",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1da89ba7c652e12d8e5920577d141f69db4bf835",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Blast Premier Chicken Coop",
+        "symbol": "COOP",
+        "originTokenAddress": "0x8119905865211d70d6ed9611180610e6ac6f38c7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x35322134ec933d55797930d0c045b51c2203cbae",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "LACC",
+        "symbol": "LACC",
+        "originTokenAddress": "0x591ffa813fab09557b85c9b169da0c124799a439",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8ff7bc6ed57be9f1b156a920ca39bf6c24aa68ad",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OURSONG NFT 1155",
+        "symbol": "OURNFT1155",
+        "originTokenAddress": "0xa42bd534270dd4c934d970429392ce335c79220d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd434493e626b8827cf6084ca76b6b8b8962c84f9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Blast Premiere Chicken Coop",
+        "symbol": "COOP",
+        "originTokenAddress": "0x6eed327f08cb1e090426433ba03db3e7d622e93d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe8655dfe6aed805a508f585569e492ee0d3bfcc1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Mixin",
+        "symbol": "XIN",
+        "originTokenAddress": "0xa974c709cfb4566686553a20790685a47aceaa33",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf38cab9bdd4ab10df085daf7824a7ad09b5b522b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "HOKKX",
+        "symbol": "HOKKX",
+        "originTokenAddress": "0x17216203f94009981de6747c2e4e5e90cc8985b9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa7bf06ae0332fafb661af3593534bdcff309b02e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ShroomTopia",
+        "symbol": "STPIA",
+        "originTokenAddress": "0xa0763b660246142baa712745b422f6420953688a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x09a80825c34751ef7c7b5749bfa32eb9d1b718a9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xee650bc2951e44c1a8b700a0ede8416436965f01",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x767527b250c58a843eedd3224cdb65403dd274c6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MethodNFT",
+        "symbol": "MTHDNFT",
+        "originTokenAddress": "0xf52fbd056ed1f1ab01d4296fce136d6c0a2bbfaf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x26c647aa04a1dcf4f000f177e0ff3a0c90ac32fc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PolkaPets Base Set",
+        "symbol": "PPBS",
+        "originTokenAddress": "0x8cb813bf27dc744fc5fb6ba7515504de45d39e08",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0197bd88d2534f56708517f7896e07bce054cbad",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0xc805658931f959abc01133aa13ff173769133512",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7de01312c39fcade820e1a99c80325f53e8ac917",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Keanu Inu",
+        "symbol": "KEANU",
+        "originTokenAddress": "0x106552c11272420aad5d7e94f8acab9095a6c952",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6a12612cac3032813254ddc7af47f564d0199b7e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Digi NFT",
+        "symbol": "DNFT",
+        "originTokenAddress": "0xe71b772c99f79b2cc9b5a0e204e88ba14fbb61c4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x77e7ec8e78e87b6456f0039b6bd2c3c6ac58cadc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NFTs.REN",
+        "symbol": "NFTs.REN",
+        "originTokenAddress": "0x813fce94d1855ba440186c3b201a67bf13ae1a5a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x813fce94d1855ba440186c3b201a67bf13ae1a5a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "yAxis V2",
+        "symbol": "YAXIS",
+        "originTokenAddress": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3dde2205a886a6ac046be9dafb2cf3634f9a9548",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Rage.Fan Collection",
+        "symbol": "RFC",
+        "originTokenAddress": "0xa862659b349bcea17ffc62a2f3e85909318c4b62",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x89f0790e81707e8b4f1a98a01e994709dcf63db6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DigitalaxNFT",
+        "symbol": "DTX",
+        "originTokenAddress": "0x0b509f4b044f713a91bb50535914f7ad160532fe",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7b2a989c4d1ad1b79a84ce2eb79da5d8d9c2b7a7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Globe Photo Official Collection",
+        "symbol": "GPC",
+        "originTokenAddress": "0x1f42f3e36f8c61fcbef35e0cfb88bdf9392856ed",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x473604c02d9d80ca8d4ed2433d35a64111d856a4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Curren$y Digital Collectibles",
+        "symbol": "CDC",
+        "originTokenAddress": "0xfc7380e9c58b4ce947a33550a7a41443b0d9a554",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xad0451b1f3c377cf028adce97fef86f2ed3586c0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "(Big Fat Sexy Collectible Card Experience",
+        "symbol": "BFSCCE",
+        "originTokenAddress": "0x3aea38f10abfa50b11a5cb0459cf277cff4359ea",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x53ac5ed41bfe023c8b0ee5c80380d19756af7df9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CLOUT TOKEN",
+        "symbol": "CLOUT",
+        "originTokenAddress": "0x51f7c0b2df00ac2c40275acb1263c130d25fb751",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa126825c12860079d27b3cdf2c53fb485cda54e0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Maverick",
+        "symbol": "MAV",
+        "originTokenAddress": "0xf37e6ebd1cdc07b4d2ed6cb867beee33534e34de",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1fdcf478aaa90ff95d01b751b056ca4781c38bfa",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "6ix9ine Digital Collection",
+        "symbol": "69DC",
+        "originTokenAddress": "0x205e0bb234dcbd94469683e7155dbc7c27f26a57",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "$Morgan Heritage Digital Collectibles",
+        "symbol": "MHDC",
+        "originTokenAddress": "0xc9152cde98420fbe297c3952adc01b90e31ee0aa",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x527af97bd6c855f64735c70815377c643347935b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MurAll L2",
+        "symbol": "L2MURALL",
+        "originTokenAddress": "0x125d9e25d4ae2dcfa43d9303d3e549b8a6f2ba42",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xffbce889d62f6c73f005b836255ad69b0a01b222",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Artvatars",
+        "symbol": "ARTV",
+        "originTokenAddress": "0x40f788f3d0b6fe9a3a7514d9bfaeda5689b08eb5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbccaa7acb552a2c7eb27c7eb77c2cc99580735b9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ProjectA",
+        "symbol": "PJA",
+        "originTokenAddress": "0xf00779d5f8560bed2740e30ceb789651bdff3197",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8eb4c48df554727bd58134e9e09a04fcc5528e85",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Sandbox's LANDs",
+        "symbol": "LAND",
+        "originTokenAddress": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x10d10bd7fcf71efd8f9238a580292ac3f058ea95",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GFarmNFT V2 Type 4",
+        "symbol": "GFARM2NFT4",
+        "originTokenAddress": "0xe5fa95e5b505452680072600f5a751010abe4377",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x02e2c5825c1a3b69c0417706dbe1327c2af3e6c2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GFarmNFT V2 Type 2",
+        "symbol": "GFARM2NFT2",
+        "originTokenAddress": "0x580d1938074d48c34f2e2d1371af0bf02ac44701",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x77cd42b925e1a82f41d852d6be727cfc88fddbbc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GFarmNFT V2 Type 1",
+        "symbol": "GFARM2NFT1",
+        "originTokenAddress": "0x2ac9e0171838877f3f37cdd7076b83523a294140",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf9a4c522e327935bd1f5a338c121e14e4cc1f898",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GFarmNFT V2 Type 3",
+        "symbol": "GFARM2NFT3",
+        "originTokenAddress": "0xa443693255966f83e9ae6c6132858ccdf2f3ca50",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3378ad81d09de23725ee9b9270635c97ed601921",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BoughtThe.top NFT",
+        "symbol": "BTT",
+        "originTokenAddress": "0x7574a85ec062d26092a72441dbc88269d1c70d90",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x386d661252e4bebab2fd9683538905e4eb0cd0de",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GFarmNFT V2 Type 5",
+        "symbol": "GFARM2NFT5",
+        "originTokenAddress": "0xae3bc89bc71ca243a275a06ba0708cd166d31155",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2d266a94469d05c9e06d52a4d0d9c23b157767c2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CryptoKitties",
+        "symbol": "CK",
+        "originTokenAddress": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7183688c9d484ac0324bfa5f20a8408bd26011f5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x6e5352afe4b7cc4a2b62bec8e68d31d014d62096",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6828cf2734870d4ebca1508acf3b3405309776de",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "dThe Carbon Drop by Fvckrender,beeple,GMUNK,Sara Ludy,Refik Anadol,Kyle Gordon,and Mieke Marple",
+        "symbol": "OTHECARBONDROPBYFVCKRENDERBEEPLEGMUNKSARALUDYREFIKANADOLKYLEGORDONANDMIEKEMARPLE",
+        "originTokenAddress": "0x0151834a6997f89eb8372ac54ac077d79bb4d1e0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd708b7a6e1db65adb5e311ec0ee567c83eb57d95",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "!Club Hexagon Digital Collectibles",
+        "symbol": "HEX",
+        "originTokenAddress": "0x0295f7faf5ffaa756b97ad31e6f48c43df5fef4b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfc1a916540e3ed15281789529091294f5278dcad",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DigitalaxMaterials",
+        "symbol": "DXM",
+        "originTokenAddress": "0xe6822e8b4d91b85f9ca00cca79bf92bab14bc221",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9f0a468aea1e0f080fb7c9f3e1f9774d1bfaf821",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Logan Paul Digital Collectibles",
+        "symbol": "LPDC",
+        "originTokenAddress": "0xa54574b127318896c9fb2653262ac32091af9ee2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1fdcf478aaa90ff95d01b751b056ca4781c38bfa",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Non-Fungible Yearn",
+        "symbol": "NFY",
+        "originTokenAddress": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0119fd9592d7acea88c9b0d04b794a82bed06dd5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CryptoSkulls",
+        "symbol": "CryptoSkulls",
+        "originTokenAddress": "0xc1caf0c19a8ac28c41fe59ba6c754e4b9bd54de9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd5a5ddd6f4e7d839db2978e8a4ee9923ac088cb3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Maverick",
+        "symbol": "MAV",
+        "originTokenAddress": "0x0c69326bea87398a12be5d3224bd37ac64b30b76",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x39246c0687ddc1b12f1c86dabc5d246d83c72d87",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BCCG",
+        "symbol": "BCCG",
+        "originTokenAddress": "0x8280d56ac92b5bff058d60c99932fdecdcc9441a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1d1fb628ee4a40d08f8c4b3696030e7aa56daddb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BCCG",
+        "symbol": "BCCG",
+        "originTokenAddress": "0xe3782b8688ad2b0d5ba42842d400f7adf310f88d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe71dad70283cf75654f29f0a708bdc30da848397",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PolkaPets Base Set",
+        "symbol": "PPBS",
+        "originTokenAddress": "0xba8cdaa1c4c294ad634ab3c6ee0fa82d0a019727",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd320856373a76fe1f5529b2a97cb486f44f3e247",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "dokidoki.momiji",
+        "symbol": "MOMIJI",
+        "originTokenAddress": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2d0d9b4075e231bff33141d69df49ffcf3be7642",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DeFi of Thrones",
+        "symbol": "DoTxNFT",
+        "originTokenAddress": "0x016cd7b70373a58a0e27051e089d7f02bfcd8127",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0140652ffa3b027505bdc3407e96825225584939",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Meme Ltd.",
+        "symbol": "MEMES",
+        "originTokenAddress": "0xe4605d46fd0b3f8329d936a8b258d69276cba264",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xec02799cf8ee0e975ad4f2054bc9e98edb250702",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "cometh spaceships",
+        "symbol": "SPACESHIP",
+        "originTokenAddress": "0xbcd4f1ecff4318e7a0c791c7728f3830db506c71",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x85bc2e8aaad5dbc347db49ea45d95486279ed918",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Drakons",
+        "symbol": "DRKNS",
+        "originTokenAddress": "0x989e1fb123b67afd66e10574c8b409bc6e812d9a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x449a061985915a333473a7ccf5114313c50bd04e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PepemonFactory",
+        "symbol": "PEPEMON",
+        "originTokenAddress": "0xcb6768a968440187157cfe13b67cac82ef6cc5a4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x396992c9294e3cf23e72b3f05815d7bcd250542b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Spells of Genesis Askian Card",
+        "symbol": "SOG",
+        "originTokenAddress": "0x9227a3d959654c8004fa77dffc380ec40880fff6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7f43a00b12f00876cbeefaf7640ef5f0cdedf24e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x0c1b6edefaa928721faad77f5a15258378c99b96",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd841b4a74867a4e92c1627c8f99a717d0795e039",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "InStarToken",
+        "symbol": "IST",
+        "originTokenAddress": "0x543ecfb0d28fa40d639494957e7cba52460f490e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbd0fbd0ec1a20b05ebe590340b9eb1c11fc312ce",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Gods Unchained",
+        "symbol": "GODS",
+        "originTokenAddress": "0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x439b161307afc4a4f1b5fa6a21ca689e081cd322",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x4dac41281702dae7ee14a8bb95d78d6c32fd68f4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa724c55580a0f716e6a65a4ac1774712f5f709d6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Emblem Vault V4",
+        "symbol": "Emblem.pro",
+        "originTokenAddress": "0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9d170170fe5731bb70eeae41a353d3520087de74",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa0c68c638235ee32657e8f720a23cec1bfc77c77",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BLOCKLORDS",
+        "symbol": "LORD",
+        "originTokenAddress": "0x2c04e6dd23c33a66f58dfb79dfb15285336c92d0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1ff58e665531953a3c667e2d831586777fe4be31",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Dummy ERC721",
+        "symbol": "DERC721",
+        "originTokenAddress": "0x71b821aa52a49f32eed535fca6eb5aa130085978",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6ebeac13f6403d19c95b6b75008b12fd21a93aab",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Dummy Mintable ERC721",
+        "symbol": "DMERC721",
+        "originTokenAddress": "0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd4888fab8bd39a663b63161f5ee1eae31a25b653",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ERC721-Test137",
+        "symbol": "ERC721-Test137",
+        "originTokenAddress": "0x96cddf45c0cd9a59876a2a29029d7c54f6e54ad3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa35363cff92980f8268299d0132d5f45834a9527",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OrbCity District",
+        "symbol": "OCDT",
+        "originTokenAddress": "0x4ae7341c0008d4ba02c01a39fda709a5a1c7c184",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xefd33f6b372d08826c444ba79761782278901e10",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Nibbles",
+        "symbol": "NIBBLES",
+        "originTokenAddress": "0x3eca1fe779bb0843e13dc7d4f5cb8e043328bc4c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xde9812c25f48e8de58d3805790e605343ed99fe4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xb39a59e3a524bdd8f0e6a4f9b4508155838795f7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xcaa00463aaedcaa58822810053b206b683049cb6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CHERR.IO",
+        "symbol": "CHR",
+        "decimals": 18,
+        "originTokenAddress": "0x385fe0597fb60c281b54955e7d15c07578ce745b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfcfe798dfb904f096c8e010f1254710e17af1f81",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "HelloGhost",
+        "symbol": "HLG",
+        "decimals": 18,
+        "originTokenAddress": "0x5f01a337b61bbca53d45c8966e403d0bd8a06f1f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfbd665a542c0daa940a8888cfacddbb822776def",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Moonray_MiiumHero_Alpha",
+        "symbol": "MNRY_MH_1",
+        "decimals": 0,
+        "originTokenAddress": "0x1b09d57b0c92c6cdec9237cac36f7e1713556e5b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1054ead24f2a99cac82941ef2bd37f7cc5fa50bb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MoonrayTheFoundationCollection",
+        "symbol": "MNRYTFC",
+        "decimals": 0,
+        "originTokenAddress": "0xa178a73f6e215531047d3486f8edc68d14548f6b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xed91f5ce824370f0aa5588274ce4e878de64f630",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Moonray_MiiumChampion_Gamma",
+        "symbol": "MNRY_MC_3",
+        "decimals": 0,
+        "originTokenAddress": "0x0ddd3d6b8015c74922df22e95e2c4be4e1e1e0bc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4897e25953a8b6e2c1625ba9597237121aaac90e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "New Nft Opensea",
+        "symbol": "OPMNY",
+        "decimals": 0,
+        "originTokenAddress": "0xc4ec427c7e4386da49b752784c0b487099207791",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc0e304ea3b7cd9669ed6775e7b25fee856ec45f2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Drago",
+        "symbol": "DRG",
+        "originTokenAddress": "0xab226c1d6a4362423405816851748f1f866f5583",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6accfc4c805a4797b20cea8b8cadddb445e0c135",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Mocaverse",
+        "symbol": "MOCA",
+        "originTokenAddress": "0x59325733eb952a92e069c87f0a6168b29e80627f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x47926a9f87f35144864d6d5d8e8e8b5325e439e7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "FundedNFT",
+        "symbol": "FUNDED",
+        "originTokenAddress": "0xdf281dc5dc7bf52221dbdafe745b04aaf4ce6608",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc94942bb3c4deef8be0f12053af1667f31055409",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Charged Particles - Lepton2",
+        "symbol": "LEPTON2",
+        "originTokenAddress": "0x486d300faeb34c5a20d53bb9fae9eda7858a365c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1f2ad7be1422390293b054c843248fd795501e48",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Charged Particles - Lepton2",
+        "symbol": "LEPTON2",
+        "originTokenAddress": "0x3cd2410eaa9c2dce50af6ccab72dc93879a09c1f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe349557325164577ded350a8cab03159c728b9e7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OnemliHaliYikama",
+        "symbol": "ALY",
+        "originTokenAddress": "0x6824c568aeb2652aadf36fc12af5606b8bcee5ac",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe3b3b689c14e60e86f366f09467c0b973ac1b75c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "$adidas Originals:Into the Metaverse",
+        "symbol": "ADI",
+        "originTokenAddress": "0x28472a58a490c5e09a238847f66a68a47cc76f0f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x31bc4c4ada0afe1df1c4f7d5efc6376605315922",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "TruStake MATIC Vault Shares",
+        "symbol": "TruMATIC",
+        "decimals": 18,
+        "originTokenAddress": "0x6ba703406bc530d7e160f2b25a253e21d1de5ad9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xca2443391dd5b73dc0264af8fa71f312d9784c43",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "TruStake MATIC Vault Shares",
+        "symbol": "TruMATIC",
+        "decimals": 18,
+        "originTokenAddress": "0x0ee0f1e438e4f0d8e3aa8d1f35592aa5303863a4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfe4e02555ef9f74d19c7f536d229661eb3a727c2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NibblTestNFT",
+        "symbol": "NTNFT",
+        "originTokenAddress": "0xb09d9de106767e7a3ffb95ee852122f558f73f9f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2fb6efc98978a328f089cd28630f0e1465052d20",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x2c0efd5a411d6e851d95c403e17c13d1c6f3ad21",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x379df36a97746d1e424ea5dbd331927a2b87235d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Sappy Seals",
+        "symbol": "SAPS",
+        "originTokenAddress": "0x364c828ee171616a39897688a831c2499ad972ec",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4078bfb32e1cac6bc2bf85ba718a165c92d3667e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PILOT",
+        "symbol": "PILOT",
+        "originTokenAddress": "0xd653b9f4ec70658402b9634e7e0eafcc64138cad",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7f1417dfbb4ffd668bb5a2475d6faad8ee9f5d62",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "The Dori Samurai",
+        "symbol": "DORI",
+        "originTokenAddress": "0x6d9c17bc83a416bb992ccc671bebd98d7a76cfc3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x28d30090a0b2ff09f0159783945a3e52a7ddcd97",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x1c307f79cb0d99ab44107ca3ca966d101b002120",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xff3a7f00ff5f42850dd44736a466513109c2a310",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CBZ Cornerboyz",
+        "symbol": "CBZ Cornerboyz",
+        "originTokenAddress": "0x85be9de7a369850a964616a2c04d79000d168dea",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xccde08203ca707124ce29da0408613788b630e32",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "AltJames",
+        "symbol": "Jalt2",
+        "originTokenAddress": "0x7fef9c9fc42dcd152cfe9fdcd3fc323cfd847208",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x375a04f1b435ac3db037705b0f00ddd9ae77a0aa",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DigitalaxGenesis",
+        "symbol": "DXG",
+        "originTokenAddress": "0x89505d2a27b7e8ac56252081d721ecd525e4241e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd9061f16a586027ee87d31fef8605ccbcd43ddee",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "RivermenScrolls",
+        "symbol": "RS",
+        "originTokenAddress": "0x3888661f6830da8f12e0a25ca63dc1eeb306e902",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbd278c9fe39bf3410b791357f0766a38bb133618",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "FINAL_ERC721_2",
+        "symbol": "F7212",
+        "originTokenAddress": "0x579b5bfa4c2f4cc608bfc933e77bfe46e15e0674",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbae130504f1094f5a034b0ef9096bd6eb256528e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x41a6d923686796028ad1e6b1966d8cabd498d733",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xeceaef56d29f9bdc6c93d4b4c41fb58ac40ead77",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "FINAL_ERC721_1",
+        "symbol": "F7211",
+        "originTokenAddress": "0x3988d0e14097643f655b8ac96a433977e6d9732a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xdbdebd95b5e0eb31109306fc8d69628d9f68caf7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "NO_NAME",
+        "symbol": "NO_SYMBOL",
+        "originTokenAddress": "0x27b7712571359449c7f593fe3f71c0b46ed2a71c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc1155"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x257b036e4c6f40f75c139a21c41edde89e2ef2c6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc1155"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Alpha Girl Club",
+        "symbol": "AGC",
+        "originTokenAddress": "0x8c5029957bf42c61d19a29075dc4e00b626e5022",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x10557ec6e6e59e818c73c2b7a3b42848efb40d02",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CropBytes",
+        "symbol": "CBX",
+        "decimals": 18,
+        "originTokenAddress": "0x37fc4b48ce93469dbea9918468993c735049642a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4891ab22a37465fe0a6c43243adea9fc21e90095",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Liip",
+        "symbol": "Liip",
+        "decimals": 18,
+        "originTokenAddress": "0x5f1e9acbcca96f46c4f46c0db251e8c63a142fbc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1871a27ec6666ad5c98da5b6f60518efe47a0889",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Aussie Dollar Token",
+        "symbol": "AUDX",
+        "decimals": 18,
+        "originTokenAddress": "0xd687759f35bb747a29246a4b9495c8f52c49e00c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x15863af3fdfd2ff3c9090c50336dae394dd9d2d0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "AgoraHub",
+        "symbol": "AGA",
+        "decimals": 18,
+        "originTokenAddress": "0x87b46212e805a3998b7e8077e9019c90759ea88c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x87dad544a9c6468480495b8a9ce8f711fc28252f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Cros Token",
+        "symbol": "CROS",
+        "decimals": 18,
+        "originTokenAddress": "0x5a59dd979754b09ea686ce93c98d4ce8bdcb43f2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x70e05a930bab8c3bf24b2b182af3f857d19377ef",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Astrinea Global Gold",
+        "symbol": "ASTGG",
+        "decimals": 18,
+        "originTokenAddress": "0x03787e502cc8e5dbdc0d4b44f888802719dc5165",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x09d1350262f01abab01826ec34d29740a584dd1c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "edeXa",
+        "symbol": "EDX",
+        "decimals": 18,
+        "originTokenAddress": "0xc114678c6e4654d041b2006c90f08478b444c4e2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe5029d009b4facf01bd4a7b67ef38bedec1ffb32",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GRANADA GROUNDS X",
+        "symbol": "GgX",
+        "decimals": 18,
+        "originTokenAddress": "0x814297bcd9dd8fd61e0526c527359e8545b99ddc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd7c8077ae454b81c451f52b01d53dc4a6b23312f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OPENLOOT",
+        "symbol": "OL",
+        "decimals": 18,
+        "originTokenAddress": "0x1f57da732a77636d913c9a75d685b26cc85dcc3a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9069ed834f5522ef1957aef8069e01ab7f2ce78f",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
