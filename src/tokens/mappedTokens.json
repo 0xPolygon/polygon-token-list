@@ -70226,5 +70226,173 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Mock WBTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "originTokenAddress": "0xd67a804510739c33c578162a26324c83dcfc0a0a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2c0df0d612e21ab47382e85856410a91c91356d0",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Mock USDS",
+        "symbol": "USDS",
+        "decimals": 18,
+        "originTokenAddress": "0xfc7b006bded8e5d4a55fbac7a91daf3753f085cd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfb628feb2e12520819b6290ea242b0789b87615d",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Mock USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originTokenAddress": "0x18fda3c97ea92a04d1636d84948624b414d0058e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1b1776134e02dd0675e49993d5b7a433944c53d5",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Mock USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0x2b9ca0a8c773bb1b92a3ddae9f882fd14457dacc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe32fc2ed67c47653f4d596c2fc7f993f49348cdb",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "originTokenAddress": "0xff34b3d4aee8ddcd6f9afffb6fe49bd371b8a357",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9467179320ecb245cde0306b3fe6223f2b38f8a1",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Mock USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originTokenAddress": "0x04ba50542441e008b62a5e844d03084f2a7cdd96",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfbf55c3bd9dae50862d22c4e35527b5e88bb9759",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "originTokenAddress": "0x29f2d40b0605204364af54ec677bd022da425d03",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3c3d2f57147d4fd5c98a7243d00ef0473a00a2f7",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0x7b79995e5f793a07bc00c21412e50ecae098e7f9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x33a20525c1bc40ecea620937cdf82ad326f14ea1",
+                "wrappedNetworkId": 29,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
