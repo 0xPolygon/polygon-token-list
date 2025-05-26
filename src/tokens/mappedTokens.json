@@ -65197,5 +65197,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "KARMA Game Token",
+        "symbol": "KARMA",
+        "decimals": "18",
+        "originTokenAddress": "0x618db3402f94b0f0fa9ea2ca0ac17991282001c9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1c9d4de95c0d60cd8def15608892c82082b64ed9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
