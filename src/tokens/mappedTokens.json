@@ -47155,27 +47155,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "decimals": 0,
-        "originTokenAddress": "0xf042075ad88af3c5b9fbfbfcd9d4deace0b8543e",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xf042075ad88af3c5b9fbfbfcd9d4deace0b8543e",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "PowerFan",
         "symbol": "PFAN",
         "decimals": 18,
@@ -48195,27 +48174,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x1386e8ba65dfad31f51b285ede77ed526dd0581e",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "decimals": 0,
-        "originTokenAddress": "0x7ebaa895e524d5646e7a5b686c47989b3b17aa5f",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xd343a4e4f5846d559b992163333227232cfe64cf",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
@@ -56316,55 +56274,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "decimals": 0,
-        "originTokenAddress": "0x0000000000000000000000000000000000000000",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xbcc7f67d1696fda9c66e9b2538d0b770090c3c10",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "decimals": 0,
-        "originTokenAddress": "0xb590c2a26ee8663bb584d0e5b74b1631cca23720",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Vabble",
         "symbol": "VAB",
         "decimals": 18,
@@ -59495,26 +59404,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xf2933422dc53eb01a712589c9ab55e6fc5a669a1",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x0f28954ba506f2a350d3b27d26fad660e2fee267",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Pirate",
         "symbol": "PIRATE",
         "originTokenAddress": "0x31fe9d95dde43cf9893b76160f63521a9e3d26b0",
@@ -59569,26 +59458,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xc11adeaa18dbbac23b4de0e4c7ade86346c484d1",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x7bced7c26d92ccf9a11708064559f51bd4d4c1ae",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "fx",
-                    "erc1155"
                 ]
             }
         ]
@@ -59715,26 +59584,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x201d77a2ebb8dc233fca1e8d21787336c8ac9bd8",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xe1e033ca13211adadbe2ccaa0d27499a88c62b10",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "fx",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Delhi",
         "symbol": "DEL",
         "originTokenAddress": "0x400fff733ee9c93dea90dbf17c3cee57417e5d50",
@@ -59749,46 +59598,6 @@
                 "tags": [
                     "fx",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xfe5aef9e91c86ee01b1542d942a1635bc5ed96e0",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xb5442effa5d68d3caf188bf4780dbb65c152adc9",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x56f129b90d36709c0a20d92a00135fffa0d68694",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x64a70ec518964d3790b9662776bf212662953aa2",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "fx",
-                    "erc1155"
                 ]
             }
         ]
@@ -59829,26 +59638,6 @@
                 "tags": [
                     "fx",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xb56c3a43d322c90fe1930a1551ce778e563eb42b",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xe67df5febd919e49bb57a9c1a0d138570facefa5",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "fx",
-                    "erc1155"
                 ]
             }
         ]
@@ -59909,26 +59698,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x3848ca9f99068455c0a4cda0cb71dcf94df56cc2",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x268166c237f6d7a061157891a3e2183c943e5f87",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -60043,26 +59812,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x42775d4be2acb9e1cf653684687bd4ea244f5f8f",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x2f7e0a670f8bba20b245b224924f4b95205064e1",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "NibblNFT",
         "symbol": "NIBBL",
         "originTokenAddress": "0x41fb4d352ed6fe97b3b74f2f9545ff9eeb74e0e8",
@@ -60117,46 +59866,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xc6cef0fcd9ade5b60c25b14e46a47bd48d4c397f",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x08bbe53cd50b8f03296e59b7fd4aea325546921a",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x46b52267a6aadf7e1a519eb5143188c3ade37190",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xc44a7982ada19b3f5b90706acd3a0732babf56c4",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -60397,26 +60106,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xe6b68127f4270df2450464c8e0689b6859eee652",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x5a473fcb983239bc277ed2ed8b2e3c30144a97cb",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -60763,26 +60452,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xdd6e7ff87ce5e19f7856280a24f1eec612947248",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x7cbccc4a1576d7a05eb6f6286206596bcbee14ac",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "THE MYSTIC ENTS",
         "symbol": "TME",
         "originTokenAddress": "0x8edab87f1e63e4266e4e17c5f5dba243aab2294a",
@@ -60897,26 +60566,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xf117593e01d376ca95035a7596171311a5616d11",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x107f4498f99736e2747e692732635c2c70bf1387",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -61131,26 +60780,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xb2469a7dd9e154c97b99b33e88196f7024f2979e",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x476f047622dadb0c32f848d3c86699a09453668a",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Valorem",
         "symbol": "VFNFT",
         "originTokenAddress": "0x2909abf857dc69ee29c7f199254285161f14e0b4",
@@ -61225,26 +60854,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x3a8b5cbdd84d24967fb125e57fde62912da3b171",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x6ddcc90614d47acd7596447686c4fd6aee782742",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -61451,46 +61060,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x12b119f8a9ec89ab92236205b01d6579bb0e3e7b",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xb19dd661f076998e3b0456935092a233e12c2280",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xd37056611ae6abe2c86aaa9dec4044e354209276",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x004ee99fd804466eb4db6985156bd980f5fb482d",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "OpenSea Shared Storefront",
         "symbol": "OPENSTORE",
         "originTokenAddress": "0x495f947276749ce646f68ac8c248420045cb7b5e",
@@ -61671,66 +61240,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x32b02ebafcb5781460d15a0244169f6d84eec887",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xe73358aebb3b6f57d91de4f591f6a235cf727bd9",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x3afe3de67894fcd578eb492d1a74d13327b41aae",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xec8883608adbf19bde7dfde043898e2f6bd12b23",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x628a5237e5f282d32b40477234a23ca675d2d303",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x28b0f48636c86ee7524be43492a3eb76d46c1e37",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Origin Polygon Test",
         "symbol": "CRAZYBUSTER",
         "originTokenAddress": "0x0e5e1cebaab24f47cd8f8537ca5454aeb9bbefd2",
@@ -61745,66 +61254,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x3df25f701c97f8f95590c8dd7b0ce34d61e3b590",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x67e0484161976a7ce4575aa2a1cdaca0a6912e77",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x912ba2984910f9e3576df76ccbbba3b8e8b1dd97",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x8c118ee5e1e9a8d8adc717e9522b646d416b0f52",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x20e9e39d17f1746737e52325d67870102cbe1adf",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x466a9b5092459a555fce3595af087ce372480055",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -61921,26 +61370,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0xacbc1f543c51028f4f6a01091bda3dfe16067604",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x9ef27de616154ff8b38893c59522b69c7ba8a81c",
-        "originNetworkId": 0,
-        "tags": [
-            "erc721"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x8a224e90ed0ae959584703ff81e35f04a93529d4",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
@@ -62071,886 +61500,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xd75e416493029702de5eeeef604936b01654d6f0",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x55089dfc0cb7c92bef8693a3220366fe7a7d477a",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x1288c1539cfb247b8cdc1bce57796f1277ab3588",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xe3f2b6a8e761fb58f03a955a83ad8f638accaf07",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xa5e77e7018cc34aa17191942eafec52dee9dfca9",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x7d5c0324185ee991e0df613c7011ec7d857ea23f",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x5650c9649a77228e32bf2906d874716cf6a21374",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x122993243c592971275d8eceb8f073d98dad43cb",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x81ffc95a0773af5e0e29c78c1974e14bbbf55f18",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x4299df6df2ac4365e04e01dd1883b9b91599e1a4",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x9d2b0a0ea55df2e6bbe8056206440995d20f3171",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xf313982cc68cc8f432b2133e94bf536d8b7fcdc3",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xd495255ca4a7f0f0dcd1d53f662607764558a5c6",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xcd94ac0da2d5298063d85246d14f02cd3710794c",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x6bc02773e39a2c763d81481edc7c0d4fe992b85c",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x6cc63d0e9d47471e4c0a89768afe39e4af46b4d3",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xe2c6dc6520fc2857f9adf3abf9cdd7229b404d2a",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x35e23ebadec00f35fa6dace45d4e3bf71669fe0d",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xa8e4459a64e368880eec620b7ab1caa1a297be21",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x8a1d5a9b3f21580653c0d06990d369cc0744727c",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x9b56b89e5d45ea4abe8565423790544f83a480fc",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x1e08d5494e366bbb679ceef181f712730626544b",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xd320cf5dae1559731ed88193d6bc835a4f3a0f8e",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xe6b500c01c6124f874b3837ee494839b5cd490b8",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xc0dbd4b2bea1e72af989a7e775781024c031668a",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xab8a11f79556e3c7101594fbee5a4f3c0b9c96be",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x8c08b529b9ca49ee2ff4750cc5294c4c07f0645d",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x87a1c5a7c268c50ce016df080fd8159008cecd35",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x015efddc623337e1dff5ff8339167a8e37138850",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x4bebddbc44ae61455c14292bbc59410c36afb045",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x917f76e11dcb455a4cfdbefc8e2f62217f65405c",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xae24db107cfba217f9ded88a64afe710d546f840",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xaf016b5708f013e3c4b7cfa8b2ec43021465fa28",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xbb4eead1a005d970ae4afdec38a4f99308813d90",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xe60ab5b3c356abab07678a4fa59c26069b69da2b",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x7de8ed4a0b6cf963e3289dde212beea016588be5",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xa767258a27b99cf6ad0409690258a75eac0100a1",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x8a7b7c1c85a8319646dc7aa02f632b24a30b3719",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x44d72a93dcbcce8c000c477999b95b24c8daf818",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xfe6746c930f075624649304e6907154e5b24998e",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x0c0aecc3e0e152c4db8d741e303df1988a4fb4b3",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xebed6b7a6f6cfb703261bc2589c0b1358848f03a",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x542aec94a252e046e5c39fafdca19bce62d2193b",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x42d77109b2f9b0c445bf1a36d4c7dad14da07d89",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x95e6c5012c538054d5f2f88060d0b1e9a3159230",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x4dc702a26208e362f24c3f4213b4a29663f7505a",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xf98b8651c6957715c8bb95dc07ee3189c03b3eff",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa7ec627398483c29ee9b52532be17d5bdfe1b560",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x3ef4cbe2d16420dea700acd6cfd05954fd5ddd3c",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x5ff1afa340525062c88b8d0f197c9af935ef0d45",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x1b7f1f63d284ff264c97f1f2426b74119fecc3b1",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x44bd108529cd3afc8454f1295ca98cf7537a4565",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xc3ea52d903692814d6dbf043cba015975043560f",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x73c5e52eea9a1e41760acde2e6f8e654ea9e32f6",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xde88396d523ec2e6ed82b01b254da092b65c03af",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa08c8047bac7fe41d11ea6d2a63e3fb375a22aed",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xe191d9629b46e132c3cb9cca9427904c91035943",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x0d17bb30f996044bb34d0671002f447abb58f563",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x34d465653db345ec9b338528c655ad68afc6d9db",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x27169d5c027f0f27cd8f993d6964fb563de41a5c",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xaf1b9e46935587b08ecf242234111c1e919b763f",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x3243a48452cc36c5b9eb339c0368d17d21fed7cd",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x56e0a0d0c8ebb29a3db38b52de9e9dc71781ffe0",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xafa8b9f81deeec508d0e4d9017895b17dbae9042",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x4e0dfd74857e9eebbdf332727d30818a0ae13e2c",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xd56dc214c7a0e0c52bd0a01b5d9bce1a72ec0c8d",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x78c127d9451e2361d42f09fe2996bae1c70686d0",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xe0b90132c1dd6138263c609242e6442b259794ab",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x6f60a2855ddf15c5f9f204f83ba7a7d4061285a7",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x9b9d4515bd653194b2422cd7d953b5c07d4e8cb6",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xb0ec56162be68d03e9b7036aa8c3074201a71203",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xfb09db1d8eddf8b6a5187a038c59718206b3b9bd",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x02e6a16d99ca2e08583da3861240890efc302755",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x44eb4658fe99d95ba4e79c9cd9f01babddf7d432",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x6ecf3c08102c9d81afd579635a806b94d454dd63",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xc292c0fd4eac2bb3d02a2a05b4c717567a8b1a54",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xafd8ca3ddc9b196a834ea82c0b4573946450bd67",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa9d9e57e4da4229e3c20db96a17bcb08af456aa8",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x4cf948cd32716b34b016d4ae0c44e9895d3afb1b",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x08639bfe97f0d2eb5e224ea498f22aadb0867d1e",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x42c13ede08ce59c54c0a4c8318be18d284b5c097",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xfe02b82fedd4ba35ddaaa0e965c7a050a3d646b4",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xe3da41cd7d644129920b06a92cdda4fda7beaaf3",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x613d144d38aba838fff77daea6875cafd71b6ac8",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x05b96092c0b81847fc9ce583512792b6ade0e14f",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x354b107725cb9b042854b57815792c13f69f05dc",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x141042c1e0c1e60bcd649412072df4aa670dd2fb",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x7efc872ee96a9798edcc2dbc48f3d25a0306d697",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "VoxoDeus",
         "symbol": "VXO",
         "originTokenAddress": "0xafba8c6b3875868a90e5055e791213258a9fe7a7",
@@ -62965,66 +61514,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xc3b92420b3f762ffcaf3686358d98bdca6bf49ea",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xb9aee1ad85bed213b53329f060a13328eb26b7a0",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xef163692de9445135eef1dcd367933f963216921",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xee708d44ac1b2dc1d4df3c09e29abdf8b4e7ca2d",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x44e52194ceef1c00198418ce0238dec7d217e12e",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x3f989ec5b34489b661d54570e2482a2adc1eb647",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -63231,26 +61720,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xee650bc2951e44c1a8b700a0ede8416436965f01",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x767527b250c58a843eedd3224cdb65403dd274c6",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "MethodNFT",
         "symbol": "MTHDNFT",
         "originTokenAddress": "0xf52fbd056ed1f1ab01d4296fce136d6c0a2bbfaf",
@@ -63281,26 +61750,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x0197bd88d2534f56708517f7896e07bce054cbad",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0xc805658931f959abc01133aa13ff173769133512",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x7de01312c39fcade820e1a99c80325f53e8ac917",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
@@ -63791,26 +62240,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x6e5352afe4b7cc4a2b62bec8e68d31d014d62096",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x6828cf2734870d4ebca1508acf3b3405309776de",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "dThe Carbon Drop by Fvckrender,beeple,GMUNK,Sara Ludy,Refik Anadol,Kyle Gordon,and Mieke Marple",
         "symbol": "OTHECARBONDROPBYFVCKRENDERBEEPLEGMUNKSARALUDYREFIKANADOLKYLEGORDONANDMIEKEMARPLE",
         "originTokenAddress": "0x0151834a6997f89eb8372ac54ac077d79bb4d1e0",
@@ -64151,26 +62580,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x0c1b6edefaa928721faad77f5a15258378c99b96",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xd841b4a74867a4e92c1627c8f99a717d0795e039",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "InStarToken",
         "symbol": "IST",
         "originTokenAddress": "0x543ecfb0d28fa40d639494957e7cba52460f490e",
@@ -64211,26 +62620,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x4dac41281702dae7ee14a8bb95d78d6c32fd68f4",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa724c55580a0f716e6a65a4ac1774712f5f709d6",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Emblem Vault V4",
         "symbol": "Emblem.pro",
         "originTokenAddress": "0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab",
@@ -64245,26 +62634,6 @@
                 "tags": [
                     "pos",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa0c68c638235ee32657e8f720a23cec1bfc77c77",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc1155"
                 ]
             }
         ]
@@ -64735,26 +63104,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x2c0efd5a411d6e851d95c403e17c13d1c6f3ad21",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x379df36a97746d1e424ea5dbd331927a2b87235d",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "fx",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Sappy Seals",
         "symbol": "SAPS",
         "originTokenAddress": "0x364c828ee171616a39897688a831c2499ad972ec",
@@ -64931,26 +63280,6 @@
     },
     {
         "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x41a6d923686796028ad1e6b1966d8cabd498d733",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xeceaef56d29f9bdc6c93d4b4c41fb58ac40ead77",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "fx",
-                    "erc1155"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "FINAL_ERC721_1",
         "symbol": "F7211",
         "originTokenAddress": "0x3988d0e14097643f655b8ac96a433977e6d9732a",
@@ -64965,26 +63294,6 @@
                 "tags": [
                     "fx",
                     "erc721"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "NO_NAME",
-        "symbol": "NO_SYMBOL",
-        "originTokenAddress": "0x27b7712571359449c7f593fe3f71c0b46ed2a71c",
-        "originNetworkId": 0,
-        "tags": [
-            "erc1155"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x257b036e4c6f40f75c139a21c41edde89e2ef2c6",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "fx",
-                    "erc1155"
                 ]
             }
         ]
