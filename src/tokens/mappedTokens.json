@@ -69078,5 +69078,47 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "originTokenAddress": "0x44499312f493f62f2dfd3c6435ca3603ebfceeba",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x5ee025376797aa49a8b4d93ab1a900bf5da38a9e",
+                "wrappedNetworkId": 16,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "originTokenAddress": "0xe82b8c388e0bcf7c01d05b2ce678f6d012c9b7d9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x424717757fa4ee6b9fe85a706a4f5fb1b22c1859",
+                "wrappedNetworkId": 16,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
