@@ -58630,6 +58630,13 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x1d4af9f76e0ff818c040cb891df82135ea5ec382",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -69156,6 +69163,69 @@
             {
                 "wrappedTokenAddress": "0x8ca05a96c76660d3d910e45f075fc7697b41e11a",
                 "wrappedNetworkId": 7,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "pSTAKE Finance",
+        "symbol": "PSTAKE",
+        "decimals": 18,
+        "originTokenAddress": "0xfb5c6815ca3ac72ce9f5006869ae67f18bf77006",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x57e8536fc18d8b43d677eff1daf399cf37bbac48",
+                "wrappedNetworkId": 3,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Lambda",
+        "symbol": "LAMBDA",
+        "decimals": 18,
+        "originTokenAddress": "0xe701c284ed9de407da905d918d06dd94f0908c3a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x51b8b374a5c3c576d21835126c1b3e1a5e4677cc",
+                "wrappedNetworkId": 3,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Universal ETH",
+        "symbol": "uniETH",
+        "decimals": 18,
+        "originTokenAddress": "0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x99aefe6472844ac06a2c49990bbb5684333f2687",
+                "wrappedNetworkId": 3,
                 "tags": [
                     "lxly",
                     "erc20"
