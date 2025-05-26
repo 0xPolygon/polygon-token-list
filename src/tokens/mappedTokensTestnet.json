@@ -3291,5 +3291,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "ERC721-Testv4",
+        "symbol": "ERC721-Testv4",
+        "originTokenAddress": "0xfa08b72137ef907deb3f202a60efbc610d2f224b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x33fc58f12a56280503b04ac7911d1eceebce179c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
