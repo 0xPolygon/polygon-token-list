@@ -59236,5 +59236,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Decentralized Euro Protocol Share",
+        "symbol": "DEPS",
+        "decimals": 18,
+        "originTokenAddress": "0x103747924e74708139a9400e4ab4bea79fffa380",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9d74de101e2a54ad42198f37bdcce0a0160acacb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
