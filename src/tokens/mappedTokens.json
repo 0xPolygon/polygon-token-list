@@ -15026,6 +15026,13 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x6a811f58898b1e724e2478ff6ec35188c611a020",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -16432,6 +16439,13 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x225f9b55d6e3cc51ccf4cf806f198d3cc3192306",
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -39747,6 +39761,13 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xc8da210c263cf28dd3a231ea65700f127ccdb00a",
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -69114,6 +69135,27 @@
             {
                 "wrappedTokenAddress": "0x424717757fa4ee6b9fe85a706a4f5fb1b22c1859",
                 "wrappedNetworkId": 16,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Blur",
+        "symbol": "BLUR",
+        "decimals": 18,
+        "originTokenAddress": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8ca05a96c76660d3d910e45f075fc7697b41e11a",
+                "wrappedNetworkId": 7,
                 "tags": [
                     "lxly",
                     "erc20"
