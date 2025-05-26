@@ -59257,5 +59257,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "CoW Protocol Token",
+        "symbol": "COW",
+        "decimals": 18,
+        "originTokenAddress": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2f4efd3aa42e15a1ec6114547151b63ee5d39958",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
