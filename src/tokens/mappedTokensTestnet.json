@@ -15481,5 +15481,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "MEOW",
+        "symbol": "MEOW",
+        "decimals": 18,
+        "originTokenAddress": "0x6a80b630f455b8fd0cd63d0fde7c01028babc058",
+        "originNetworkId": 25,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x21676e21f18b2f5b463e171cd790799b5e353aa3",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
