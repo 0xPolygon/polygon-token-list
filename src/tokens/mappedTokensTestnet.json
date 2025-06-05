@@ -18489,5 +18489,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "BOB",
+        "symbol": "BOB",
+        "decimals": 18,
+        "originTokenAddress": "0xa723efb4419e11d3879f09f888188269e49d3c53",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbb93f40be79ba0deab861e98dda2d15355e840d3",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
