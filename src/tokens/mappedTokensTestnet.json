@@ -18929,5 +18929,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "John Coin",
+        "symbol": "JFH",
+        "decimals": 18,
+        "originTokenAddress": "0xc92aef5873d058a76685140f3328b0ded79733af",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9114fd2da4903fe657f9e433bea6fa6b10242949",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
