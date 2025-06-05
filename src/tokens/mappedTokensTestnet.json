@@ -18429,5 +18429,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "EGG",
+        "symbol": "EGG",
+        "decimals": 18,
+        "originTokenAddress": "0xa2fa9208fc28dfa86a5f64845c113aa2f10aa538",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfb9a4acd4ac1b1f5b42b23176b8aebcf308ee97c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
