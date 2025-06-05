@@ -18335,5 +18335,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "SHAAG",
+        "symbol": "SHAAG",
+        "decimals": 18,
+        "originTokenAddress": "0xf9f7013c2c9885c70274ec9bc2b122b587b84d43",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfe9a0f847725cb167ffdacbb0e04a2e37a627e26",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
