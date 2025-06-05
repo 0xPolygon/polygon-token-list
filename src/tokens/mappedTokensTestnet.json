@@ -19029,5 +19029,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "test",
+        "symbol": "",
+        "decimals": 18,
+        "originTokenAddress": "0x4603b6f5b693e42251a1f5abe75387145272390a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9f4d5c1136d5a12e2a8e6ac2d7d721d561315cf8",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
