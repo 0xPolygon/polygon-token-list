@@ -18382,5 +18382,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "AgoraHub",
+        "symbol": "AGA",
+        "decimals": 18,
+        "originTokenAddress": "0x34c73c7a232524e46a300728d27af9f73c2774a7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf3b76f64155cd299cda2a6edcaf4eeebbe1f5b23",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
