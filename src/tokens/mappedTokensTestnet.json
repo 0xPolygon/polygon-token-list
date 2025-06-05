@@ -18509,5 +18509,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "STAT",
+        "symbol": "STAT",
+        "decimals": 18,
+        "originTokenAddress": "0x7a90d9535326edf7cb7c7fdd410956992c4aa170",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa4c76b04020b0fb511ab4cfeb453813ad3375255",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
