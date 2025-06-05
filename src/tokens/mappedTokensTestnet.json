@@ -18355,5 +18355,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "HashKey EcoPoints",
+        "symbol": "HSK",
+        "decimals": 18,
+        "originTokenAddress": "0x31bdac8e4b897e470b70ebe286f94245baa793c2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf12b4f03a2a54359c52b855845a9326f6102783f",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
