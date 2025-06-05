@@ -13139,6 +13139,13 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x7251951c9b5635e2c90606315a51a06af2db1994",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
