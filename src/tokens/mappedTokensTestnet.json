@@ -19009,5 +19009,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Pol Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "originTokenAddress": "0x3de8b60edde7968200ae06f44e2050b7c27d746b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb2cae88dba512ff83767194fc72c56741ba7b6c0",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
