@@ -18949,5 +18949,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "TestToken",
+        "symbol": "TTK",
+        "decimals": 18,
+        "originTokenAddress": "0x4a0e544dd1d114af98ce96317e89ea992b1dc5fa",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb17600482ef67deb674226525123d01e85ec48df",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
