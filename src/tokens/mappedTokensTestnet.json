@@ -18409,5 +18409,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "SacOne",
+        "symbol": "SCOO",
+        "decimals": 18,
+        "originTokenAddress": "0x85f9b1b8333bd0cd8d10245603f4b83c4cc0212d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4b6e75694205dff28e062fd01f53cf49cf4ec918",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
