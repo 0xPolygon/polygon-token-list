@@ -18989,5 +18989,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originTokenAddress": "0x93c5d30a7509e60871b77a3548a5bd913334cd35",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf7fdb9d99ff104db82cc98dfd43602cca4bb7c90",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
