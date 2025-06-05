@@ -19049,5 +19049,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "AggLayer Test 1",
+        "symbol": "",
+        "decimals": 18,
+        "originTokenAddress": "0x17b8e3f5fa2585e73220de21bb3a0b57d8dee7b0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x85be04eddbe87db3c9c192c492e6a9c51706a7b5",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
