@@ -18569,5 +18569,45 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "A COIN",
+        "symbol": "ACO",
+        "decimals": 18,
+        "originTokenAddress": "0x6a3e518ad9db55397b3342b7d221c8ca24a6d9b5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6b4704c283fe9c7c83deac136e176497053f48db",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "A COIN",
+        "symbol": "ACO",
+        "decimals": 18,
+        "originTokenAddress": "0x133982d4cc2699cb7cb9e87117c53aff44257ca6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd73beb557cd3d5445b39ca8f562c2dfd6f57f9a1",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
