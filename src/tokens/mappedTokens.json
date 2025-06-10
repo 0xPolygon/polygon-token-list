@@ -70491,5 +70491,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 196,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2a7323a306fe2161d004570161f0daabea92d060",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
