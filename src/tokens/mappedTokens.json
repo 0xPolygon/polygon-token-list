@@ -70394,5 +70394,102 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 196,
+        "name": "USDA",
+        "symbol": "USDA",
+        "decimals": 18,
+        "originTokenAddress": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x79776f59a8ed7e2cb09f5288473bd5c0ec3ccf68",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 994873017,
+        "name": "Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0xdcb5227ea8e5fde0f761a55dc669ec09807e7c8b",
+        "originNetworkId": 7,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8d83b19a0de068e8dcc00296a516783930ac11f1",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DEV",
+        "symbol": "DEV",
+        "decimals": 18,
+        "originTokenAddress": "0xbaff8973df466a7f620068a53975311eb31e931c",
+        "originNetworkId": 14,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe915ff3febeb0165eb90481d96cdac7f6aad00b4",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0xe9cc37904875b459fa5d0fe37680d36f1ed55e38",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x62cde76fe374268ae1c19b79036eec57b4e8a1f7",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mother of Memes",
+        "symbol": "HAHA",
+        "decimals": 18,
+        "originTokenAddress": "0xa84dbe4602cbacfe8cd858fe910b88ba0e8b8b18",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa963c9bde333c9d88484117b1ec81d3196183ba2",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
