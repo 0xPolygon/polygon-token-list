@@ -70511,5 +70511,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "MyToken",
+        "symbol": "MTK",
+        "decimals": 18,
+        "originTokenAddress": "0x265d9a7b4815f96495f9feb4ae5ab71ce313a396",
+        "originNetworkId": 16,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa02da960be5980dd6f59011189c9315ceba3c295",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
