@@ -70537,5 +70537,47 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Astrinea Global Gold",
+        "symbol": "ASTGG",
+        "decimals": "18",
+        "originTokenAddress": "0xc263cbf038f13edf537e3cef2a20e391db2115a3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7e84b73c5804fa906c9aef298a0bc347c9cd8c72",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge ETH",
+        "symbol": "vbETH",
+        "decimals": "18",
+        "originTokenAddress": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb90ba84b367e3756052efea2f4122f19a625f072",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
