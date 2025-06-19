@@ -82,6 +82,11 @@
                 "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189",
                 "name": "USD Coin",
                 "symbol": "USDC.e"
+            },
+            {
+                "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
@@ -124,6 +129,11 @@
             {
                 "wrappedTokenAddress": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/pol.png"
@@ -176,25 +186,25 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
     },
     {
-      "chainId": 1,
-      "name": "LUMIA",
-      "symbol": "LUMIA",
-      "decimals": 18,
-      "originTokenAddress": "0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
-      "originNetworkId": 0,
-      "tags": ["erc20"],
-      "wrappedTokens": [
-        {
-          "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-          "wrappedNetworkId": 7,
-          "tags": ["lxly", "governanceToken"]
-        },
-        {
-          "wrappedTokenAddress": "0x23D559B5E2d2ba2De97E0868b2b9C64A2C668B15",
-          "tags": ["lxly", "erc20"]
-        }
-      ],
-      "logoURI": "https://assets.polygon.technology/tokenAssets/lumia.png"
+        "chainId": 1,
+        "name": "LUMIA",
+        "symbol": "LUMIA",
+        "decimals": 18,
+        "originTokenAddress": "0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 7,
+                "tags": ["lxly", "governanceToken"]
+            },
+            {
+                "wrappedTokenAddress": "0x23D559B5E2d2ba2De97E0868b2b9C64A2C668B15",
+                "tags": ["lxly", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lumia.png"
     },
     {
         "chainId": 1,
@@ -213,6 +223,11 @@
             {
                 "wrappedTokenAddress": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
@@ -267,6 +282,11 @@
             {
                 "wrappedTokenAddress": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xb33e43a3f276e8e75792b941bccc996ecb2c0bbd",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg"
@@ -704,6 +724,11 @@
             {
                 "wrappedTokenAddress": "0xc32cb86ae7921f45c0aa44f638d0ee8b67c98b98",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/sushi.svg"
@@ -2088,6 +2113,11 @@
             {
                 "wrappedTokenAddress": "0x14156b98a16b52beb3ba02ba6496a56c98a9959f",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x985a39b8dfaa7689b05e6e7bd1b2a66b8b5b1e4e",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://app.pop.network/images/icons/POP.svg"
