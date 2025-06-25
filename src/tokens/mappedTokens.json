@@ -95,6 +95,11 @@
                 "wrappedTokenAddress": "0x8ccc774ea1df42c8f768e17bd6d88c207508e044",
                 "wrappedNetworkId": -1,
                 "tags": ["fx", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
@@ -116,6 +121,11 @@
             {
                 "wrappedTokenAddress": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
@@ -217,6 +227,11 @@
             {
                 "wrappedTokenAddress": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xb33e43a3f276e8e75792b941bccc996ecb2c0bbd",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg"
@@ -259,6 +274,11 @@
             {
                 "wrappedTokenAddress": "0xc32cb86ae7921f45c0aa44f638d0ee8b67c98b98",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/sushi.svg"
@@ -6863,6 +6883,11 @@
                 "wrappedTokenAddress": "0xc5b57e9a1e7914fda753a88f24e5703e617ee50c",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x985a39b8dfaa7689b05e6e7bd1b2a66b8b5b1e4e",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://app.pop.network/images/icons/POP.svg"
@@ -18238,6 +18263,11 @@
                 "wrappedTokenAddress": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x0ef68c1ab3c83cf11f9546faba385e8a1bd38d74",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/woofy.svg"
@@ -26721,6 +26751,11 @@
                 "wrappedTokenAddress": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x476eacd417cd65421bd34fca054377658bb5e02b",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/yfi.svg"
@@ -37518,6 +37553,11 @@
             {
                 "wrappedTokenAddress": "0xb584516c8d90f133a48af5cc445cc5d924cf9863",
                 "tags": ["lxly", "erc20", "noDeposit", "noWithdraw"]
+            },
+            {
+                "wrappedTokenAddress": "0x815955d051c6262c16c720b19d735426254bec5b",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ]
     },
@@ -38561,6 +38601,11 @@
             {
                 "wrappedTokenAddress": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ]
     },
@@ -44773,5 +44818,133 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge USDC",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge ETH",
+        "symbol": "vbETH",
+        "decimals": 18,
+        "originTokenAddress": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge WBTC",
+        "symbol": "vbWBTC",
+        "decimals": 8,
+        "originTokenAddress": "0x2c24b57e2ccd1f273045af6a5f632504c432374f",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge USDS",
+        "symbol": "vbUSDS",
+        "decimals": 18,
+        "originTokenAddress": "0x3dd459de96f9c28e3a343b831cbdc2b93c8c4855",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "USDS Stablecoin",
+        "symbol": "USDS",
+        "decimals": 18,
+        "originTokenAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2134866886ce784fe2e0de819118e4d32b4be32c",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge USDT",
+        "symbol": "vbUSDT",
+        "decimals": 6,
+        "originTokenAddress": "0x6d4f9f9f8f0155509ecd6ac6c544ff27999845cc",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MizuUSD",
+        "symbol": "MizuUSD",
+        "decimals": 6,
+        "originTokenAddress": "0x030210b1b88825b311686c8174a4d087bffb7a9f",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x78b8b1ec97b406610b9a1d4128fbc55949a36d10",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Morpho Token",
+        "symbol": "MORPHO",
+        "decimals": 18,
+        "originTokenAddress": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
     }
 ]
