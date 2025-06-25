@@ -19108,5 +19108,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "LUA",
+        "symbol": "LUA",
+        "decimals": 18,
+        "originTokenAddress": "0xcabeacf477fcfa83ad097d088440ad7d11cd4e0d",
+        "originNetworkId": 37,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x287882b79c78efbefffadfd94d53eb5e949d26b6",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
