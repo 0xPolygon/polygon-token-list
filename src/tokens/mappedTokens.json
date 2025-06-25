@@ -68089,6 +68089,14 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xbcc7f67d1696fda9c66e9b2538d0b770090c3c10",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
