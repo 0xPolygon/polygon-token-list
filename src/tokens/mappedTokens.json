@@ -44946,5 +44946,42 @@
                 "tags": ["agglayer", "erc20"]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Gyro Dollar",
+        "symbol": "GYD",
+        "decimals": 18,
+        "originTokenAddress": "0xe07F9D810a48ab5c3c914BA3cA53AF14E4491e8A",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20",
+            "stablecoin"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "zkevmMessageBridge",
+                    "erc20"
+                ],
+                "originChainBridgeAdapter": "0xF3387a880998C9B9169bc9973E8826Fc9035c171",
+                "wrappedChainBridgeAdapter": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8"
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9496C473A7b1809dE32198aE1C23a7Ba844D9f6d",
+                "tags": [
+                    "lxly",
+                    "erc20",
+                    "legacy",
+                    "noDeposit"
+                ],
+                "wrappedNetworkId": 1
+            }
+        ],
+        "logoURI": "https://app.gyro.finance/_next/static/media/gyd.aab5a49d.svg"        
     }
 ]
