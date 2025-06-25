@@ -23426,7 +23426,7 @@
             {
                 "wrappedTokenAddress": "0x61299774020da444af134c82fa83e3810b309991",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit"]
             },
             {
                 "wrappedTokenAddress": "0x31faa1a7fc42510d846736e8fc2af9d76aab9bc6",
