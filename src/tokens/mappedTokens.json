@@ -39131,6 +39131,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://etherscan.io/token/images/wsteth3_32.png"
