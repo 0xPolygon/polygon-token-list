@@ -70608,5 +70608,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "AUSD",
+        "symbol": "AUSD",
+        "decimals": 6,
+        "originTokenAddress": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
