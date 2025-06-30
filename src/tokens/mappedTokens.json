@@ -77,6 +77,13 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x4da795edcd1bb95d6cc8fd2cc01e57e211510f8f",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
