@@ -59564,5 +59564,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Lombard Staked Bitcoin",
+        "symbol": "LBTC",
+        "decimals": 8,
+        "originTokenAddress": "0x8236a87084f8b84306f72007f36f2618a5634494",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x859492f5deac8491cc628d2e97b5d1e8baccbf98",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
