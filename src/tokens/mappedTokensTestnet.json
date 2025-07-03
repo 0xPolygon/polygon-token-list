@@ -19127,5 +19127,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "originTokenAddress": "0x3f4b6664338f23d2397c953f2ab4ce8031663f80",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7db7c1e494218a69bd94773e80271e1b90cdd0dd",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
