@@ -30,6 +30,13 @@
                 "tags": ["lxly"],
                 "name": "Wrapped Ether",
                 "symbol": "WETH"
+            },
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge ETH",
+                "symbol": "ETH"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
@@ -85,8 +92,14 @@
             },
             {
                 "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
-                "wrappedNetworkId": 20,
                 "tags": ["agglayer", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge USD Coin",
+                "symbol": "USDC"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
@@ -226,8 +239,14 @@
             },
             {
                 "wrappedTokenAddress": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
-                "wrappedNetworkId": 20,
                 "tags": ["agglayer", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge USDT",
+                "symbol": "USDT"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
@@ -285,8 +304,14 @@
             },
             {
                 "wrappedTokenAddress": "0xb33e43a3f276e8e75792b941bccc996ecb2c0bbd",
-                "wrappedNetworkId": 20,
                 "tags": ["agglayer", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge WBTC",
+                "symbol": "WBTC"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg"
