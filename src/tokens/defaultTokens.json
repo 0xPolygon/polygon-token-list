@@ -2224,30 +2224,5 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
-    },
-    {
-        "chainId": 1,
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "decimals": 18,
-        "originTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-        "originNetworkId": 0,
-        "tags": ["erc20"],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xae740d42e4ff0c5086b2b5b5d149eb2f9e1a754f",
-                "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0xb584516c8d90f133a48af5cc445cc5d924cf9863",
-                "tags": ["lxly", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0x815955d051c6262c16c720b19d735426254bec5b",
-                "wrappedNetworkId": 20,
-                "tags": ["agglayer", "erc20"]
-            }
-        ]
     }
 ]
