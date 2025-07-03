@@ -70663,5 +70663,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "PentagonChain",
+        "symbol": "PC",
+        "decimals": 18,
+        "originTokenAddress": "0xa1aa371e450c5aee7fff259cbf5cca9384227272",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb9a729aff228c28d7eb0548c8c0e4a3fff0083a1",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
