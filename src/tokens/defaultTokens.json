@@ -2224,27 +2224,5 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
-    },
-    {
-        "chainId": 1,
-        "name": "USDS Stablecoin",
-        "symbol": "USDS",
-        "decimals": 18,
-        "originTokenAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
-        "originNetworkId": 0,
-        "tags": ["erc20"],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x2134866886ce784fe2e0de819118e4d32b4be32c",
-                "tags": ["agglayer", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3",
-                "wrappedNetworkId": 20,
-                "tags": ["vaultBridge", "erc20"],
-                "name": "Vault Bridge USDS",
-                "symbol": "USDS"
-            }
-        ]
     }
 ]
