@@ -49715,7 +49715,7 @@
                     "erc20"
                 ],
                 "name": "Vault Bridge ETH",
-                "symbol": "ETH"
+                "symbol": "WETH"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/weth.svg"
