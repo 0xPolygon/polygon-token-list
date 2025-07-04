@@ -49715,13 +49715,23 @@
             },
             {
                 "wrappedTokenAddress": "0x815955d051c6262c16c720b19d735426254bec5b",
-                "wrappedNetworkId": 20,
                 "tags": [
                     "agglayer",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "wrappedNetworkId": 20,
+                "tags": [
+                    "vaultBridge",
+                    "erc20"
+                ],
+                "name": "Vault Bridge ETH",
+                "symbol": "WETH"
             }
-        ]
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/weth.svg"
     },
     {
         "chainId": 1,
