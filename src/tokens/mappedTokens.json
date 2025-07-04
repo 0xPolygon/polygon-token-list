@@ -32115,8 +32115,7 @@
                 "tags": [
                     "pos",
                     "erc20",
-                    "noDeposit",
-                    "noWithdraw"
+                    "noDeposit"
                 ]
             }
         ],
