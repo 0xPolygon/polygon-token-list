@@ -59629,5 +59629,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "decimals": 18,
+        "originTokenAddress": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf0f134d9e2f831eed1198c271040eeb821f3bd13",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
