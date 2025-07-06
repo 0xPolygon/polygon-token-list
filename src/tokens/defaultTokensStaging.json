@@ -412,6 +412,7 @@
             },
             {
                 "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "vaultBridgeL1Address": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
                 "wrappedNetworkId": 20,
                 "tags": ["vaultBridge", "erc20"],
                 "name": "Vault Bridge ETH",
