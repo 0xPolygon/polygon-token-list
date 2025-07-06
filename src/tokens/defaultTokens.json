@@ -32,7 +32,12 @@
                 "symbol": "WETH"
             },
             {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "tags": ["agglayer", "governanceToken"]
+            },
+            {
                 "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "vaultBridgeL1Address": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
                 "wrappedNetworkId": 20,
                 "tags": ["vaultBridge", "erc20"],
                 "name": "Vault Bridge ETH",
@@ -40,6 +45,22 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge ETH",
+        "symbol": "vbETH",
+        "decimals": 18,
+        "originTokenAddress": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20", "noWithdraw"]
+            }
+        ]
     },
     {
         "chainId": 1,
@@ -96,6 +117,7 @@
             },
             {
                 "wrappedTokenAddress": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+                "vaultBridgeL1Address": "0x53e82abbb12638f09d9e624578ccb666217a765e",
                 "wrappedNetworkId": 20,
                 "tags": ["vaultBridge", "erc20"],
                 "name": "Vault Bridge USD Coin",
@@ -103,6 +125,27 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge USDC",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+                "tags": ["agglayer", "erc20", "noWithdraw"]
+            },
+            {
+                "wrappedTokenAddress": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+                "tags": ["lxly", "erc20"],
+                "name": "USD Coin",
+                "symbol": "USDC"
+            }
+        ]
     },
     {
         "chainId": 1,
