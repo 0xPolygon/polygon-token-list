@@ -16091,6 +16091,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -39045,6 +39052,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://etherscan.io/token/images/wsteth3_32.png"
@@ -50217,6 +50231,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -59517,6 +59538,13 @@
             "erc20"
         ],
         "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
             {
                 "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
                 "tags": [
