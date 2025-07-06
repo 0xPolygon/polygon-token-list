@@ -32,6 +32,13 @@
                 "symbol": "WETH"
             },
             {
+                "wrappedNetworkId": 7,
+                "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+                "tags": ["lxly"],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
                 "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
                 "wrappedNetworkId": 20,
                 "tags": ["vaultBridge", "erc20"],
