@@ -41,7 +41,7 @@
                 "wrappedNetworkId": 20,
                 "tags": ["vaultBridge", "erc20"],
                 "name": "Vault Bridge ETH",
-                "symbol": "ETH"
+                "symbol": "WETH"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
@@ -49,7 +49,7 @@
     {
         "chainId": 1,
         "name": "Vault Bridge ETH",
-        "symbol": "vbETH",
+        "symbol": "WETH",
         "decimals": 18,
         "originTokenAddress": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
         "originNetworkId": 0,
@@ -60,7 +60,7 @@
                 "tags": ["agglayer", "erc20", "noWithdraw"]
             }
         ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/weth.svg"
     },
     {
         "chainId": 1,
@@ -129,7 +129,7 @@
     {
         "chainId": 1,
         "name": "Vault Bridge USDC",
-        "symbol": "vbUSDC",
+        "symbol": "USDC",
         "decimals": 6,
         "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
         "originNetworkId": 0,
@@ -293,7 +293,7 @@
     {
         "chainId": 1,
         "name": "Vault Bridge USDT",
-        "symbol": "vbUSDT",
+        "symbol": "USDT",
         "decimals": 6,
         "originTokenAddress": "0x6d4f9f9f8f0155509ecd6ac6c544ff27999845cc",
         "originNetworkId": 0,
@@ -375,7 +375,7 @@
     {
         "chainId": 1,
         "name": "Vault Bridge WBTC",
-        "symbol": "vbWBTC",
+        "symbol": "WBTC",
         "decimals": 8,
         "originTokenAddress": "0x2c24b57e2ccd1f273045af6a5f632504c432374f",
         "originNetworkId": 0,
