@@ -6,7 +6,7 @@
         "decimals": 18,
         "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "originNetworkId": 0,
-        "tags": ["nativeToken"],
+        "tags": ["governanceToken"],
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
@@ -15,7 +15,49 @@
             },
             {
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-                "tags": ["lxly", "nativeToken"]
+                "tags": ["lxly", "governanceToken"]
+            },
+            {
+                "wrappedNetworkId": 3,
+                "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+                "tags": ["lxly"],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "wrappedNetworkId": 13,
+                "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+                "tags": ["lxly"],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "tags": ["agglayer", "governanceToken"]
+            },
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "vaultBridgeL1Address": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge ETH",
+                "symbol": "ETH"
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge ETH",
+        "symbol": "vbETH",
+        "decimals": 18,
+        "originTokenAddress": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "tags": ["agglayer", "erc20", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
@@ -47,6 +89,10 @@
                 "wrappedTokenAddress": "0x3accd49f9f73cba91ad9fd1adc2ab7512f4bd3bf",
                 "wrappedNetworkId": -1,
                 "tags": ["fx", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x4da795edcd1bb95d6cc8fd2cc01e57e211510f8f",
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
@@ -63,33 +109,70 @@
             {
                 "wrappedTokenAddress": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "legacy"],
+                "name": "Legacy Bridge USD Coin",
+                "symbol": "USDC.e"
+            },
+            {
+                "wrappedTokenAddress": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+                "wrappedNetworkId": -1,
+                "tags": ["customBridge", "erc20", "nativeToken"],
+                "originChainBridgeAdapter": "0xbd3fa81b58ba92a82136038b25adec7066af3155",
+                "wrappedChainBridgeAdapter": "0x9daf8c91aefae50b9c0e69629d3f6ca40ca3b3fe",
+                "originChainClaimAdapter": "0x0a992d191deec32afe36203ad87d7d289a738f81",
+                "wrappedChainClaimAdapter": "0xf3be9355363857f3e001be68856a2f96b4c39ba9",
+                "name": "Native USDC",
+                "symbol": "USDC"
             },
             {
                 "wrappedTokenAddress": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-                "tags": ["lxly", "erc20", "legacy"]
+                "tags": ["lxly", "erc20"],
+                "name": "USD Coin",
+                "symbol": "USDC"
+            },
+            {
+                "wrappedTokenAddress": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20", "legacy"],
+                "name": "Legacy Bridge USD Coin",
+                "symbol": "USDC"
             },
             {
                 "wrappedTokenAddress": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
                 "wrappedNetworkId": 1,
                 "tags": ["zkevmMessageBridge", "erc20"],
                 "originChainBridgeAdapter": "0x70E70e58ed7B1Cec0D8ef7464072ED8A52d755eB",
-                "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189"
+                "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189",
+                "name": "USD Coin",
+                "symbol": "USDC.e"
             },
             {
-                "wrappedTokenAddress": "0x40e2210d41b65d9964852b44ea1c6669aac5496f",
-                "wrappedNetworkId": -1,
-                "tags": ["fx", "erc20"]
+                "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
+                "tags": ["agglayer", "erc20"]
             },
             {
-                "wrappedTokenAddress": "0x8dd34e59870fc6b669e52eaa4cd7d98184281ed2",
-                "wrappedNetworkId": -1,
-                "tags": ["fx", "erc20"]
-            },
+                "wrappedTokenAddress": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+                "vaultBridgeL1Address": "0x53e82abbb12638f09d9e624578ccb666217a765e",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge USD Coin",
+                "symbol": "USDC"
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge USDC",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
             {
-                "wrappedTokenAddress": "0x8ccc774ea1df42c8f768e17bd6d88c207508e044",
-                "wrappedNetworkId": -1,
-                "tags": ["fx", "erc20"]
+                "wrappedTokenAddress": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+                "tags": ["agglayer", "erc20", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
@@ -101,7 +184,7 @@
         "decimals": 6,
         "originTokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "originNetworkId": 0,
-        "tags": ["stablecoin"],
+        "tags": ["erc20"],
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
@@ -111,6 +194,34 @@
             {
                 "wrappedTokenAddress": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
+                "tags": ["agglayer", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+                "vaultBridgeL1Address": "0x6d4f9f9f8f0155509ecd6ac6c544ff27999845cc",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge USDT",
+                "symbol": "USDT"
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge USDT",
+        "symbol": "vbUSDT",
+        "decimals": 6,
+        "originTokenAddress": "0x6d4f9f9f8f0155509ecd6ac6c544ff27999845cc",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+                "tags": ["agglayer", "erc20", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
@@ -212,6 +323,34 @@
             {
                 "wrappedTokenAddress": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xb33e43a3f276e8e75792b941bccc996ecb2c0bbd",
+                "tags": ["agglayer", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+                "vaultBridgeL1Address": "0x2c24b57e2ccd1f273045af6a5f632504c432374f",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge WBTC",
+                "symbol": "WBTC"
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Vault Bridge WBTC",
+        "symbol": "vbWBTC",
+        "decimals": 8,
+        "originTokenAddress": "0x2c24b57e2ccd1f273045af6a5f632504c432374f",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+                "tags": ["agglayer", "erc20", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg"
@@ -254,6 +393,11 @@
             {
                 "wrappedTokenAddress": "0xc32cb86ae7921f45c0aa44f638d0ee8b67c98b98",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/sushi.svg"
@@ -5398,7 +5542,7 @@
             {
                 "wrappedTokenAddress": "0x2596a8b90d39eb89d5668ca5b6dee54e9ae3d4c0",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -5482,7 +5626,7 @@
             {
                 "wrappedTokenAddress": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             },
             {
                 "wrappedTokenAddress": "0x8281a0540cc00ca0d5d20f18a67246165276896d",
@@ -5896,7 +6040,7 @@
             {
                 "wrappedTokenAddress": "0x5ba499a413e6afcafc7a79a73aace4bd94a8a33a",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -6129,7 +6273,7 @@
             {
                 "wrappedTokenAddress": "0x7582a64734f40c1eAa23144Fc43cA1a748723527",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -6858,6 +7002,11 @@
                 "wrappedTokenAddress": "0xc5b57e9a1e7914fda753a88f24e5703e617ee50c",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x985a39b8dfaa7689b05e6e7bd1b2a66b8b5b1e4e",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://app.pop.network/images/icons/POP.svg"
@@ -7114,7 +7263,7 @@
             {
                 "wrappedTokenAddress": "0x955afb81880f439a2db194f051afed078fb2ec2e",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -7356,7 +7505,7 @@
             {
                 "wrappedTokenAddress": "0xeaFE31Cd9e8E01C8f0073A2C974f728Fb80e9DcE",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -9342,7 +9491,7 @@
             {
                 "wrappedTokenAddress": "0x602C6690A6cb2D2Fce95AD50Fe81d731dF0AD6ed",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -10102,7 +10251,7 @@
             {
                 "wrappedTokenAddress": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -10632,7 +10781,7 @@
             {
                 "wrappedTokenAddress": "0xaa5eD3C460C38eB71fba089B853d0a91C0e71DD5",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -10936,7 +11085,7 @@
             {
                 "wrappedTokenAddress": "0x3aDdA29B608418Cc63385138F990A754901291e8",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -11724,7 +11873,7 @@
             {
                 "wrappedTokenAddress": "0xEF6B7E511c18B5fC0099e680f17AE5C3b7601d26",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -12058,6 +12207,22 @@
             {
                 "wrappedTokenAddress": "0xa23390ab60fe5482e9230245eb817a8117528b38",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+                "tags": ["lxly", "erc20"]
             }
         ]
     },
@@ -12157,7 +12322,7 @@
             {
                 "wrappedTokenAddress": "0x688AB7562301b3B58B67bEB614986B51ad3698eB",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -13540,7 +13705,7 @@
             {
                 "wrappedTokenAddress": "0xb8dd82e944354b7bf9e9e0744ba5ff786581d372",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -13556,7 +13721,7 @@
             {
                 "wrappedTokenAddress": "0x2cf15c001a2a5da76bf213d17763e5c856ae3632",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -13732,7 +13897,7 @@
             {
                 "wrappedTokenAddress": "0xa0715b961daabafcb7a8a2bc1146541a21aa56c1",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -13813,7 +13978,7 @@
             {
                 "wrappedTokenAddress": "0x21364671fD823BBda8Ba1f40a24171DeCBdB3D54",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -14181,7 +14346,7 @@
             {
                 "wrappedTokenAddress": "0xd2A2a353D28e4833FAFfC882f6649c9c884a7D8f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -14390,7 +14555,7 @@
             {
                 "wrappedTokenAddress": "0x14f2af758c62aa1de8c9e48e1de363826b087453",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -15492,7 +15657,7 @@
             {
                 "wrappedTokenAddress": "0x0191297c4bf40b31031152c06fe804ba5af5fec1",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -15893,7 +16058,7 @@
             {
                 "wrappedTokenAddress": "0xd1e6354fb05bf72a8909266203dab80947dceccf",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -16763,7 +16928,7 @@
             {
                 "wrappedTokenAddress": "0x9aceb6f749396d1930abc9e263efc449e5e82c13",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -16795,7 +16960,7 @@
             {
                 "wrappedTokenAddress": "0xfd66114337ec9c1021f774af01f81c56148d938b",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -18233,6 +18398,11 @@
                 "wrappedTokenAddress": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x0ef68c1ab3c83cf11f9546faba385e8a1bd38d74",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/woofy.svg"
@@ -18561,7 +18731,7 @@
             {
                 "wrappedTokenAddress": "0xc518edfb9667214be3559b86e73777d1c4789163",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/sanshu.svg"
@@ -19592,7 +19762,7 @@
             {
                 "wrappedTokenAddress": "0xA3D595823beeDE02cC755AB4e22AD009A70cB590",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -20300,7 +20470,7 @@
             {
                 "wrappedTokenAddress": "0x41d36d3bd6297fe288e31c75de8b7453de9daf90",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -21365,7 +21535,13 @@
             {
                 "wrappedTokenAddress": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "customWithdrawEventSig", "noDeposit"],
+                "tags": [
+                    "pos",
+                    "erc20",
+                    "customWithdrawEventSig",
+                    "noDeposit",
+                    "noWithdraw"
+                ],
                 "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
             },
             {
@@ -22142,7 +22318,7 @@
             {
                 "wrappedTokenAddress": "0xc4ec74F50dd4A9ae7268898B3292DEcEf8Eda226",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -22816,7 +22992,7 @@
             {
                 "wrappedTokenAddress": "0x9c49ba0212bb5db371e66b59d1565b7c06e4894e",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/cc10.svg"
@@ -23162,7 +23338,7 @@
             {
                 "wrappedTokenAddress": "0x7Dd3D9E1868A7dA87509A601E7dbBf938c819a32",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/vox.svg"
@@ -24233,7 +24409,7 @@
             {
                 "wrappedTokenAddress": "0x553d3d295e0f695b9228246232edf400ed3560b5",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/paxg.svg"
@@ -24490,7 +24666,7 @@
             {
                 "wrappedTokenAddress": "0x42435f467d33e5c4146a4e8893976ef12bbce762",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/defi5.svg"
@@ -25402,7 +25578,7 @@
             {
                 "wrappedTokenAddress": "0x8f3dc8321cba3abe08fb29055a0a10dc79223252",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -26138,7 +26314,7 @@
             {
                 "wrappedTokenAddress": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ],
         "logoURI": "https://cdn.coinranking.com/fLjFmBf-k/rbal.png"
@@ -26710,6 +26886,11 @@
                 "wrappedTokenAddress": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x476eacd417cd65421bd34fca054377658bb5e02b",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/yfi.svg"
@@ -27326,7 +27507,7 @@
             {
                 "wrappedTokenAddress": "0x1b8acaac11250634028cf1735ca958fd46aaf320",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -27474,7 +27655,7 @@
             {
                 "wrappedTokenAddress": "0x3a9a81d576d83ff21f26f325066054540720fc34",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             },
             {
                 "wrappedTokenAddress": "0x1874e25d63b8ddf046a508cb278b6dd83fc32d9a",
@@ -29305,6 +29486,10 @@
                 "tags": ["fx", "erc20"],
                 "fxRootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
                 "fxChildTunnelAddress": "0xd531Cf2142D9b9Dc8b077dF3c4E93B46E7Cf879a"
+            },
+            {
+                "wrappedTokenAddress": "0xddafb91475bbf6210a151fa911ac8fda7de46ec2",
+                "tags": ["lxly", "erc20"]
             }
         ],
         "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_256x256.png"
@@ -29422,6 +29607,22 @@
             },
             {
                 "wrappedTokenAddress": "0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
                 "tags": ["lxly", "erc20"]
             }
         ],
@@ -30064,7 +30265,7 @@
             {
                 "wrappedTokenAddress": "0x1b396cf90504686b7ede2760eebb053d30d1f389",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -30632,7 +30833,7 @@
             {
                 "wrappedTokenAddress": "0x1a763170b96f23f15576d0fa0b2619d1254c437d",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -33517,7 +33718,7 @@
             {
                 "wrappedTokenAddress": "0x0c27e808308ce37ee608d4bb954a83e7cca8f580",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -35589,7 +35790,7 @@
             {
                 "wrappedTokenAddress": "0x098b5df20306086bea354d5e162dd6d0f357d889",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -36275,7 +36476,7 @@
             {
                 "wrappedTokenAddress": "0xfdc4d4827054de137f333069a7947fb437259a60",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -37079,7 +37280,7 @@
             {
                 "wrappedTokenAddress": "0x76d383e8c97b2e01ef6d24108f655c9727df4a54",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -37493,18 +37694,30 @@
         "decimals": 18,
         "originTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "originNetworkId": 0,
-        "tags": ["erc20", "noDeposit"],
+        "tags": ["erc20"],
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0xae740d42e4ff0c5086b2b5b5d149eb2f9e1a754f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0xb584516c8d90f133a48af5cc445cc5d924cf9863",
-                "tags": ["lxly", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x815955d051c6262c16c720b19d735426254bec5b",
+                "tags": ["agglayer", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge ETH",
+                "symbol": "WETH"
             }
-        ]
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/weth.svg"
     },
     {
         "chainId": 1,
@@ -37844,6 +38057,22 @@
             },
             {
                 "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
                 "tags": ["lxly", "erc20"]
             }
         ]
@@ -38546,6 +38775,11 @@
             {
                 "wrappedTokenAddress": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
                 "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
             }
         ]
     },
@@ -44735,6 +44969,116 @@
                 "wrappedTokenAddress": "0x74fd071c5e49a56ebe4990f31e46345aaf33b12a",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Ternoa",
+        "symbol": "CAPS",
+        "decimals": 18,
+        "originTokenAddress": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 13,
+                "tags": ["lxly", "governanceToken"]
+            },
+            {
+                "wrappedTokenAddress": "0x3ec5D3873eABBB312316B2E3eb8950fe743a9B39",
+                "tags": ["lxly", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "USDS Stablecoin",
+        "symbol": "USDS",
+        "decimals": 18,
+        "originTokenAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2134866886ce784fe2e0de819118e4d32b4be32c",
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MizuUSD",
+        "symbol": "MizuUSD",
+        "decimals": 6,
+        "originTokenAddress": "0x030210b1b88825b311686c8174a4d087bffb7a9f",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x78b8b1ec97b406610b9a1d4128fbc55949a36d10",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Morpho Token",
+        "symbol": "MORPHO",
+        "decimals": 18,
+        "originTokenAddress": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
+                "wrappedNetworkId": 20,
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "AUSD",
+        "symbol": "AUSD",
+        "decimals": 6,
+        "originTokenAddress": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Lombard Staked Bitcoin",
+        "symbol": "LBTC",
+        "decimals": 8,
+        "originTokenAddress": "0x8236a87084f8b84306f72007f36f2618a5634494",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x859492f5deac8491cc628d2e97b5d1e8baccbf98",
+                "tags": ["agglayer", "erc20"]
             }
         ]
     }
