@@ -1445,6 +1445,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x742a3794d9fd531dfef0fa7af04d335abe0569ff",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2186,6 +2193,13 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x33a20525c1bc40ecea620937cdf82ad326f14ea1",
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             },
@@ -3365,6 +3379,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x3cc6055f4e88638c46daa9cf5f5fc54a801e5f03",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -3379,6 +3400,13 @@
             "erc20"
         ],
         "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2c0df0d612e21ab47382e85856410a91c91356d0",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
             {
                 "wrappedTokenAddress": "0x2c0df0d612e21ab47382e85856410a91c91356d0",
                 "tags": [
@@ -3447,6 +3475,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xfb628feb2e12520819b6290ea242b0789b87615d",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -3461,6 +3496,13 @@
             "erc20"
         ],
         "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1b1776134e02dd0675e49993d5b7a433944c53d5",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
             {
                 "wrappedTokenAddress": "0x1b1776134e02dd0675e49993d5b7a433944c53d5",
                 "tags": [
@@ -3529,6 +3571,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xe32fc2ed67c47653f4d596c2fc7f993f49348cdb",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -3543,6 +3592,13 @@
             "erc20"
         ],
         "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9467179320ecb245cde0306b3fe6223f2b38f8a1",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
             {
                 "wrappedTokenAddress": "0x9467179320ecb245cde0306b3fe6223f2b38f8a1",
                 "tags": [
@@ -3611,6 +3667,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xfbf55c3bd9dae50862d22c4e35527b5e88bb9759",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -3625,6 +3688,13 @@
             "erc20"
         ],
         "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3c3d2f57147d4fd5c98a7243d00ef0473a00a2f7",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
             {
                 "wrappedTokenAddress": "0x3c3d2f57147d4fd5c98a7243d00ef0473a00a2f7",
                 "tags": [
