@@ -31206,6 +31206,13 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xa19ebba514741c221fa40dc4eaafed7e5cca4a90",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/crv.svg"
