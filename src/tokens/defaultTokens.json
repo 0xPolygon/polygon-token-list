@@ -1,6 +1,53 @@
 [
     {
         "chainId": 1,
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "originNetworkId": 0,
+        "tags": ["governanceToken"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "tags": ["lxly", "governanceToken"]
+            },
+            {
+                "wrappedNetworkId": 3,
+                "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+                "tags": ["lxly"],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "wrappedNetworkId": 13,
+                "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+                "tags": ["lxly"],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "tags": ["agglayer", "governanceToken"]
+            },
+            {
+                "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+                "vaultBridgeL1Address": "0x2dc70fb75b88d2eb4715bc06e1595e6d97c34dff",
+                "wrappedNetworkId": 20,
+                "tags": ["vaultBridge", "erc20"],
+                "name": "Vault Bridge ETH",
+                "symbol": "WETH"
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 1,
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
