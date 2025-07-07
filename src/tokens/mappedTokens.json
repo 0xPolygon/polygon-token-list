@@ -70683,5 +70683,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "TreceCoin",
+        "symbol": "13TRC",
+        "decimals": 18,
+        "originTokenAddress": "0xbf19f73d60d0110025afa01a49b8a2a2f0866719",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x55cce8b89e951d0737f927d00bd27db3b5ac702a",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
