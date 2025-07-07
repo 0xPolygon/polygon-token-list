@@ -57,7 +57,7 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
-                "tags": ["agglayer", "erc20", "noWithdraw"]
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/weth.svg"
@@ -172,7 +172,7 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
-                "tags": ["agglayer", "erc20", "noWithdraw"]
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
@@ -221,7 +221,7 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
-                "tags": ["agglayer", "erc20", "noWithdraw"]
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
@@ -350,7 +350,7 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x0913da6da4b42f538b445599b46bb4622342cf52",
-                "tags": ["agglayer", "erc20", "noWithdraw"]
+                "tags": ["agglayer", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg"
