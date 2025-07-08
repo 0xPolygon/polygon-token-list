@@ -19378,5 +19378,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "MetaToken",
+        "symbol": "MTK",
+        "decimals": 0,
+        "originTokenAddress": "0x48a054944e79c565b9e90bc472920abb417fdc0a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfb156dd6784bc50ede76569d43666d38c2b0d5a5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
