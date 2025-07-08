@@ -19483,5 +19483,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "football",
+        "symbol": "FTK ",
+        "decimals": 0,
+        "originTokenAddress": "0x47a77a4f6951f380bce29a0ff0b70798b2861d91",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7958258627e8e13812e30153a4488e8328420023",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
