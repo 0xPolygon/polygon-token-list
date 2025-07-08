@@ -19672,5 +19672,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Contract1",
+        "symbol": "IR",
+        "decimals": 0,
+        "originTokenAddress": "0xddc07ce5aaf556c0f3daa0f433d645206ee0485e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x06de9d3cd558f7c3c503d65104256d2eaa896f09",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
