@@ -19294,5 +19294,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "hardik",
+        "symbol": "HT",
+        "decimals": 0,
+        "originTokenAddress": "0xd7a834312a9d4f13c2c54afd70521e85eb6d9524",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4eaa09856e8d2200560bf91f1095e1ccaa8da5a3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
