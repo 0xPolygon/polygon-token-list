@@ -19735,5 +19735,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "MyCollection",
+        "symbol": "MNFT",
+        "decimals": 0,
+        "originTokenAddress": "0x908dd9efc9197579a97a20f981ac788e20c54a7f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6128ca7266c796f5ae94c2a9a61967411566cb0c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
