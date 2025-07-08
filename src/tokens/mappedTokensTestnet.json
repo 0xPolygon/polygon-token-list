@@ -19399,5 +19399,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "OpeToken",
+        "symbol": "BTN",
+        "decimals": 0,
+        "originTokenAddress": "0xb3584fbd2fd424e1e5787d33ade202bbd1d59c42",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6931237b20bdcf2c4f9047998d11183c8bb2ca55",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
