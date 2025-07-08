@@ -19273,5 +19273,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "METANFT",
+        "symbol": "MTK",
+        "decimals": 0,
+        "originTokenAddress": "0x27f5dedfd51c1520f56279f1ff045894912f6bc0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc146a0aad2f9d6d95203d49d2698dec6fd2171ac",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
