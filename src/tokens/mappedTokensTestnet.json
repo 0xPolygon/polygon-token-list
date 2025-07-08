@@ -19693,5 +19693,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Dog",
+        "symbol": "DG",
+        "decimals": 0,
+        "originTokenAddress": "0x2057a499588459aed8e9d55b21e7ed384850d05d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2df5e0f921755fa705306a0744a91dd1add77c80",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
