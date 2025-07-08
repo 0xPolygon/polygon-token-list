@@ -2656,5 +2656,32 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfff9094c0fe717a0584c38be78eb24c2137d5c15",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+                "tags": ["lxly", "erc20"]
+            },
+            {
+                "wrappedTokenAddress": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
+                "tags": ["agglayer", "erc20"]
+            }
+        ]
     }
 ]
