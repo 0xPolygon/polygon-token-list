@@ -19147,5 +19147,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "MyNFT",
+        "symbol": "MFT",
+        "decimals": 0,
+        "originTokenAddress": "0x404099a1292356601dd638c3ed58e50e0dded135",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3cda09fb4255a99ddaceb9515880ae971c7317c7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
