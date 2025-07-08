@@ -50097,7 +50097,8 @@
                     "erc20"
                 ]
             }
-        ]
+        ],
+        "logoURI": "https://assets.katana.network/icons/weeth.svg"
     },
     {
         "chainId": 1,
