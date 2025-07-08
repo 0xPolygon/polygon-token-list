@@ -19756,5 +19756,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Spiderman",
+        "symbol": "kh",
+        "decimals": 0,
+        "originTokenAddress": "0x42935dd76bd7f6e1c003e85498793864496cbbb4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe08618c40aa8fec750e601ebdcece705030f807f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
