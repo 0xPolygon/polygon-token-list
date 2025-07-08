@@ -19840,5 +19840,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Astronaut",
+        "symbol": "ASTR",
+        "decimals": 0,
+        "originTokenAddress": "0xf735d497d032ba66980b523f92934caaba9ce3b2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x745efef1ba785563938af9e3b0536d411c8e51bb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
