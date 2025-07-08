@@ -19819,5 +19819,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Aryan",
+        "symbol": "ARY",
+        "decimals": 0,
+        "originTokenAddress": "0xa6c2b344cf3363b0b58722392ae2b7a54585e44d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe5bad7e2b4b59734161129657fd697976df563bf",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
