@@ -19315,5 +19315,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Code Eate",
+        "symbol": "CER",
+        "decimals": 0,
+        "originTokenAddress": "0xf3be0e96e78505f77971f9cb3b50f9a92f73a14f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2f15bf7d291d6c34e40458814aa80b69003d9f0b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
