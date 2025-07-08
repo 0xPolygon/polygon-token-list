@@ -19336,5 +19336,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "GidToken",
+        "symbol": "BTN",
+        "decimals": 0,
+        "originTokenAddress": "0x3bc6f757e29fc12791fc3f57971bf9964a912dbf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x80ef6c26cc385f493e7b30e3bc28534cb84df0e0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
