@@ -19252,5 +19252,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "LineArt",
+        "symbol": "LA",
+        "decimals": 0,
+        "originTokenAddress": "0x2a601ff6ccb9ab8416d09dad012192286a0ef69d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbb2fb1093b70335fde387b62246b1c87286fa129",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
