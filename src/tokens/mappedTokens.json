@@ -50293,40 +50293,14 @@
             },
             {
                 "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
+                "tags": ["lxly", "erc20"]
             },
             {
-                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x9893989433e7a383cb313953e4c2365107dc19a7",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
+                "wrappedTokenAddress": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
+                "tags": ["agglayer", "erc20"]
             }
-        ]
+        ],
+        "logoURI": "https://assets.katana.network/icons/weeth.svg"
     },
     {
         "chainId": 1,
