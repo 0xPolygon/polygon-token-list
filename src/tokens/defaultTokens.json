@@ -2682,6 +2682,7 @@
                 "wrappedTokenAddress": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
                 "tags": ["agglayer", "erc20"]
             }
-        ]
+        ],
+        "logoURI": "https://assets.katana.network/icons/weeth.svg"
     }
 ]
