@@ -59609,29 +59609,10 @@
             {
                 "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
                 "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
-                "tags": [
-                    "lxly",
-                    "erc20"
+                    "agglayer",
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             }
         ]
@@ -59651,7 +59632,9 @@
                 "wrappedTokenAddress": "0x859492f5deac8491cc628d2e97b5d1e8baccbf98",
                 "tags": [
                     "agglayer",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             }
         ]
