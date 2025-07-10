@@ -70703,5 +70703,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "vbETH yVault",
+        "symbol": "yvvbETH",
+        "decimals": 18,
+        "originTokenAddress": "0xe007ca01894c863d7898045ed5a3b4abf0b18f37",
+        "originNetworkId": 20,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf52ad2e6be2b000ba3698327d122664427e566e0",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
