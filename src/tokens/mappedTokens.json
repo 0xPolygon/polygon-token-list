@@ -59684,5 +59684,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 752025,
+        "name": "GPK0",
+        "symbol": "GPK0",
+        "decimals": 18,
+        "originTokenAddress": "0x50b1f47379f084d71862a1efabfadf1d720842a7",
+        "originNetworkId": 13,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe836025acb9a0bdb9c6dac8530f43c169356368d",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
