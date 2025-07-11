@@ -19953,5 +19953,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "NFTCollection",
+        "symbol": "NFTC",
+        "decimals": 0,
+        "originTokenAddress": "0xada431cb0366efe2eec7f635a96e68ed9f3ba951",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x04bb48758a010c47850d84d720418a068029ddc0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
