@@ -162,7 +162,6 @@
             },
             {
                 "wrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
-                "wrappedNetworkId": 20,
                 "tags": ["agglayer", "erc20"]
             }
         ],
@@ -900,7 +899,6 @@
             },
             {
                 "wrappedTokenAddress": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
-                "wrappedNetworkId": 20,
                 "tags": ["agglayer", "erc20"]
             }
         ],
@@ -2557,7 +2555,6 @@
             },
             {
                 "wrappedTokenAddress": "0x985a39b8dfaa7689b05e6e7bd1b2a66b8b5b1e4e",
-                "wrappedNetworkId": 20,
                 "tags": ["agglayer", "erc20"]
             }
         ],
