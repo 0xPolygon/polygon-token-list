@@ -20037,5 +20037,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "WYST",
+        "symbol": "WYST",
+        "decimals": "18",
+        "originTokenAddress": "0x3894374b3ffd1db45b760dd094963dd1167e5568",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3894374b3ffd1db45b760dd094963dd1167e5568",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
