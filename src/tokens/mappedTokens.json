@@ -59641,7 +59641,7 @@
         ],
         "wrappedTokens": [
             {
-                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "wrappedTokenAddress": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
                 "tags": [
                     "agglayer",
                     "erc20",
