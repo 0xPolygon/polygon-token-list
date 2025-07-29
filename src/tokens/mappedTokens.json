@@ -70722,5 +70722,47 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "MatchAwards Platform Utility Token",
+        "symbol": "MAPU",
+        "decimals": "18",
+        "originTokenAddress": "0xe4b8e9920b86e603d99afaa0c0d1b9c7ab0195a1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x972a20c075c39ec84ad503b09c3c376506611176",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Emicoin",
+        "symbol": "EMI",
+        "decimals": "18",
+        "originTokenAddress": "0x0447c7c52c4ba3372b43c655e5db8db6112489d3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfbecfb7b87752aa28383a5ac1e9d9e05e0526017",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
