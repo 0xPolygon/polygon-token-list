@@ -70764,5 +70764,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Blockchain Web Services",
+        "symbol": "BWS",
+        "decimals": "9",
+        "originTokenAddress": "0xaade1d6701173bd924c9de2d56a00ef4e3d9de4d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x17cea15d4c8be106e70708ce1a12c9fa36c6527b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
