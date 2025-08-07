@@ -115,6 +115,26 @@
     },
     {
         "chainId": 11155111,
+        "name": "USDT0",
+        "symbol": "USDT0",
+        "decimals": 6,
+        "originTokenAddress": "0x88f3de85930f2f3b727ab7e8fd7799f573526402",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+          {
+            "wrappedTokenAddress": "0x36c2503d53c6948331144b85d1e74a3b96731d1b",
+            "wrappedNetworkId": -1,
+            "tags": ["oft", "erc20"],
+            "originChainBridgeAdapter":
+              "0xeb63bcce494691251baf15674f8eebffc40a398f",
+            "wrappedChainBridgeAdapter":
+              "0xe7cd86e13ac4309349f30b3435a9d337750fc82d"
+          }
+        ]
+    },
+    {
+        "chainId": 11155111,
         "name": "DevStudio",
         "symbol": "DST",
         "decimals": 18,
