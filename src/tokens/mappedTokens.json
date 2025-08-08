@@ -59816,5 +59816,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Succinct",
+        "symbol": "PROVE",
+        "decimals": 18,
+        "originTokenAddress": "0x6bef15d938d4e72056ac92ea4bdd0d76b1c4ad29",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb244add9fe6cb17558221e4dfea960e680ccd29b",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
