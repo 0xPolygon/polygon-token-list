@@ -70785,5 +70785,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "NairaX Token",
+        "symbol": "NX",
+        "decimals": "18",
+        "originTokenAddress": "0xeac862aa2397b76620403a2ec680bb3325b7cb62",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x4d5220baf6015287c4ac50fcd00b39f757646fbf",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
