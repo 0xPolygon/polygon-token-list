@@ -12206,23 +12206,11 @@
             },
             {
                 "wrappedTokenAddress": "0xa23390ab60fe5482e9230245eb817a8117528b38",
-                "tags": ["lxly", "erc20"]
+                "tags": ["lxly", "erc20", "noDeposit", "noWithdraw"]
             },
             {
                 "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
-                "tags": ["lxly", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
-                "tags": ["lxly", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
-                "tags": ["lxly", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
-                "tags": ["lxly", "erc20"]
+                "tags": ["lxly", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },

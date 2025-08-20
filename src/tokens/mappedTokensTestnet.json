@@ -1333,7 +1333,9 @@
                 "wrappedTokenAddress": "0xe4c2d7f84de35f61349578788c5ddae162403547",
                 "tags": [
                     "lxly",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             }
         ]
