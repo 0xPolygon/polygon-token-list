@@ -16186,7 +16186,9 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             },
             {
