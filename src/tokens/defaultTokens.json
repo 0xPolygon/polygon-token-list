@@ -170,36 +170,6 @@
     },
     {
         "chainId": 1,
-        "name": "OKB",
-        "symbol": "OKB",
-        "decimals": 18,
-        "originTokenAddress": "0x75231f58b43240c9718dd58b4967c5114342a86c",
-        "originNetworkId": 0,
-        "tags": ["governanceToken"],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x8F94400CDeF837F388100cfE56D7ebB8a3A3fb44",
-                "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-                "wrappedNetworkId": 3,
-                "tags": ["lxly", "governanceToken"]
-            },
-            {
-                "wrappedTokenAddress": "0xa23390ab60fe5482e9230245eb817a8117528b38",
-                "tags": ["lxly", "erc20"]
-            },
-            {
-                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
-                "tags": ["agglayer", "erc20"]
-            }
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/okb.png"
-    },
-    {
-        "chainId": 1,
         "name": "Ternoa",
         "symbol": "CAPS",
         "decimals": 18,
@@ -2669,10 +2639,7 @@
             {
                 "wrappedTokenAddress": "0xfff9094c0fe717a0584c38be78eb24c2137d5c15",
                 "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20"
-                ]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
