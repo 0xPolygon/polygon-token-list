@@ -32267,6 +32267,13 @@
                     "noDeposit",
                     "noWithdraw"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xb62f7fc2d804ec32cff70ce9bc8638892cd2740c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/paxg.svg"
