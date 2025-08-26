@@ -4,6 +4,7 @@ const popularTokensTestnet = require("./tokens/defaultTokensTestnet.json");
 const mappedTokensTestnet = require("./tokens/mappedTokensTestnet.json");
 const popularTokensStaging = require("./tokens/defaultTokensStaging.json");
 const mappedTokensStaging = require("./tokens/mappedTokensStaging.json");
+const agglayer = require("./tokens/agglayer.json");
 
 const popularTokenList = require("./metadata/defaultTokens.json");
 const mappedTokenList = require("./metadata/mappedTokens.json");
@@ -11,6 +12,7 @@ const popularTestnetTokenList = require("./metadata/defaultTokensTestnet.json");
 const mappedTestnetTokenList = require("./metadata/mappedTokensTestnet.json");
 const popularTokenListStaging = require("./metadata/defaultTokensStaging.json");
 const mappedTokenListStaging = require("./metadata/mappedTokensStaging.json");
+const agglayerTokenList = require("./metadata/agglayer.json");
 
 module.exports = function buildList() {
     const timestamp = new Date().toISOString();
@@ -39,6 +41,10 @@ module.exports = function buildList() {
         timestamp,
         tokens: mappedTokensStaging,
     }); // Staging Tokenlist
+    Object.assign(agglayerTokenList, {
+        timestamp,
+        tokens: agglayer,
+    }); // Agglayer Tokenlist
 
     return {
         popularTokenListStaging,
@@ -47,5 +53,6 @@ module.exports = function buildList() {
         mappedTokenList,
         popularTestnetTokenList,
         mappedTestnetTokenList,
+        agglayerTokenList,
     };
 };
