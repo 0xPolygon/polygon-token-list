@@ -4,6 +4,18 @@ const listRegistry = require("./listRegistry.json");
 
 const tokenlists = buildList();
 
+// Agglayer Popular List
+fs.writeFile(
+    "build/tokenlists/agglayer.tokenlist.json",
+    JSON.stringify(tokenlists.agglayerTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("agglayer.tokenlist.json successfully built");
+    }
+);
+
 // Mainnet Popular List
 fs.writeFile(
     "build/tokenlists/popular.tokenlist.json",

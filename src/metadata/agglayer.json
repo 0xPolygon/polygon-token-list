@@ -1,0 +1,28 @@
+{
+    "name": "Popular Agglayer Tokens",
+    "version": 3,
+    "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
+    "description": "Contains the most used tokens on the Agglayer chains",
+    "tags": {
+        "agglayer": {
+            "name": "agglayer",
+            "description": "Token mapped through agglayer bridge"
+        },
+        "lifi": {
+            "name": "lifi",
+            "description": "Token mapped through lifi bridge"
+        },
+        "governanceToken": {
+            "name": "governanceToken",
+            "description": "Governance token of the chain"
+        },
+        "canonical": {
+            "name": "canonical",
+            "description": "Canonical token of the chain"
+        },
+        "noDeposit": {
+            "name": "noDeposit",
+            "description": "Token not eligible for deposits"
+        }
+    }
+}

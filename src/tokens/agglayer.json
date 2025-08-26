@@ -1,0 +1,167 @@
+[
+    {
+        "chainId": 1,
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "tags": ["canonical"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "originTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+            "supportedRoutes": ["lifi", "agglayer", "vaultBridge"]
+        }
+    },
+    {
+        "chainId": 137,
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "tags": ["canonical"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
+        "name": "VaultBridge Tether USD",
+        "symbol": "vbUSDT",
+        "decimals": 6,
+        "tags": ["wrapped"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "supportedRoutes": ["lifi", "agglayer", "vaultBridge"]
+        }
+    },
+
+    {
+        "chainId": 1,
+        "address": "0xA0b86991C6218B36C1d19D4a2e9Eb0cE3606EB48",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "tags": ["canonical"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xA0b86991C6218B36C1d19D4a2e9Eb0cE3606EB48",
+            "originTokenAddress": "0xA0b86991C6218B36C1d19D4a2e9Eb0cE3606EB48",
+            "originTokenNetwork": 1,
+            "wrappedTokenAddress": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+            "supportedRoutes": ["lifi", "agglayer", "vaultBridge"]
+        }
+    },
+    {
+        "chainId": 137,
+        "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "name": "USD Coin (native)",
+        "symbol": "USDC",
+        "decimals": 6,
+        "tags": ["canonical"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xA0b86991C6218B36C1d19D4a2e9Eb0cE3606EB48",
+            "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+        "name": "Vault Bridge USD Coin",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "tags": ["wrapped"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xA0b86991C6218B36C1d19D4a2e9Eb0cE3606EB48",
+            "supportedRoutes": ["lifi", "vaultBridge"]
+        }
+    },
+
+    {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "tags": ["canonical", "governanceToken"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
+            "originTokenAddress": "0x0000000000000000000000000000000000000000",
+            "originTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+            "supportedRoutes": ["lifi", "agglayer"]
+        }
+    },
+    {
+        "chainId": 137,
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "name": "Wrapped Ether (PoS)",
+        "symbol": "WETH",
+        "decimals": 18,
+        "tags": ["canonical"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
+            "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "tags": ["wrapped", "governanceToken"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
+            "originTokenAddress": "0x0000000000000000000000000000000000000000",
+            "originTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+            "supportedRoutes": ["lifi", "agglayer"]
+        }
+    },
+
+    {
+        "chainId": 1,
+        "address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "tags": ["canonical"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb24e3035d1FCBC0E43CF3143C3Fd92E53df2009b",
+            "supportedRoutes": ["lifi", "agglayer"]
+        }
+    },
+    {
+        "chainId": 137,
+        "address": "0x0000000000000000000000000000000000001010",
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "tags": ["canonical"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0xb24e3035d1FCBC0E43CF3143C3Fd92E53df2009b",
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb24e3035d1FCBC0E43CF3143C3Fd92E53df2009b",
+            "supportedRoutes": ["agglayer"]
+        }
+    }
+]
