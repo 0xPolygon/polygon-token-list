@@ -189,7 +189,7 @@
             {
                 "wrappedTokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
                 "wrappedNetworkId": -1,
-                "tags": ["oft", "erc20", "noDeposit", "noWithdraw"],
+                "tags": ["oft", "erc20"],
                 "originChainBridgeAdapter": "0x6C96dE32CEa08842dcc4058c14d3aaAD7Fa41dee",
                 "wrappedChainBridgeAdapter": "0x6BA10300f0DC58B7a1e4c0e41f5daBb7D7829e13"
             },
