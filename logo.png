@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NH Token Logo</title>
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #111;
+    }
+    iframe {
+      border: none;
+      width: 256px;
+      height: 256px;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="logo.png"></iframe>
+</body>
+</html>
