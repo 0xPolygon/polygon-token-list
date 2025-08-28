@@ -231,6 +231,7 @@
                 "wrappedNetworkId": -1,
                 "tags": ["oft", "erc20"],
                 "symbol": "USDT0",
+                "logoURI": "https://assets.polygon.technology/tokenAssets/usdt0.svg"
                 "originChainBridgeAdapter": "0x6C96dE32CEa08842dcc4058c14d3aaAD7Fa41dee",
                 "wrappedChainBridgeAdapter": "0x6BA10300f0DC58B7a1e4c0e41f5daBb7D7829e13"
             },
