@@ -1,0 +1,28 @@
+{
+  "name": "NH Token",
+  "symbol": "NH",
+  "address": "0xfe895d996B2772c8BD03C17A7E1392123351b1EC",
+  "chainId": 137,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/assets/master/blockchains/polygon/assets/0xfe895d996B2772c8BD03C17A7E1392123351b1EC/logo.png",
+  "extensions": {
+    "bridge": "polygon",
+    "assetContract": "0xfe895d996B2772c8BD03C17A7E1392123351b1EC",
+    "originChainId": 1,
+    "originAddress": "0xf930cf4150f7cb1108b30df610f07188fd794398"
+  }
+}
+{
+  "name": "NH Token",
+  "symbol": "NH",
+  "address": "0xf930cf4150f7cb1108b30df610f07188fd794398",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com//assets/master/blockchains/polygon/assets/0xf930cf4150f7cb1108b30df610f07188fd794398/logo.png",
+  "extensions": {
+    "bridge": "polygon",
+    "assetContract": "0xf930cf4150f7cb1108b30df610f07188fd794398",
+    "destinationChainId": 137,
+    "destinationAddress": "0xfe895d996B2772c8BD03C17A7E1392123351b1EC"
+  }
+}
