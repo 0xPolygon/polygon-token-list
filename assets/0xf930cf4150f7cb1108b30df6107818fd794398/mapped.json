@@ -1,0 +1,8 @@
+{
+  "name": "NH Token",
+  "symbol": "NH",
+  "address": "0xf930cf4150f7cb1108b30df6107818fd794398",
+  "chainId": 137,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/Nishantt/polygon-tokenlist/main/assets/0xf930cf4150f7cb1108b30df6107818fd794398/logo.png"
+}
