@@ -1,0 +1,18 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    paths:
+      - '**/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate JSON files
+        run: |
+          for file in $(find . -name "*.json"); do
+            echo "Validating $file"
+            jq . "$file" > /dev/null || exit 1
+          done
