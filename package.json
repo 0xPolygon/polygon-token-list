@@ -1,35 +1,36 @@
 {
-    "name": "polygon-token-list",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.json",
-    "scripts": {
-        "test": "mocha 'tests/tokenAddition'",
-        "test-all": "mocha 'tests'",
-        "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js",
-        "lint": "eslint \"./src/*\"",
-        "lint:fix": "eslint --fix \"./src/*\"",
-        "lint-tests:fix": "eslint --fix \"./tests/*\""
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/maticnetwork/polygon-token-list.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/maticnetwork/polygon-token-list/issues"
-    },
-    "homepage": "https://github.com/maticnetwork/polygon-token-list#readme",
-    "devDependencies": {
-        "@babel/eslint-parser": "^7.19.1",
-        "@babel/preset-env": "^7.20.2",
-        "@uniswap/token-lists": "^1.0.0-beta.26",
-        "ajv": "^8.6.3",
-        "ajv-formats": "^2.1.1",
-        "chai": "^4.3.4",
-        "eslint": "^8.39.0",
-        "mocha": "^10.2.0",
-        "rimraf": "^3.0.2"
-    }
+  "name": "polygon-token-list",
+  "version": "1.0.0",
+  "description": "Polygon Tokenlists repository for NH/NNT token integration. Validates and builds compliant token metadata for cross-chain visibility, aggregator indexing, and automated liquidity strategies. Includes CI/CD workflows for linting, testing, and audit-ready event logging.",
+  "main": "index.json",
+  "scripts": {
+    "test": "mocha 'tests/tokenAddition'",
+    "test-all": "mocha 'tests'",
+    "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js",
+    "lint": "eslint \"./src/*\"",
+    "lint:fix": "eslint --fix \"./src/*\"",
+    "lint-tests:fix": "eslint --fix \"./tests/*\"",
+    "validate": "node scripts/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maticnetwork/polygon-token-list.git"
+  },
+  "author": "NISHNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maticnetwork/polygon-token-list/issues"
+  },
+  "homepage": "https://github.com/maticnetwork/polygon-token-list#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/preset-env": "^7.20.2",
+    "@uniswap/token-lists": "^1.0.0-beta.26",
+    "ajv": "^8.6.3",
+    "ajv-formats": "^2.1.1",
+    "chai": "^4.3.4",
+    "eslint": "^8.39.0",
+    "mocha": "^10.2.0",
+    "rimraf": "^3.0.2"
+  }
 }
