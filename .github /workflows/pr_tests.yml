@@ -1,18 +1,33 @@
-name: Validate JSON
+name: Auto Logo Deploy
 
 on:
-  pull_request:
-    paths:
-      - '**/*.json'
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
-  validate:
-    runs-on: ubuntu-latest
+  deploy-logo:
+    runs-on: self-hosted
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Validate JSON files
-        run: |
-          for file in $(find . -name "*.json"); do
-            echo "Validating $file"
-            jq . "$file" > /dev/null || exit 1
-          done
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "NH/NNT Bot"
+        git config --global user.email "bot@nhnnt.dev"
+
+    - name: Copy logo and metadata
+      run: |
+        mkdir -p ./assets/polygon
+        cp ./logo/nhnnt.png ./assets/polygon/nhnnt.png
+        cp ./metadata/nhnnt.json ./assets/polygon/nhnnt.json
+
+    - name: Commit changes
+      run: |
+        git add ./assets/polygon/nhnnt.*
+        git commit -m "Auto-deploy NH/NNT logo and metadata [skip ci]" || echo "No changes to commit"
+
+    - name: Push to main
+      run: git push origin main
