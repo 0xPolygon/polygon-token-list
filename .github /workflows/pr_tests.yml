@@ -1,0 +1,33 @@
+name: Auto Logo Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy-logo:
+    runs-on: self-hosted
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "NH/NNT Bot"
+        git config --global user.email "bot@nhnnt.dev"
+
+    - name: Copy logo and metadata
+      run: |
+        mkdir -p ./assets/polygon
+        cp ./logo/nhnnt.png ./assets/polygon/nhnnt.png
+        cp ./metadata/nhnnt.json ./assets/polygon/nhnnt.json
+
+    - name: Commit changes
+      run: |
+        git add ./assets/polygon/nhnnt.*
+        git commit -m "Auto-deploy NH/NNT logo and metadata [skip ci]" || echo "No changes to commit"
+
+    - name: Push to main
+      run: git push origin main
