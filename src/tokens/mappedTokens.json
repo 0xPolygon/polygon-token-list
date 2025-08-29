@@ -735,6 +735,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x8276d71cb96910578b510d5b3d919e0607adad8d",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/bal.svg"
@@ -2513,6 +2520,13 @@
             },
             {
                 "wrappedTokenAddress": "0xb2cdc2bd0a3cacff5fcbbbe6cb869abc1e02afe5",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xb7c33bb1a9adbfe2fe91cb5729f5899f7e70a10b",
                 "tags": [
                     "lxly",
                     "erc20"
@@ -16224,6 +16238,13 @@
                     "erc20",
                     "noDeposit",
                     "noWithdraw"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+                "tags": [
+                    "lxly",
+                    "erc20"
                 ]
             },
             {
@@ -31282,6 +31303,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xa19ebba514741c221fa40dc4eaafed7e5cca4a90",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/crv.svg"
@@ -32299,6 +32327,13 @@
                     "erc20",
                     "noDeposit",
                     "noWithdraw"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xb62f7fc2d804ec32cff70ce9bc8638892cd2740c",
+                "tags": [
+                    "lxly",
+                    "erc20"
                 ]
             },
             {
@@ -39202,6 +39237,13 @@
             },
             {
                 "wrappedTokenAddress": "0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
                 "tags": [
                     "lxly",
                     "erc20"
@@ -59651,6 +59693,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xcbd303263f78e5d93c056e1f778416bcb8d581ac",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
@@ -59748,6 +59797,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -59784,6 +59840,13 @@
             "erc20"
         ],
         "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf0f134d9e2f831eed1198c271040eeb821f3bd13",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
             {
                 "wrappedTokenAddress": "0xf0f134d9e2f831eed1198c271040eeb821f3bd13",
                 "tags": [
@@ -59852,6 +59915,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x5e1c2bfb6aafd898d1b5a656150209c26d8de825",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -59893,6 +59963,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xe836025acb9a0bdb9c6dac8530f43c169356368d",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -59907,6 +59984,13 @@
             "erc20"
         ],
         "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb244add9fe6cb17558221e4dfea960e680ccd29b",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
             {
                 "wrappedTokenAddress": "0xb244add9fe6cb17558221e4dfea960e680ccd29b",
                 "tags": [
