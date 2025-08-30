@@ -70806,5 +70806,45 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Aurigami Token",
+        "symbol": "PLY",
+        "decimals": 18,
+        "originTokenAddress": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x2544d4dcfd840b9e83d08df704e7877cc168c805",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Genesis",
+        "symbol": "GEN",
+        "decimals": 18,
+        "originTokenAddress": "0x99999999999997fceb5549c58ab66df52385ca4d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x8b3e005422070337b55edb1693021203bf18a2ee",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
