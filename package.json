@@ -31,5 +31,8 @@
         "eslint": "^8.39.0",
         "mocha": "^10.2.0",
         "rimraf": "^3.0.2"
+    },
+    "dependencies": {
+        "wrangler": "^4.34.0"
     }
 }
