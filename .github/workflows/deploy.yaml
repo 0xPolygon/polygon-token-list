@@ -1,0 +1,44 @@
+run-name: Deploy ${{ github.ref_name }}
+
+on:
+  push:
+    branches:
+      - master
+      - dev
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  get-env:
+    runs-on: ubuntu-latest
+    outputs:
+      env: ${{ steps.set-env.outputs.env }}
+    steps:
+      - id: set-env
+        run: |
+          if [ "${{ github.ref_name }}" == "master" ]; then
+            export ENV=production
+          fi
+
+          if [ "${{ github.ref_name }}" == "dev" ]; then
+            export ENV=staging
+          fi
+
+          echo "env=$ENV" >> "$GITHUB_OUTPUT"
+
+  build-and-deploy:
+    needs: [get-env]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+      - run: npm ci
+      - run: npm run build
+      - name: Deploy bundle
+        uses: cloudflare/wrangler-action@v3
+        with:
+          environment: ${{ needs.get-env.outputs.env }}
+          apiToken: ${{ secrets.CF_WORKER_API_TOKEN }}
+          accountId: ${{ secrets.CF_WORKER_ACCOUNT_ID }}
