@@ -1,0 +1,19 @@
+name = "polygon-token-list"
+compatibility_date = "2024-12-30"
+placement = { mode = "smart" }
+preview_urls = false
+send_metrics = false
+workers_dev = false
+
+[assets]
+directory = "build/tokenlists"
+
+[env.staging]
+routes = [
+    { pattern = "api-polygon-tokens.staging.polygon.technology", custom_domain = true },
+]
+
+[env.production]
+routes = [
+    { pattern = "api-polygon-tokens.polygon.technology", custom_domain = true },
+]
