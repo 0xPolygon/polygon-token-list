@@ -10,10 +10,10 @@ directory = "build/tokenlists"
 
 [env.staging]
 routes = [
-    { pattern = "api-polygon-tokens.staging.polygon.technology", custom_domain = true },
+    { pattern = "api-polygon-tokens.staging.polygon.technology/*", custom_domain = true },
 ]
 
 [env.production]
 routes = [
-    { pattern = "api-polygon-tokens.polygon.technology", custom_domain = true },
+    { pattern = "api-polygon-tokens.polygon.technology/*", custom_domain = true },
 ]
