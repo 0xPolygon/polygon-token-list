@@ -20078,5 +20078,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Test Token",
+        "symbol": "TTN",
+        "decimals": 18,
+        "originTokenAddress": "0xac80aa979dc3e01b92d080c8e4248915837df296",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x589531fac8e0df705a6edce43a13e7562bb3ffa1",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
