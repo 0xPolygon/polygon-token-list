@@ -1,24 +1,24 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 function generateWorkerCode() {
-    const buildDir = path.join(__dirname, '../build');
-    const tokenListsDir = path.join(buildDir, 'tokenlists');
+    const buildDir = path.join(__dirname, "../build");
+    const tokenListsDir = path.join(buildDir, "tokenlists");
     
     // Get all JSON files in the tokenlists directory
     const tokenListFiles = fs.readdirSync(tokenListsDir)
-        .filter(file => file.endsWith('.json'))
+        .filter(file => file.endsWith(".json"))
         .sort(); // Sort for consistent ordering
     
     // Generate import statements
     const imports = [
-        'import listRegistry from "../build/listRegistry.json";'
+        "import listRegistry from \"../build/listRegistry.json\";"
     ];
     
     const variableNames = [];
     
     tokenListFiles.forEach((file, index) => {
-        const baseName = file.replace('.json', '');
+        const baseName = file.replace(".json", "");
         const variableName = `tokenList${index}`;
         variableNames.push({ variableName, file, baseName });
         imports.push(`import ${variableName} from "../build/tokenlists/${file}";`);
@@ -26,8 +26,8 @@ function generateWorkerCode() {
     
     // Generate file map
     const fileMapEntries = [
-        '    "/": listRegistry,',
-        '    "/listRegistry.json": listRegistry,'
+        "    \"/\": listRegistry,",
+        "    \"/listRegistry.json\": listRegistry,"
     ];
     
     variableNames.forEach(({ variableName, file }) => {
@@ -35,7 +35,7 @@ function generateWorkerCode() {
     });
     
     // Generate the complete worker code
-    const workerCode = `${imports.join('\n')}
+    const workerCode = `${imports.join("\n")}
 
 const corsHeaders = {
     "Access-Control-Allow-Origin": "*",
@@ -45,7 +45,7 @@ const corsHeaders = {
 
 // Auto-generated file mapping based on build directory contents
 const fileMap = {
-${fileMapEntries.join('\n')}
+${fileMapEntries.join("\n")}
 };
 
 export default {
@@ -79,12 +79,12 @@ export default {
 `;
 
     // Write the generated worker code
-    const outputPath = path.join(__dirname, 'wrangler_main.js');
+    const outputPath = path.join(__dirname, "wrangler_main.js");
     fs.writeFileSync(outputPath, workerCode);
     
-    console.log('✅ Generated wrangler_main.js with the following files:');
-    console.log('   - / → listRegistry.json');
-    console.log('   - /listRegistry.json → listRegistry.json');
+    console.log("✅ Generated wrangler_main.js with the following files:");
+    console.log("   - / → listRegistry.json");
+    console.log("   - /listRegistry.json → listRegistry.json");
     variableNames.forEach(({ file }) => {
         console.log(`   - /tokenlists/${file} → tokenlists/${file}`);
     });
