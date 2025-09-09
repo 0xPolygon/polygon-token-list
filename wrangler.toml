@@ -1,12 +1,10 @@
 name = "polygon-token-list"
+main = "src/wrangler_main.js"
 compatibility_date = "2024-12-30"
 placement = { mode = "smart" }
 preview_urls = false
 send_metrics = false
 workers_dev = false
-
-[assets]
-directory = "build"
 
 [env.staging]
 routes = [
