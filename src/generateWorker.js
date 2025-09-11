@@ -40,7 +40,9 @@ function generateWorkerCode() {
 const corsHeaders = {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET, HEAD, POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type, X-Requested-With",
+    "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Max-Age": "1728000",
 };
 
 // Auto-generated file mapping based on build directory contents
