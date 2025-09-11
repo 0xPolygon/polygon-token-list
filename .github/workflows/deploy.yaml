@@ -15,18 +15,20 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       env: ${{ steps.set-env.outputs.env }}
+      project-name: ${{ steps.set-env.outputs.project-name }}
     steps:
       - id: set-env
-        run: |
+        run: | 
           if [ "${{ github.ref_name }}" == "master" ]; then
             export ENV=production
-          fi
-
-          if [ "${{ github.ref_name }}" == "dev" ]; then
+            export PROJECT_NAME="polygon-token-list"
+          else
             export ENV=staging
+            export PROJECT_NAME="polygon-token-list-staging"
           fi
 
           echo "env=$ENV" >> "$GITHUB_OUTPUT"
+          echo "project-name=$PROJECT_NAME" >> "$GITHUB_OUTPUT"
 
   build-and-deploy:
     needs: [get-env]
@@ -36,7 +38,7 @@ jobs:
       - uses: actions/setup-node@v5
       - run: npm ci
       - run: npm run build
-      - name: Deploy bundle
+      - name: Deploy to Cloudflare Workers
         uses: cloudflare/wrangler-action@v3
         with:
           environment: ${{ needs.get-env.outputs.env }}

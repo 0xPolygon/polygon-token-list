@@ -1,17 +1,21 @@
 name = "polygon-token-list"
-main = "src/wrangler_main.js"
+main = "src/worker.js"
 compatibility_date = "2024-12-30"
 placement = { mode = "smart" }
 preview_urls = false
 send_metrics = false
 workers_dev = false
 
+# Static assets with worker for OPTIONS handling
+[assets]
+directory = "build"
+
 [env.staging]
 routes = [
-    "api-polygon-tokens.staging.polygon.technology/*"
+    { pattern = "api-polygon-tokens.staging.polygon.technology", custom_domain = true },
 ]
 
 [env.production]
 routes = [
-    "api-polygon-tokens.polygon.technology/*"
+    { pattern = "api-polygon-tokens-cf.polygon.technology", custom_domain = true },
 ]

@@ -1,0 +1,55 @@
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+    
+    // Handle OPTIONS requests first
+    if (request.method === 'OPTIONS') {
+      return new Response(null, {
+        status: 204,
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Methods': 'GET, HEAD, POST, OPTIONS',
+          'Access-Control-Allow-Headers': 'Content-Type, X-Requested-With',
+          'Access-Control-Max-Age': '86400',
+        },
+      });
+    }
+
+    // Handle root redirect to listRegistry.json
+    if (url.pathname === '/') {
+      // Redirect to listRegistry.json
+      return Response.redirect(new URL('/listRegistry.json', url.origin), 302);
+    }
+
+    // For all other requests, let Cloudflare serve static assets
+    // and add CORS headers to the response
+    let response;
+    
+    try {
+      if (env.ASSETS) {
+        response = await env.ASSETS.fetch(request);
+      } else {
+        // Fallback for local development
+        response = await fetch(request);
+      }
+    } catch (error) {
+      console.error('Error fetching asset:', error);
+      response = await fetch(request);
+    }
+    
+    // Clone the response to add CORS headers
+    const newResponse = new Response(response.body, {
+      status: response.status,
+      statusText: response.statusText,
+      headers: {
+        ...response.headers,
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, HEAD, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type, X-Requested-With',
+        'Access-Control-Max-Age': '86400',
+      },
+    });
+
+    return newResponse;
+  },
+};

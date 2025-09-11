@@ -1,0 +1,5 @@
+# Serve listRegistry.json for explicit requests
+/listRegistry.json  /listRegistry.json  200
+
+# Serve token lists from tokenlists directory
+/tokenlists/*  /tokenlists/:splat  200
