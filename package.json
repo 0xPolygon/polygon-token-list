@@ -6,7 +6,7 @@
     "scripts": {
         "test": "mocha 'tests/tokenAddition'",
         "test-all": "mocha 'tests'",
-        "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js",
+        "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js && node src/generateWorker.js",
         "lint": "eslint \"./src/*\"",
         "lint:fix": "eslint --fix \"./src/*\"",
         "lint-tests:fix": "eslint --fix \"./tests/*\""
