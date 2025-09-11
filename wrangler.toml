@@ -8,10 +8,10 @@ workers_dev = false
 
 [env.staging]
 routes = [
-    { pattern = "api-polygon-tokens.staging.polygon.technology", custom_domain = true },
+    "api-polygon-tokens.staging.polygon.technology/*"
 ]
 
 [env.production]
 routes = [
-    { pattern = "api-polygon-tokens.polygon.technology", custom_domain = true },
+    "api-polygon-tokens.polygon.technology/*"
 ]
