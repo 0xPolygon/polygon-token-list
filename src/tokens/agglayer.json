@@ -12,7 +12,8 @@
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "originTokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "originTokenNetwork": 1,
-            "wrappedTokenAddress": "0xf0f134d9e2f831eed1198c271040eeb821f3bd13",
+            "v1WrappedTokenAddress": "0x58a2dC7760d81e926F43453e3fCF04ac461B7CAd",
+            "v2WrappedTokenAddress": "0xf0f134d9e2f831eed1198c271040eeb821f3bd13",
             "supportedRoutes": [
                 "lifi",
                 "agglayer"
@@ -36,22 +37,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x58a2dC7760d81e926F43453e3fCF04ac461B7CAd",
-        "name": "Arbitrum",
-        "symbol": "ARB",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
-            "supportedRoutes": [
-                "agglayer"
-            ]
-        }
-    },
-    {
         "chainId": 1,
         "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
         "name": "AUSD",
@@ -64,10 +49,8 @@
             "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
             "originTokenAddress": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
             "originTokenNetwork": 0,
-            "wrappedTokenAddress": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
             "supportedRoutes": [
-                "lifi",
-                "agglayer"
+                "lifi"
             ]
         }
     },
@@ -104,38 +87,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x2fa6e214e82565136a4e08e7b1a7c99ade579d82",
-        "name": "AUSD",
-        "symbol": "AUSD",
-        "decimals": 6,
-        "tags": [
-            "wrapped"
-        ],
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-            "supportedRoutes": [
-                "agglayer"
-            ]
-        }
-    },
-    {
-        "chainId": 43114,
-        "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
-        "name": "Avaware USD",
-        "symbol": "AUSD",
-        "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-            "supportedRoutes": [
-                "lifi"
-            ]
-        }
-    },
-    {
         "chainId": 1,
         "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
         "name": "BNB",
@@ -148,7 +99,8 @@
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
             "originTokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
             "originTokenNetwork": 1,
-            "wrappedTokenAddress": "0x069e038ac1CAd2DaB85e9B5707334a0a95aA878B",
+            "v1WrappedTokenAddress": "0x44F477bd27c069758Ae617DC47B193e0DFD776bc",
+            "v2WrappedTokenAddress": "0x069e038ac1CAd2DaB85e9B5707334a0a95aA878B",
             "supportedRoutes": [
                 "lifi",
                 "agglayer"
@@ -205,22 +157,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x44F477bd27c069758Ae617DC47B193e0DFD776bc",
-        "name": "BNB",
-        "symbol": "BNB",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-            "supportedRoutes": [
-                "agglayer"
-            ]
-        }
-    },
-    {
         "chainId": 1,
         "address": "0x0000000000000000000000000000000000000000",
         "name": "ETH",
@@ -234,7 +170,8 @@
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "originTokenAddress": "0x0000000000000000000000000000000000000000",
             "originTokenNetwork": 1,
-            "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+            "v1WrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+            "v2WrappedTokenAddress": "0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
                 "lifi",
                 "agglayer"
@@ -271,8 +208,7 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
-                "lifi",
-                "agglayer"
+                "lifi"
             ]
         }
     },
@@ -289,8 +225,7 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
-                "lifi",
-                "agglayer"
+                "lifi"
             ]
         }
     },
@@ -324,7 +259,8 @@
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "originTokenNetwork": 1,
-            "wrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+            "v2WrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+            "v1WrappedTokenAddress": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
             "supportedRoutes": [
                 "lifi",
                 "agglayer"
@@ -365,22 +301,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
-        "name": "Polygon Ecosystem Token",
-        "symbol": "POL",
-        "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
-            "supportedRoutes": [
-                "agglayer"
-            ]
-        }
-    },
-    {
         "chainId": 1,
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "name": "USD Coin",
@@ -393,7 +313,8 @@
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenNetwork": 1,
-            "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
+            "v2WrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
+            "v1WrappedTokenAddress": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
             "supportedRoutes": [
                 "lifi",
                 "agglayer"
@@ -535,7 +456,8 @@
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "originTokenNetwork": 1,
-            "wrappedTokenAddress": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
+            "v2WrappedTokenAddress": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
+            "v1WrappedTokenAddress": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
             "supportedRoutes": [
                 "lifi",
                 "agglayer"
@@ -575,22 +497,6 @@
         }
     },
     {
-        "chainId": 747474,
-        "address": "0xf44e3BCB7A2461CC08185E127B324f2486a74E20",
-        "name": "USDT",
-        "symbol": "USDT",
-        "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "supportedRoutes": [
-                "agglayer"
-            ]
-        }
-    },
-    {
         "chainId": 1101,
         "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
         "name": "USDT",
@@ -602,8 +508,7 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
-                "lifi",
-                "agglayer"
+                "lifi"
             ]
         }
     },
@@ -636,7 +541,8 @@
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "originTokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "originTokenNetwork": 1,
-            "wrappedTokenAddress": "0xb33e43a3f276e8e75792b941bccc996ecb2c0bbd",
+            "v1WrappedTokenAddress": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+            "v2WrappedTokenAddress": "0xb33e43a3f276e8e75792b941bccc996ecb2c0bbd",
             "supportedRoutes": [
                 "lifi",
                 "agglayer"
@@ -676,22 +582,6 @@
         }
     },
     {
-        "chainId": 747474,
-        "address": "0xB33e43A3F276e8e75792b941bccC996EcB2c0bBD",
-        "name": "WBTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "agglayer"
-            ]
-        }
-    },
-    {
         "chainId": 1101,
         "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
         "name": "Wrapped BTC",
@@ -703,8 +593,7 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
-                "lifi",
-                "agglayer"
+                "lifi"
             ]
         }
     },
