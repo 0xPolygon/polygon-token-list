@@ -24,5 +24,153 @@
             "name": "noDeposit",
             "description": "Token not eligible for deposits"
         }
-    }
+    },
+    "chains": [
+        {
+            "chainId": 1,
+            "blockExplorerUrl": "https://etherscan.io/",
+            "chainType": "EVM",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg",
+            "name": "Ethereum",
+            "rpcURL": "https://eth.drpc.org",
+            "nativeCurrency": {
+                "decimals": 18,
+                "name": "ETH",
+                "symbol": "ETH",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
+            },
+            "supportedRoutes": [
+                "lifi",
+                "agglayer"
+            ],
+            "networkId": 0,
+            "autoClaimEnabled": false,
+            "lxlyVersion": 1
+        },
+        {
+            "chainId": 56,
+            "nativeCurrency": {
+                "symbol": "BNB",
+                "decimals": 18,
+                "name": "BNB",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/bsc.svg"
+            },
+            "supportedRoutes": [
+                "lifi"
+            ],
+            "name": "BSC",
+            "chainType": "EVM",
+            "rpcURL": "https://binance.llamarpc.com",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/bsc.svg",
+            "blockExplorerUrl": "https://bscscan.com/"
+        },
+        {
+            "chainId": 137,
+            "nativeCurrency": {
+                "symbol": "POL",
+                "decimals": 18,
+                "name": "Polygon Ecosystem Token",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/polygon.svg"
+            },
+            "supportedRoutes": [
+                "lifi"
+            ],
+            "name": "Polygon",
+            "chainType": "EVM",
+            "rpcURL": "https://polygon-rpc.com",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/polygon.svg",
+            "blockExplorerUrl": "https://polygonscan.com/"
+        },
+        {
+            "chainId": 1101,
+            "blockExplorerUrl": "https://zkevm.polygonscan.com/",
+            "chainType": "EVM",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/zkevm.svg",
+            "name": "Polygon zkEVM",
+            "nativeCurrency": {
+                "decimals": 18,
+                "name": "ETH",
+                "symbol": "ETH",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
+            },
+            "rpcURL": "https://zkevm-rpc.com",
+            "supportedRoutes": [
+                "lifi",
+                "agglayer"
+            ],
+            "networkId": 1,
+            "autoClaimEnabled": true
+        },
+        {
+            "chainId": 747474,
+            "blockExplorerUrl": "https://katanascan.com/",
+            "chainType": "EVM",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/katana.svg",
+            "name": "Katana",
+            "nativeCurrency": {
+                "decimals": 18,
+                "name": "ETH",
+                "symbol": "ETH",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
+            },
+            "supportedRoutes": [
+                "lifi",
+                "agglayer"
+            ],
+            "rpcURL": "https://rpc.katana.network",
+            "networkId": 20,
+            "autoClaimEnabled": true
+        },
+        {
+            "chainId": 8453,
+            "nativeCurrency": {
+                "symbol": "ETH",
+                "decimals": 18,
+                "name": "ETH",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
+            },
+            "supportedRoutes": [
+                "lifi"
+            ],
+            "name": "Base",
+            "chainType": "EVM",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/base.svg",
+            "blockExplorerUrl": "https://basescan.org/",
+            "rpcURL": "https://base.llamarpc.com"
+        },
+        {
+            "chainId": 43114,
+            "nativeCurrency": {
+                "symbol": "AVAX",
+                "decimals": 18,
+                "name": "AVAX",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/avalanche.svg"
+            },
+            "supportedRoutes": [
+                "lifi"
+            ],
+            "name": "Avalanche",
+            "chainType": "EVM",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/avalanche.svg",
+            "blockExplorerUrl": "https://snowtrace.io/",
+            "rpcURL": "https://avalanche.drpc.org"
+        },
+        {
+            "chainId": 42161,
+            "nativeCurrency": {
+                "symbol": "ETH",
+                "decimals": 18,
+                "name": "ETH",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
+            },
+            "supportedRoutes": [
+                "lifi"
+            ],
+            "name": "Arbitrum",
+            "chainType": "EVM",
+            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/arbitrum.svg",
+            "blockExplorerUrl": "https://arbiscan.io/",
+            "rpcURL": "https://arbitrum.rpc.subquery.network/public"
+        }
+    ]
 }
