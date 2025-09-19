@@ -6,7 +6,7 @@
     "scripts": {
         "test": "mocha 'tests/tokenAddition'",
         "test-all": "mocha 'tests'",
-        "build": "rimraf build && mkdir -p build/tokenlists build/_functions && node src/write.js && cp src/_headers build/_headers && cp src/_redirects build/_redirects && cp functions/_middleware.js build/_functions/_middleware.js",
+        "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js && cp src/_headers build/_headers && cp src/_redirects build/_redirects",
         "deploy": "npm run build && npx wrangler pages deploy build",
         "deploy:staging": "npm run build && npx wrangler pages deploy build --env staging",
         "deploy:production": "npm run build && npx wrangler pages deploy build --env production",
