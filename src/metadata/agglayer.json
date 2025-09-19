@@ -99,7 +99,8 @@
                 "agglayer"
             ],
             "networkId": 1,
-            "autoClaimEnabled": true
+            "autoClaimEnabled": true,
+            "lxlyVersion": 1
         },
         {
             "chainId": 747474,
@@ -119,7 +120,8 @@
             ],
             "rpcURL": "https://rpc.katana.network",
             "networkId": 20,
-            "autoClaimEnabled": true
+            "autoClaimEnabled": true,
+            "lxlyVersion": 2
         },
         {
             "chainId": 8453,
