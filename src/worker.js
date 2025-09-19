@@ -17,8 +17,53 @@ export default {
 
     // Handle root redirect to listRegistry.json
     if (url.pathname === '/') {
-      // Redirect to listRegistry.json
-      return Response.redirect(new URL('/listRegistry.json', url.origin), 302);
+      // Fetch listRegistry.json content and return it directly
+      try {
+        if (env.ASSETS) {
+          const listRegistryRequest = new Request(new URL('/listRegistry.json', url.origin), {
+            method: 'GET',
+            headers: request.headers,
+          });
+          const response = await env.ASSETS.fetch(listRegistryRequest);
+          
+          return new Response(response.body, {
+            status: response.status,
+            statusText: response.statusText,
+            headers: {
+              ...response.headers,
+              'Access-Control-Allow-Origin': '*',
+              'Access-Control-Allow-Methods': 'GET, HEAD, POST, OPTIONS',
+              'Access-Control-Allow-Headers': 'Content-Type, X-Requested-With',
+              'Access-Control-Max-Age': '86400',
+            },
+          });
+        } else {
+          // Fallback for local development
+          const response = await fetch(new URL('/listRegistry.json', url.origin));
+          return new Response(response.body, {
+            status: response.status,
+            statusText: response.statusText,
+            headers: {
+              ...response.headers,
+              'Access-Control-Allow-Origin': '*',
+              'Access-Control-Allow-Methods': 'GET, HEAD, POST, OPTIONS',
+              'Access-Control-Allow-Headers': 'Content-Type, X-Requested-With',
+              'Access-Control-Max-Age': '86400',
+            },
+          });
+        }
+      } catch (error) {
+        console.error('Error fetching listRegistry.json:', error);
+        return new Response('Internal Server Error', { 
+          status: 500,
+          headers: {
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Methods': 'GET, HEAD, POST, OPTIONS',
+            'Access-Control-Allow-Headers': 'Content-Type, X-Requested-With',
+            'Access-Control-Max-Age': '86400',
+          },
+        });
+      }
     }
 
     // For all other requests, let Cloudflare serve static assets
