@@ -20098,5 +20098,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Psichedelic",
+        "symbol": "PSI",
+        "decimals": 18,
+        "originTokenAddress": "0x4a3ee55dc65331a614185f74e79bd2bf97d3754a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x157c8f6e593e34374249d7d9eb1fed48d0094d74",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
