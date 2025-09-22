@@ -60528,5 +60528,23 @@
                 ]
             }
         ]
-    }
+    },
+    {
+    "chainId": 137,
+    "name": "Goofy",
+    "symbol": "GOGO",
+    "decimals": 18,
+    "originTokenAddress": "0x6f6d7e63b7c036f053b103215758068b6ff1c329",
+    "originNetworkId": 137,
+    "tags": ["erc20"],
+    "wrappedTokens": [
+        {
+            "wrappedTokenAddress": "0x6f6d7e63b7c036f053b103215758068b6ff1c329",
+            "wrappedNetworkId": -1,
+            "tags": ["erc20"]
+        }
+    ],
+    "logoURI": "https://raw.githubusercontent.com/GOOFY-GOGO/GOOFY-GOGO-Distribution-Schedule/refs/heads/main/GOOFY_GOGO-removebg-preview.png"
+}
+
 ]
