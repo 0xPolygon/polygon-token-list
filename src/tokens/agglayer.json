@@ -8,7 +8,7 @@
         "tags": [
             "canonical"
         ],
-        "logoURI": "https://cryptologos.cc/logos/arbitrum-arb-logo.svg",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "originTokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
