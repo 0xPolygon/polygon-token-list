@@ -20139,5 +20139,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "MovieBlock",
+        "symbol": "MBL",
+        "decimals": "18",
+        "originTokenAddress": "0x24c5da235e358ca292afab5b5d93cd30dff2368e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd26dce91d5ce26460f924dc76d0b8cebbdeb0535",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
