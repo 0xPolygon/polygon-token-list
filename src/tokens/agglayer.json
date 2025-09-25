@@ -8,6 +8,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "originTokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
@@ -29,6 +30,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "supportedRoutes": [
@@ -45,6 +47,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32864.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
             "originTokenAddress": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
@@ -63,6 +66,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32864.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
             "supportedRoutes": [
@@ -79,6 +83,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32864.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
             "supportedRoutes": [
@@ -95,6 +100,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
             "originTokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
@@ -116,6 +122,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
             "supportedRoutes": [
@@ -133,6 +140,7 @@
             "canonical",
             "governanceToken"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
             "supportedRoutes": [
@@ -149,6 +157,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
             "supportedRoutes": [
@@ -166,6 +175,7 @@
             "canonical",
             "governanceToken"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "originTokenAddress": "0x0000000000000000000000000000000000000000",
@@ -188,6 +198,7 @@
             "canonical",
             "governanceToken"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
@@ -205,6 +216,7 @@
             "canonical",
             "governanceToken"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
@@ -222,6 +234,7 @@
             "canonical",
             "governanceToken"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
@@ -239,6 +252,7 @@
             "canonical",
             "governanceToken"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
@@ -255,6 +269,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
@@ -277,6 +292,7 @@
             "canonical",
             "governanceToken"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "supportedRoutes": [
@@ -293,6 +309,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "supportedRoutes": [
@@ -309,6 +326,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -330,6 +348,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -346,6 +365,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -362,6 +382,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -383,6 +404,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -404,6 +426,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -420,6 +443,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -436,6 +460,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -452,6 +477,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -473,6 +499,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
@@ -489,6 +516,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
@@ -505,6 +533,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
@@ -521,6 +550,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
@@ -537,6 +567,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "originTokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
@@ -558,6 +589,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
@@ -574,6 +606,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
@@ -590,6 +623,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
@@ -606,6 +640,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
@@ -622,6 +657,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
@@ -638,6 +674,7 @@
         "tags": [
             "canonical"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
