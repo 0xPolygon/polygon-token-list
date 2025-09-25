@@ -70846,5 +70846,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "FARCANA",
+        "symbol": "FAR",
+        "decimals": 18,
+        "originTokenAddress": "0xf9fa60ef4f23f00cce403cc4d2c11baf4880a0d6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x74c0b83432a44193ecbb349c2dffb1b099021e2f",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
