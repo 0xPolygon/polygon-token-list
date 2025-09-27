@@ -70866,5 +70866,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "GigaCyan",
+        "symbol": "GCY",
+        "decimals": 18,
+        "originTokenAddress": "0x80ca9708b1fb3a165e4153142390d450914f966f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf8c381d7185f267bd771ad78d7448cdb83a4bb45",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
