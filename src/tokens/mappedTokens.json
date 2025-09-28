@@ -70886,5 +70886,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "vbUSDT yVault",
+        "symbol": "yvvbUSDT",
+        "decimals": 6,
+        "originTokenAddress": "0x9a6bd7b6fd5c4f87eb66356441502fc7dcdd185b",
+        "originNetworkId": 20,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x38d6144cc17bc2528b25809afc5d6511a800d327",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
