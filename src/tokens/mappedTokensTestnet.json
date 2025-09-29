@@ -20180,5 +20180,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "TERC20",
+        "symbol": "TEC",
+        "decimals": 18,
+        "originTokenAddress": "0x65000e98bbb40088461c2ef0dac1b2d5e818abc5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc26557fc4f1869e2b2213e2f4b1c260c26300fa1",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
