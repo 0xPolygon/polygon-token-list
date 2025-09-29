@@ -20160,5 +20160,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "HERC20",
+        "symbol": "HEC",
+        "decimals": 18,
+        "originTokenAddress": "0xddb2e9e8d449101840e0df5f0e4d48329bf65478",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x5a402f63e8e65fcadd488308a4d4b31de58c6e7c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
