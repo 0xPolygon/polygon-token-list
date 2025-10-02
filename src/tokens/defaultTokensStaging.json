@@ -98,7 +98,7 @@
             {
                 "wrappedTokenAddress": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
                 "wrappedNetworkId": 3,
-                "tags": ["zkevmMessageBridge", "erc20"],
+                "tags": ["xLayerMessageBridge", "erc20"],
                 "originChainBridgeAdapter": "0xfe3240995c771f10d2583e8fa95f92ee40e15150",
                 "wrappedChainBridgeAdapter": "0x1a8c4999d32f05b63a227517be0824aed47e4728",
                 "name": "USD Coin",
