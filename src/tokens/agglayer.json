@@ -5,20 +5,15 @@
         "name": "Arbitrum",
         "symbol": "ARB",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "originTokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "v1WrappedTokenAddress": "0x58a2dC7760d81e926F43453e3fCF04ac461B7CAd",
             "v2WrappedTokenAddress": "0xf0f134d9e2f831eed1198c271040eeb821f3bd13",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
+            "supportedRoutes": ["lifi", "agglayer"]
         }
     },
     {
@@ -27,15 +22,11 @@
         "name": "Arbitrum",
         "symbol": "ARB",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -44,17 +35,11 @@
         "name": "AUSD",
         "symbol": "AUSD",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32864.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-            "originTokenAddress": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-            "originTokenNetwork": 0,
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -63,15 +48,11 @@
         "name": "AUSD",
         "symbol": "AUSD",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32864.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -80,15 +61,11 @@
         "name": "AUSD",
         "symbol": "AUSD",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32864.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -97,20 +74,15 @@
         "name": "BNB",
         "symbol": "BNB",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
             "originTokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "v1WrappedTokenAddress": "0x44F477bd27c069758Ae617DC47B193e0DFD776bc",
             "v2WrappedTokenAddress": "0x069e038ac1CAd2DaB85e9B5707334a0a95aA878B",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
+            "supportedRoutes": ["lifi", "agglayer"]
         }
     },
     {
@@ -119,15 +91,11 @@
         "name": "BNB (PoS)",
         "symbol": "BNB",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -136,16 +104,11 @@
         "name": "BNB",
         "symbol": "BNB",
         "decimals": 18,
-        "tags": [
-            "canonical",
-            "governanceToken"
-        ],
+        "tags": ["canonical", "governanceToken"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -154,15 +117,11 @@
         "name": "BNB",
         "symbol": "BNB",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -171,21 +130,15 @@
         "name": "ETH",
         "symbol": "ETH",
         "decimals": 18,
-        "tags": [
-            "canonical",
-            "governanceToken"
-        ],
+        "tags": ["canonical", "governanceToken"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "originTokenAddress": "0x0000000000000000000000000000000000000000",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "v1WrappedTokenAddress": "0x0000000000000000000000000000000000000000",
             "v2WrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
+            "supportedRoutes": ["lifi", "agglayer"]
         }
     },
     {
@@ -194,16 +147,11 @@
         "name": "ETH",
         "symbol": "ETH",
         "decimals": 18,
-        "tags": [
-            "canonical",
-            "governanceToken"
-        ],
+        "tags": ["canonical", "governanceToken"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -212,16 +160,11 @@
         "name": "ETH",
         "symbol": "ETH",
         "decimals": 18,
-        "tags": [
-            "canonical",
-            "governanceToken"
-        ],
+        "tags": ["canonical", "governanceToken"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -230,16 +173,11 @@
         "name": "ETH",
         "symbol": "ETH",
         "decimals": 18,
-        "tags": [
-            "canonical",
-            "governanceToken"
-        ],
+        "tags": ["canonical", "governanceToken"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -248,16 +186,11 @@
         "name": "ETH",
         "symbol": "ETH",
         "decimals": 18,
-        "tags": [
-            "canonical",
-            "governanceToken"
-        ],
+        "tags": ["canonical", "governanceToken"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -266,20 +199,15 @@
         "name": "Polygon Ecosystem Token",
         "symbol": "POL",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "v2WrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
             "v1WrappedTokenAddress": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
+            "supportedRoutes": ["lifi", "agglayer"]
         }
     },
     {
@@ -288,16 +216,11 @@
         "name": "Polygon Ecosystem Token",
         "symbol": "POL",
         "decimals": 18,
-        "tags": [
-            "canonical",
-            "governanceToken"
-        ],
+        "tags": ["canonical", "governanceToken"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -306,15 +229,11 @@
         "name": "Polygon Ecosystem Token",
         "symbol": "POL",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -323,20 +242,15 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "v2WrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
             "v1WrappedTokenAddress": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
+            "supportedRoutes": ["lifi", "agglayer"]
         }
     },
     {
@@ -345,15 +259,11 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -362,15 +272,11 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -379,20 +285,16 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "wrappedTokenAddress": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
             "originBridgeAdapterAddress": "0x70E70e58ed7B1Cec0D8ef7464072ED8A52d755eB",
             "wrappedBridgeAdapterAddress": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189",
-            "supportedRoutes": [
-                "agglayer-message"
-            ]
+            "supportedRoutes": ["agglayer-message"]
         }
     },
     {
@@ -401,20 +303,16 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "wrappedTokenAddress": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
             "originBridgeAdapterAddress": "0xfe3240995c771f10d2583e8fa95f92ee40e15150",
             "wrappedBridgeAdapterAddress": "0x1a8c4999d32f05b63a227517be0824aed47e4728",
-            "supportedRoutes": [
-                "agglayer-message"
-            ]
+            "supportedRoutes": ["agglayer-message"]
         }
     },
     {
@@ -423,15 +321,11 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -440,15 +334,11 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -457,15 +347,11 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -474,20 +360,15 @@
         "name": "USDT",
         "symbol": "USDT",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "v2WrappedTokenAddress": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
             "v1WrappedTokenAddress": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
+            "supportedRoutes": ["lifi", "agglayer"]
         }
     },
     {
@@ -496,15 +377,11 @@
         "name": "USDT",
         "symbol": "USDT",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -513,15 +390,11 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -530,15 +403,11 @@
         "name": "USDT",
         "symbol": "USDT",
         "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -547,15 +416,11 @@
         "name": "USDT",
         "symbol": "USDT",
         "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -564,20 +429,15 @@
         "name": "WBTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "originTokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "originTokenNetwork": 1,
+            "originTokenNetwork": 0,
             "v1WrappedTokenAddress": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
             "v2WrappedTokenAddress": "0xb33e43a3f276e8e75792b941bccc996ecb2c0bbd",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
+            "supportedRoutes": ["lifi", "agglayer"]
         }
     },
     {
@@ -586,15 +446,11 @@
         "name": "WBTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -603,15 +459,11 @@
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -620,15 +472,11 @@
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -637,15 +485,11 @@
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -654,15 +498,11 @@
         "name": "WBTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     },
     {
@@ -671,15 +511,11 @@
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
+        "tags": ["canonical"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "lifi"
-            ]
+            "supportedRoutes": ["lifi"]
         }
     }
 ]

@@ -39,13 +39,11 @@
                 "symbol": "ETH",
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
             },
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ],
+            "supportedRoutes": ["lifi", "agglayer"],
             "networkId": 0,
             "autoClaimEnabled": false,
-            "lxlyVersion": 1
+            "lxlyVersion": 1,
+            "verifiedBatchSubmissionPeriod": 12
         },
         {
             "chainId": 56,
@@ -55,9 +53,7 @@
                 "name": "BNB",
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/bsc.svg"
             },
-            "supportedRoutes": [
-                "lifi"
-            ],
+            "supportedRoutes": ["lifi"],
             "name": "BSC",
             "chainType": "EVM",
             "rpcURL": "https://binance.llamarpc.com",
@@ -72,14 +68,31 @@
                 "name": "Polygon Ecosystem Token",
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/polygon.svg"
             },
-            "supportedRoutes": [
-                "lifi"
-            ],
+            "supportedRoutes": ["lifi"],
             "name": "Polygon",
             "chainType": "EVM",
             "rpcURL": "https://polygon-rpc.com",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/polygon.svg",
             "blockExplorerUrl": "https://polygonscan.com/"
+        },
+        {
+            "chainId": 196,
+            "blockExplorerUrl": "https://www.oklink.com/x-layer",
+            "chainType": "EVM",
+            "logoURI": "https://assets.polygon.technology/tokenAssets/okb.png",
+            "name": "X Layer",
+            "nativeCurrency": {
+                "decimals": 18,
+                "name": "OKB",
+                "symbol": "OKB",
+                "logoURI": "https://assets.polygon.technology/tokenAssets/okb.png"
+            },
+            "supportedRoutes": ["agglayer"],
+            "rpcURL": "https://rpc.xlayer.tech",
+            "networkId": 3,
+            "autoClaimEnabled": true,
+            "lxlyVersion": 1,
+            "verifiedBatchSubmissionPeriod": 60
         },
         {
             "chainId": 1101,
@@ -94,13 +107,11 @@
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
             },
             "rpcURL": "https://zkevm-rpc.com",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ],
+            "supportedRoutes": ["lifi", "agglayer"],
             "networkId": 1,
             "autoClaimEnabled": true,
-            "lxlyVersion": 1
+            "lxlyVersion": 1,
+            "verifiedBatchSubmissionPeriod": 180
         },
         {
             "chainId": 747474,
@@ -114,14 +125,12 @@
                 "symbol": "ETH",
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
             },
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ],
+            "supportedRoutes": ["lifi", "agglayer"],
             "rpcURL": "https://rpc.katana.network",
             "networkId": 20,
             "autoClaimEnabled": true,
-            "lxlyVersion": 2
+            "lxlyVersion": 2,
+            "verifiedBatchSubmissionPeriod": 60
         },
         {
             "chainId": 8453,
@@ -131,9 +140,7 @@
                 "name": "ETH",
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
             },
-            "supportedRoutes": [
-                "lifi"
-            ],
+            "supportedRoutes": ["lifi"],
             "name": "Base",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/base.svg",
@@ -148,9 +155,7 @@
                 "name": "AVAX",
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/avalanche.svg"
             },
-            "supportedRoutes": [
-                "lifi"
-            ],
+            "supportedRoutes": ["lifi"],
             "name": "Avalanche",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/avalanche.svg",
@@ -165,14 +170,50 @@
                 "name": "ETH",
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
             },
-            "supportedRoutes": [
-                "lifi"
-            ],
+            "supportedRoutes": ["lifi"],
             "name": "Arbitrum",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/arbitrum.svg",
             "blockExplorerUrl": "https://arbiscan.io/",
             "rpcURL": "https://arbitrum.rpc.subquery.network/public"
+        },
+        {
+            "chainId": 8338,
+            "blockExplorerUrl": "https://forkscan.org/",
+            "chainType": "EVM",
+            "logoURI": "https://explorer-forknet.t.conduit.xyz/assets/configs/network_icon_dark.svg",
+            "name": "Forknet",
+            "nativeCurrency": {
+                "decimals": 18,
+                "name": "ETH",
+                "symbol": "ETH",
+                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
+            },
+            "supportedRoutes": ["agglayer"],
+            "rpcURL": "https://rpc-mainnet.zkevm.ternoa.network",
+            "networkId": 22,
+            "autoClaimEnabled": true,
+            "lxlyVersion": 2,
+            "verifiedBatchSubmissionPeriod": 60
+        },
+        {
+            "chainId": 752025,
+            "blockExplorerUrl": "https://explorer-mainnet.zkevm.ternoa.network/",
+            "chainType": "EVM",
+            "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg",
+            "name": "Ternoa",
+            "nativeCurrency": {
+                "decimals": 18,
+                "name": "Ternoa",
+                "symbol": "CAPS",
+                "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
+            },
+            "supportedRoutes": ["agglayer"],
+            "rpcURL": "https://rpc-mainnet.zkevm.ternoa.network",
+            "networkId": 13,
+            "autoClaimEnabled": true,
+            "lxlyVersion": 2,
+            "verifiedBatchSubmissionPeriod": 180
         }
     ]
 }
