@@ -70912,5 +70912,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "ASTEST",
+        "symbol": "AST",
+        "decimals": 18,
+        "originTokenAddress": "0x5f50c8ed23c0ebb338cc9b0ddf054420cb768c3a",
+        "originNetworkId": 20,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x264ac90b6b5ca5944f98366fa1b8e3d517207faa",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
