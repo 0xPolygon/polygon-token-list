@@ -80,7 +80,7 @@
             "blockExplorerUrl": "https://www.oklink.com/x-layer",
             "chainType": "EVM",
             "logoURI": "https://assets.polygon.technology/tokenAssets/okb.png",
-            "name": "XLayer",
+            "name": "X Layer",
             "nativeCurrency": {
                 "decimals": 18,
                 "name": "OKB",
