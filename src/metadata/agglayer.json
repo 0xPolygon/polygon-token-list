@@ -79,7 +79,7 @@
             "chainId": 196,
             "blockExplorerUrl": "https://www.oklink.com/x-layer",
             "chainType": "EVM",
-            "logoURI": "https://assets.polygon.technology/tokenAssets/okb.png",
+            "logoURI": "https://assets.polygon.technology/tokenAssets/okb.svg",
             "name": "X Layer",
             "nativeCurrency": {
                 "decimals": 18,
