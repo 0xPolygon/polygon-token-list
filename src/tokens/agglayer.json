@@ -164,6 +164,66 @@
         }
     },
     {
+        "chainId": 196,
+        "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 8338,
+        "address": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "name": "USDT",
@@ -243,6 +303,51 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 196,
+        "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 8338,
+        "address": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -334,6 +439,21 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 196,
+        "address": "0xb584516c8d90f133a48af5cc445cc5d924cf9863",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -445,6 +565,36 @@
         }
     },
     {
+        "chainId": 196,
+        "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
         "name": "USDS",
@@ -494,6 +644,21 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x2134866886ce784fe2e0de819118e4d32b4be32c",
+        "name": "USDS",
+        "symbol": "USDS",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -562,6 +727,66 @@
         }
     },
     {
+        "chainId": 196,
+        "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x2ff27ca276ff52a4e7c40ff87983c45a4a049e5e",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
         "name": "Polygon Ecosystem Token",
@@ -602,6 +827,66 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 196,
+        "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
+        "name": "POL",
+        "symbol": "POL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
+        "name": "POL",
+        "symbol": "POL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+        "name": "POL",
+        "symbol": "POL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
+        "name": "POL",
+        "symbol": "POL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -670,6 +955,21 @@
         }
     },
     {
+        "chainId": 1101,
+        "address": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
+        "name": "LINK",
+        "symbol": "LINK",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
         "name": "Uniswap",
@@ -732,6 +1032,36 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0x2548c94a3092494db3af864cc2cf781a72f55678",
+        "name": "UNI",
+        "symbol": "UNI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x8b2cd634401ff42cfbdafabbb555f2a6c4889351",
+        "name": "UNI",
+        "symbol": "UNI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -800,6 +1130,51 @@
         }
     },
     {
+        "chainId": 196,
+        "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
         "name": "Curve DAO",
@@ -849,6 +1224,51 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 196,
+        "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
+        "name": "CRV",
+        "symbol": "CRV",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
+        "name": "CRV",
+        "symbol": "CRV",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0xa19ebba514741c221fa40dc4eaafed7e5cca4a90",
+        "name": "CRV",
+        "symbol": "CRV",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -914,6 +1334,36 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
+        "name": "BAL",
+        "symbol": "BAL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x8276d71cb96910578b510d5b3d919e0607adad8d",
+        "name": "BAL",
+        "symbol": "BAL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -995,6 +1445,36 @@
         }
     },
     {
+        "chainId": 196,
+        "address": "0xc32cb86ae7921f45c0aa44f638d0ee8b67c98b98",
+        "name": "SUSHI",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0xc32cb86ae7921f45c0aa44f638d0ee8b67c98b98",
+        "name": "SUSHI",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
         "name": "SNX",
@@ -1057,6 +1537,21 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0x90c6a9befa477ab3c3ec3b8be8dbc7a3e6ef1415",
+        "name": "SNX",
+        "symbol": "SNX",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -1125,6 +1620,21 @@
         }
     },
     {
+        "chainId": 1101,
+        "address": "0x2450e3153137c14ce4c113d63c427070e85bedec",
+        "name": "1INCH",
+        "symbol": "1INCH",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x111111111117dC0aa78b770fA6A738034120C302",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
         "name": "Lido DAO",
@@ -1164,6 +1674,21 @@
         }
     },
     {
+        "chainId": 1101,
+        "address": "0x7e2feea957b7d1606335e339754f4e52b452b792",
+        "name": "LDO",
+        "symbol": "LDO",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
         "name": "Arbitrum",
@@ -1191,6 +1716,21 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0xf0f134d9e2f831eed1198c271040eeb821f3bd13",
+        "name": "ARB",
+        "symbol": "ARB",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -1243,6 +1783,21 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0x70d35152fbf63fb312709b11a9bac87519de0019",
+        "name": "RPL",
+        "symbol": "RPL",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+            "originTokenNetwork": 0
         }
     },
     {
@@ -1376,6 +1931,21 @@
         }
     },
     {
+        "chainId": 1101,
+        "address": "0xbb7835cefec0706829842927a645e64cf0a51bdf",
+        "name": "GRT",
+        "symbol": "GRT",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 1,
         "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
         "name": "OKB",
@@ -1412,6 +1982,51 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
             "supportedRoutes": ["lifi"]
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0xa23390ab60fe5482e9230245eb817a8117528b38",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0xa23390ab60fe5482e9230245eb817a8117528b38",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": ["wrapped"],
+        "logoURI": "",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": ["agglayer"],
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0
         }
     }
 ]
