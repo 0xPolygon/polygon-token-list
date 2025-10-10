@@ -96,7 +96,7 @@
         },
         {
             "chainId": 1101,
-            "blockExplorerUrl": "https://zkevm.polygonscan.com/",
+            "blockExplorerUrl": "https://www.oklink.com/polygon-zkevm/",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/zkevm.svg",
             "name": "Polygon zkEVM",
@@ -190,7 +190,7 @@
                 "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
             },
             "supportedRoutes": ["agglayer"],
-            "rpcURL": "https://rpc-mainnet.zkevm.ternoa.network",
+            "rpcURL": "https://rpc-forknet.t.conduit.xyz/",
             "networkId": 22,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
