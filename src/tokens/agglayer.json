@@ -168,7 +168,7 @@
         "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
         "name": "USDC",
         "symbol": "USDC",
-        "decimals": 18,
+        "decimals": 6,
         "tags": ["wrapped"],
         "logoURI": "",
         "extensions": {
@@ -183,7 +183,7 @@
         "address": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
         "name": "USDC",
         "symbol": "USDC",
-        "decimals": 18,
+        "decimals": 6,
         "tags": ["wrapped"],
         "logoURI": "",
         "extensions": {
@@ -198,7 +198,7 @@
         "address": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
         "name": "USDC",
         "symbol": "USDC",
-        "decimals": 18,
+        "decimals": 6,
         "tags": ["wrapped"],
         "logoURI": "",
         "extensions": {
@@ -213,7 +213,7 @@
         "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
         "name": "USDC",
         "symbol": "USDC",
-        "decimals": 18,
+        "decimals": 6,
         "tags": ["wrapped"],
         "logoURI": "",
         "extensions": {
@@ -310,7 +310,7 @@
         "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
         "name": "USDT",
         "symbol": "USDT",
-        "decimals": 18,
+        "decimals": 6,
         "tags": ["wrapped"],
         "logoURI": "",
         "extensions": {
@@ -325,7 +325,7 @@
         "address": "0xf44e3bcb7a2461cc08185e127b324f2486a74e20",
         "name": "USDT",
         "symbol": "USDT",
-        "decimals": 18,
+        "decimals": 6,
         "tags": ["wrapped"],
         "logoURI": "",
         "extensions": {
@@ -340,7 +340,7 @@
         "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
         "name": "USDT",
         "symbol": "USDT",
-        "decimals": 18,
+        "decimals": 6,
         "tags": ["wrapped"],
         "logoURI": "",
         "extensions": {
