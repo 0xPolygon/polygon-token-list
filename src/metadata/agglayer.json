@@ -43,7 +43,7 @@
             "networkId": 0,
             "autoClaimEnabled": false,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 12
+            "verifiedBatchSubmissionPeriod": 720
         },
         {
             "chainId": 56,
@@ -92,7 +92,7 @@
             "networkId": 3,
             "autoClaimEnabled": true,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 60
+            "verifiedBatchSubmissionPeriod": 3600
         },
         {
             "chainId": 1101,
@@ -111,7 +111,7 @@
             "networkId": 1,
             "autoClaimEnabled": true,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 180
+            "verifiedBatchSubmissionPeriod": 10800
         },
         {
             "chainId": 747474,
@@ -130,7 +130,7 @@
             "networkId": 20,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 60
+            "verifiedBatchSubmissionPeriod": 3600
         },
         {
             "chainId": 8453,
@@ -194,7 +194,7 @@
             "networkId": 22,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 60
+            "verifiedBatchSubmissionPeriod": 3600
         },
         {
             "chainId": 752025,
@@ -213,7 +213,7 @@
             "networkId": 13,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 180
+            "verifiedBatchSubmissionPeriod": 10800
         }
     ]
 }
