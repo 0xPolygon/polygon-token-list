@@ -60175,5 +60175,35 @@
                 ]
             }
         ]
+    },
+    {
+      "chainId": 1,
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "decimals": 18,
+      "originTokenAddress": "0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29",
+      "originNetworkId": 0,
+      "tags": ["erc20"],
+      "wrappedTokens": [
+        {
+          "wrappedTokenAddress": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+          "tags": ["agglayer", "erc20", "noDeposit", "noWithdraw"]
+        }
+      ]
+    },
+    {
+      "chainId": 1,
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "decimals": 18,
+      "originTokenAddress": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094",
+      "originNetworkId": 0,
+      "tags": ["erc20"],
+      "wrappedTokens": [
+        {
+          "wrappedTokenAddress": "0x4809010926aec940b550D34a46A52739f996D75D",
+          "tags": ["agglayer", "erc20", "noDeposit", "noWithdraw"]
+        }
+      ]
     }
 ]
