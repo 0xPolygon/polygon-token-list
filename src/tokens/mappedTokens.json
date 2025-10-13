@@ -60188,8 +60188,8 @@
         {
           "wrappedTokenAddress": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
           "tags": ["agglayer", "erc20", "noDeposit", "noWithdraw"],
-        },
-      ],
+        }
+      ]
     },
     {
       "chainId": 1,
@@ -60203,7 +60203,7 @@
         {
           "wrappedTokenAddress": "0x4809010926aec940b550D34a46A52739f996D75D",
           "tags": ["agglayer", "erc20", "noDeposit", "noWithdraw"],
-        },
-      ],
+        }
+      ]
     }
 ]
