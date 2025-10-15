@@ -364,7 +364,7 @@
     },
     {
         "chainId": 747474,
-        "address": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
+        "address": "0xf44e3BCB7A2461CC08185E127B324f2486a74E20",
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
@@ -523,7 +523,7 @@
     },
     {
         "chainId": 747474,
-        "address": "0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62",
+        "address": "0x815955d051C6262C16c720b19D735426254Bec5B",
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
@@ -666,7 +666,7 @@
     },
     {
         "chainId": 747474,
-        "address": "0x0913DA6Da4b42f538B445599b46Bb4622342Cf52",
+        "address": "0xB33e43A3F276e8e75792b941bccC996EcB2c0bBD",
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
