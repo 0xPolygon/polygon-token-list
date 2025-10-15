@@ -2664,5 +2664,26 @@
             "originTokenAddress": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
             "originTokenNetwork": 0
         }
+    },
+    {
+        "chainId": 1,
+        "address": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+        "name": "Capsule Coin",
+        "symbol": "CAPS",
+        "decimals": 18,
+        "tags": [
+            "canonical"
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+            "v1WrappedTokenAddress": "0x3ec5D3873eABBB312316B2E3eb8950fe743a9B39",
+            "v2WrappedTokenAddress": "0xCbd303263f78e5d93C056E1f778416BCb8d581Ac",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+            "originTokenNetwork": 0
+        }
     }
 ]
