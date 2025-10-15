@@ -222,7 +222,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -241,7 +241,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -260,7 +260,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -279,7 +279,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -405,7 +405,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
@@ -424,7 +424,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
@@ -443,7 +443,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
@@ -581,7 +581,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/pze_token/logo_url/0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9/61844453e63cf81301f845d7864236f6.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "supportedRoutes": [
@@ -741,7 +741,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
@@ -760,7 +760,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
@@ -847,7 +847,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "supportedRoutes": [
@@ -951,7 +951,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "supportedRoutes": [
@@ -970,7 +970,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "supportedRoutes": [
@@ -989,7 +989,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "supportedRoutes": [
@@ -1008,7 +1008,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "supportedRoutes": [
@@ -1083,7 +1083,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "supportedRoutes": [
@@ -1102,7 +1102,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "supportedRoutes": [
@@ -1121,7 +1121,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "supportedRoutes": [
@@ -1140,7 +1140,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
             "supportedRoutes": [
@@ -1244,7 +1244,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/69425617db0ef93a7c21c4f9b81c7ca5.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "supportedRoutes": [
@@ -1348,7 +1348,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0/fcee0c46fc9864f48ce6a40ed1cdd135.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
             "supportedRoutes": [
@@ -1367,7 +1367,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0/fcee0c46fc9864f48ce6a40ed1cdd135.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
             "supportedRoutes": [
@@ -1471,7 +1471,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
             "supportedRoutes": [
@@ -1490,7 +1490,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
             "supportedRoutes": [
@@ -1509,7 +1509,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
             "supportedRoutes": [
@@ -1596,7 +1596,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/crv.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
             "supportedRoutes": [
@@ -1615,7 +1615,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/crv.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
             "supportedRoutes": [
@@ -1634,7 +1634,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/crv.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
             "supportedRoutes": [
@@ -1738,7 +1738,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8/52990c207f4001bd9090dfd90e54374a.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D",
             "supportedRoutes": [
@@ -1757,7 +1757,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8/52990c207f4001bd9090dfd90e54374a.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D",
             "supportedRoutes": [
@@ -1878,7 +1878,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
             "supportedRoutes": [
@@ -1897,7 +1897,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
             "supportedRoutes": [
@@ -2001,7 +2001,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x50b728d8d964fd00c2d0aad81718b71311fef68a/fb568c26c7902169572abe8fa966e791.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
             "supportedRoutes": [
@@ -2105,7 +2105,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f/73b05710c95a431e9e3c62dd5b8096ae.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x111111111117dC0aa78b770fA6A738034120C302",
             "supportedRoutes": [
@@ -2175,7 +2175,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60/3a1a90da5ccd4849de3e83755f1fd8b5.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
             "supportedRoutes": [
@@ -2233,7 +2233,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
             "supportedRoutes": [
@@ -2320,7 +2320,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb766039cc6db368759c1e56b79affe831d0cc507/f310ef0bdbf9f72e72cd54ff7f4d3ee6.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
             "supportedRoutes": [
@@ -2509,7 +2509,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x9623063377ad1b27544c965ccd7342f7ea7e88c7/8a3fcf468cdf3ae0c7a56cfb12ab4816.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
             "supportedRoutes": [
@@ -2579,7 +2579,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
             "supportedRoutes": [
@@ -2598,7 +2598,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
             "supportedRoutes": [
@@ -2617,7 +2617,7 @@
         "tags": [
             "wrapped"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
             "supportedRoutes": [
@@ -2636,7 +2636,7 @@
         "tags": [
             "governanceToken"
         ],
-        "logoURI": "",
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
             "supportedRoutes": [
@@ -2655,7 +2655,7 @@
         "tags": [
             "governanceToken"
         ],
-        "logoURI": "",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
             "supportedRoutes": [
