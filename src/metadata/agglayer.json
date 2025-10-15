@@ -46,7 +46,8 @@
             "networkId": 0,
             "autoClaimEnabled": false,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 720
+            "verifiedBatchSubmissionPeriod": 720,
+            "active": true
         },
         {
             "chainId": 56,
@@ -63,7 +64,8 @@
             "chainType": "EVM",
             "rpcURL": "https://binance.llamarpc.com",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/bsc.svg",
-            "blockExplorerUrl": "https://bscscan.com/"
+            "blockExplorerUrl": "https://bscscan.com/",
+            "active": true
         },
         {
             "chainId": 137,
@@ -80,7 +82,8 @@
             "chainType": "EVM",
             "rpcURL": "https://polygon-rpc.com",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/polygon.svg",
-            "blockExplorerUrl": "https://polygonscan.com/"
+            "blockExplorerUrl": "https://polygonscan.com/",
+            "active": true
         },
         {
             "chainId": 196,
@@ -101,7 +104,8 @@
             "networkId": 3,
             "autoClaimEnabled": true,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 3600
+            "verifiedBatchSubmissionPeriod": 3600,
+            "active": true
         },
         {
             "chainId": 1101,
@@ -123,7 +127,8 @@
             "networkId": 1,
             "autoClaimEnabled": true,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 10800
+            "verifiedBatchSubmissionPeriod": 10800,
+            "active": true
         },
         {
             "chainId": 747474,
@@ -145,7 +150,8 @@
             "networkId": 20,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 3600
+            "verifiedBatchSubmissionPeriod": 3600,
+            "active": true
         },
         {
             "chainId": 8453,
@@ -162,7 +168,8 @@
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/base.svg",
             "blockExplorerUrl": "https://basescan.org/",
-            "rpcURL": "https://base.llamarpc.com"
+            "rpcURL": "https://base.llamarpc.com",
+            "active": true
         },
         {
             "chainId": 43114,
@@ -179,7 +186,8 @@
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/avalanche.svg",
             "blockExplorerUrl": "https://snowtrace.io/",
-            "rpcURL": "https://avalanche.drpc.org"
+            "rpcURL": "https://avalanche.drpc.org",
+            "active": true
         },
         {
             "chainId": 42161,
@@ -196,7 +204,8 @@
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/arbitrum.svg",
             "blockExplorerUrl": "https://arbiscan.io/",
-            "rpcURL": "https://arbitrum.rpc.subquery.network/public"
+            "rpcURL": "https://arbitrum.rpc.subquery.network/public",
+            "active": true
         },
         {
             "chainId": 8338,
@@ -217,7 +226,8 @@
             "networkId": 22,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 3600
+            "verifiedBatchSubmissionPeriod": 3600,
+            "active": false
         },
         {
             "chainId": 752025,
@@ -238,7 +248,8 @@
             "networkId": 13,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 10800
+            "verifiedBatchSubmissionPeriod": 10800,
+            "active": true
         }
     ]
 }

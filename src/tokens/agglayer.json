@@ -6,7 +6,6 @@
         "symbol": "ETH",
         "decimals": 18,
         "tags": [
-            "canonical",
             "governanceToken"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
@@ -29,7 +28,6 @@
         "symbol": "ETH",
         "decimals": 18,
         "tags": [
-            "canonical",
             "governanceToken"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
@@ -47,7 +45,6 @@
         "symbol": "ETH",
         "decimals": 18,
         "tags": [
-            "canonical",
             "governanceToken"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
@@ -65,7 +62,6 @@
         "symbol": "ETH",
         "decimals": 18,
         "tags": [
-            "canonical",
             "governanceToken"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
@@ -83,7 +79,6 @@
         "symbol": "ETH",
         "decimals": 18,
         "tags": [
-            "canonical",
             "governanceToken"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
@@ -2639,7 +2634,6 @@
         "symbol": "OKB",
         "decimals": 18,
         "tags": [
-            "canonical",
             "governanceToken"
         ],
         "logoURI": "",
@@ -2659,7 +2653,6 @@
         "symbol": "CAPS",
         "decimals": 18,
         "tags": [
-            "canonical",
             "governanceToken"
         ],
         "logoURI": "",
