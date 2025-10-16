@@ -109,7 +109,7 @@
         },
         {
             "chainId": 1101,
-            "blockExplorerUrl": "https://www.oklink.com/polygon-zkevm/",
+            "blockExplorerUrl": "https://www.oklink.com/polygon-zkevm",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/zkevm.svg",
             "name": "Polygon zkEVM",
