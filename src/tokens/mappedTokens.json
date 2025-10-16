@@ -70951,5 +70951,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "USDS Stablecoin",
+        "symbol": "USDS",
+        "decimals": 18,
+        "originTokenAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbfe55a77cb773229610830226b6c54bdcf36761e",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
