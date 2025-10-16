@@ -70931,5 +70931,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "ENOC Token",
+        "symbol": "ENOC",
+        "decimals": 18,
+        "originTokenAddress": "0x99643d92210b845aba6b1b2e021d613042c11001",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf2f32f4b97dbca58ffa7d5d554e775f6801cc01e",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
