@@ -28,7 +28,7 @@
     "chains": [
         {
             "chainId": 1,
-            "blockExplorerUrl": "https://etherscan.io/",
+            "blockExplorerUrl": "https://etherscan.io",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg",
             "name": "Ethereum",
@@ -64,7 +64,7 @@
             "chainType": "EVM",
             "rpcURL": "https://binance.llamarpc.com",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/bsc.svg",
-            "blockExplorerUrl": "https://bscscan.com/",
+            "blockExplorerUrl": "https://bscscan.com",
             "active": true
         },
         {
@@ -82,7 +82,7 @@
             "chainType": "EVM",
             "rpcURL": "https://polygon-rpc.com",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/polygon.svg",
-            "blockExplorerUrl": "https://polygonscan.com/",
+            "blockExplorerUrl": "https://polygonscan.com",
             "active": true
         },
         {
@@ -132,7 +132,7 @@
         },
         {
             "chainId": 747474,
-            "blockExplorerUrl": "https://katanascan.com/",
+            "blockExplorerUrl": "https://katanascan.com",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/katana.svg",
             "name": "Katana",
@@ -167,7 +167,7 @@
             "name": "Base",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/base.svg",
-            "blockExplorerUrl": "https://basescan.org/",
+            "blockExplorerUrl": "https://basescan.org",
             "rpcURL": "https://base.llamarpc.com",
             "active": true
         },
@@ -185,7 +185,7 @@
             "name": "Avalanche",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/avalanche.svg",
-            "blockExplorerUrl": "https://snowtrace.io/",
+            "blockExplorerUrl": "https://snowtrace.io",
             "rpcURL": "https://avalanche.drpc.org",
             "active": true
         },
@@ -203,13 +203,13 @@
             "name": "Arbitrum",
             "chainType": "EVM",
             "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/arbitrum.svg",
-            "blockExplorerUrl": "https://arbiscan.io/",
+            "blockExplorerUrl": "https://arbiscan.io",
             "rpcURL": "https://arbitrum.rpc.subquery.network/public",
             "active": true
         },
         {
             "chainId": 8338,
-            "blockExplorerUrl": "https://forkscan.org/",
+            "blockExplorerUrl": "https://forkscan.org",
             "chainType": "EVM",
             "logoURI": "https://explorer-forknet.t.conduit.xyz/assets/configs/network_icon_dark.svg",
             "name": "Forknet",
@@ -231,7 +231,7 @@
         },
         {
             "chainId": 752025,
-            "blockExplorerUrl": "https://explorer-mainnet.zkevm.ternoa.network/",
+            "blockExplorerUrl": "https://explorer-mainnet.zkevm.ternoa.network",
             "chainType": "EVM",
             "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg",
             "name": "Ternoa",

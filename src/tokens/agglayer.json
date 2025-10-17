@@ -93,12 +93,12 @@
         "chainId": 196,
         "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
         "name": "Wrapped Ether",
-        "symbol": "WETH",
+        "symbol": "ETH",
         "decimals": 18,
         "tags": [
             "wrapped"
         ],
-         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
@@ -112,7 +112,7 @@
         "chainId": 752025,
         "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
         "name": "Wrapped Ether",
-        "symbol": "WETH",
+        "symbol": "ETH",
         "decimals": 18,
         "tags": [
             "wrapped"
@@ -503,6 +503,10 @@
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "originTokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xb584516c8d90f133A48af5cC445cc5d924cf9863",
+            "v2WrappedTokenAddress": "0x815955d051C6262C16c720b19D735426254Bec5B",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -820,6 +824,10 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39926/standard/usds.webp?1726666683",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+            "originTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xBfE55a77Cb773229610830226b6c54bDCf36761E",
+            "v2WrappedTokenAddress": "0x2134866886ce784fE2E0DE819118E4D32b4Be32C",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -907,6 +915,10 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "originTokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+            "v2WrappedTokenAddress": "0x2ff27Ca276fF52A4e7C40FF87983c45A4A049e5E",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -1200,6 +1212,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x514910771af9ca656af840dff83e8264ecf986ca.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "originTokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
+            "v2WrappedTokenAddress": "0x4570545894bE2140708048781276bBD0fae15514",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -1304,6 +1320,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "originTokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x2548C94A3092494dB3aF864cc2cF781a72f55678",
+            "v2WrappedTokenAddress": "0x8B2cD634401fF42cFBdAfAbbb555F2A6C4889351",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -1427,6 +1447,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "originTokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
+            "v2WrappedTokenAddress": "0xE1352C79499847de56a94dE97701916D55FdB4a8",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -1569,6 +1593,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "originTokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
+            "v2WrappedTokenAddress": "0xa19ebbA514741c221Fa40Dc4eaAfEd7E5cCa4a90",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -1694,6 +1722,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xba100000625a3754423978a60c9317c58a424e3d.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D",
+            "originTokenAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
+            "v2WrappedTokenAddress": "0x8276D71cb96910578b510D5b3d919E0607Adad8D",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -1817,6 +1849,10 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "originTokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xc32cB86aE7921f45C0aa44f638d0ee8B67C98b98",
+            "v2WrappedTokenAddress": "0x17BFF452dae47e07CeA877Ff0E1aba17eB62b0aB",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -1957,6 +1993,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "originTokenAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x90c6a9befa477ab3c3eC3b8be8dbc7a3e6EF1415",
+            "v2WrappedTokenAddress": "0xE22AE1f7264cBA56c45C3A20Fadf5634b7219d48",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -2061,6 +2101,10 @@
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x111111111117dc0aa78b770fa6a738034120c302/2441b15b32406dc7d163ba4c1c6981d3.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x111111111117dC0aa78b770fA6A738034120C302",
+            "originTokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x2450e3153137c14ce4C113d63C427070e85BedeC",
+            "v2WrappedTokenAddress": "0xFe88e3E9BD8eC1B76CD7d6aAf630F1C6E6041fA1",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -2165,6 +2209,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "originTokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x7e2feEa957b7D1606335e339754F4e52b452B792",
+            "v2WrappedTokenAddress": "0xb5498E1A17600b9F076fc4300Ad9fb81Dd0A7899",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -2293,6 +2341,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xd33526068d116ce69f19a9ee46f0bd304f21a51f.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+            "originTokenAddress": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x70d35152fBf63FB312709b11a9Bac87519de0019",
+            "v2WrappedTokenAddress": "0x5b7Bd97Cb29286F7f2339c27B74Bc31ae69e6782",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -2380,6 +2432,10 @@
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6/55886c6280173254776780fd8340cca7.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+            "originTokenAddress": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x99F06347aDF7E54D8FD18f4132605fb0896fd49F",
+            "v2WrappedTokenAddress": "0xdEC51100A464D05865952F8E041b3FD3357A32D3",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -2482,6 +2538,10 @@
         "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+            "originTokenAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xbb7835CeFEc0706829842927a645E64CF0A51bDF",
+            "v2WrappedTokenAddress": "0x989EC77888A6E5F4D06bBCD4E7EdEFb2f4d8889B",
             "supportedRoutes": [
                 "lifi"
             ]
@@ -2569,6 +2629,10 @@
         "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xA23390ab60fE5482e9230245eb817a8117528b38",
+            "v2WrappedTokenAddress": "0xa703f846105bE911c4F9c45E272e15e7A94814BD",
             "supportedRoutes": [
                 "lifi"
             ]
