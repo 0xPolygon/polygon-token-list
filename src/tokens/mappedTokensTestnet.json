@@ -20200,5 +20200,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originTokenAddress": "0xb9882bc4f209d6bb26e971874779aa7447f82aa7",
+        "originNetworkId": 45,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1943fbf9f888532970d6a40f7c83f86ea9daa3e3",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
