@@ -98,7 +98,7 @@
         "tags": [
             "wrapped"
         ],
-         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
@@ -286,6 +286,47 @@
                 "agglayer"
             ],
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0x53e82abbb12638f09d9e624578ccb666217a765e",
+        "name": "vAULT bridge USDC",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "tags": [
+            "canonical"
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x53e82abbb12638f09d9e624578ccb666217a765e",
+            "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
+            "originTokenNetwork": 0,
+            "v2WrappedTokenAddress": "0xac8dDbc1f261eE4632518a1A62c23cD2b5a52BAd",
+            "v1WrappedTokenAddress": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+            "supportedRoutes": [
+                "lifi",
+                "agglayer"
+            ]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+        "name": "Vault bridge USDC",
+        "symbol": "vbUSDC",
+        "decimals": 6,
+        "tags": [
+            "wrapped"
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x53e82abbb12638f09d9e624578ccb666217a765e",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
             "originTokenNetwork": 0
         }
     },
