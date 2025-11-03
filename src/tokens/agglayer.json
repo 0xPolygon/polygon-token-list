@@ -290,47 +290,6 @@
         }
     },
     {
-        "chainId": 1,
-        "address": "0x53e82abbb12638f09d9e624578ccb666217a765e",
-        "name": "vAULT bridge USDC",
-        "symbol": "vbUSDC",
-        "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x53e82abbb12638f09d9e624578ccb666217a765e",
-            "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
-            "originTokenNetwork": 0,
-            "v1WrappedTokenAddress": "0xac8dDbc1f261eE4632518a1A62c23cD2b5a52BAd",
-            "v2WrappedTokenAddress": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ]
-        }
-    },
-    {
-        "chainId": 747474,
-        "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
-        "name": "Vault bridge USDC",
-        "symbol": "vbUSDC",
-        "decimals": 6,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x53e82abbb12638f09d9e624578ccb666217a765e",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x53e82abbb12638f09d9e624578ccb666217a765e",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 8338,
         "address": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
         "name": "USD Coin",
@@ -1116,7 +1075,8 @@
         "symbol": "POL",
         "decimals": 18,
         "tags": [
-            "canonical"
+            "canonical",
+            "noDeposit"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
@@ -1191,7 +1151,8 @@
         "symbol": "POL",
         "decimals": 18,
         "tags": [
-            "wrapped"
+            "wrapped",
+            "noDeposit"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
