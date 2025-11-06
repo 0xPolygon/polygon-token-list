@@ -105,7 +105,7 @@
             "autoClaimEnabled": true,
             "lxlyVersion": 1,
             "verifiedBatchSubmissionPeriod": 3600,
-            "active": true
+            "active": false
         },
         {
             "chainId": 1101,

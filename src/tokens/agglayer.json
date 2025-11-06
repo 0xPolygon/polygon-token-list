@@ -1075,8 +1075,7 @@
         "symbol": "POL",
         "decimals": 18,
         "tags": [
-            "canonical",
-            "noDeposit"
+            "canonical"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
@@ -1151,8 +1150,7 @@
         "symbol": "POL",
         "decimals": 18,
         "tags": [
-            "wrapped",
-            "noDeposit"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "extensions": {
