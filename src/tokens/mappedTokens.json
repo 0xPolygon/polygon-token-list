@@ -60529,4 +60529,16 @@
             }
         ]
     }
+    {
+  "chainId": 137,
+  "address": "0xB2d2BfdC79Aa9B9203D62bF231b4452CBe748fa0",
+  "name": "Sealtrus",
+  "symbol": "SLTR",
+  "decimals": 18,
+  "logoURI": "https://sealtrus.com/sealtrus.png",
+  "website": "https://sealtrus.com",
+  "description": "Blockchain-based trust and verification platform providing on-chain trust scores and NFT proof badges for businesses and credentials.",
+  "tags": ["utility", "verification", "trust", "polygon"]
+}
+
 ]
