@@ -70991,5 +70991,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "BUSHIDO",
+        "symbol": "BUSHIDO",
+        "decimals": 18,
+        "originTokenAddress": "0xa600a613c967b9edf2b6019ea300abc738f88637",
+        "originNetworkId": 20,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xaa308c9d57f607fb87a6010bd4edafa1a4725384",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
