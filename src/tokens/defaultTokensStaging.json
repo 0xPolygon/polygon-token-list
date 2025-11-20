@@ -44,6 +44,15 @@
                 "symbol": "WETH"
             },
             {
+                "wrappedNetworkId": 7,
+                "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+                "tags": [
+                    "lxly"
+                ],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
                 "tags": [
                     "agglayer",
@@ -134,18 +143,6 @@
                 "symbol": "USDC.e"
             },
             {
-                "wrappedTokenAddress": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
-                "wrappedNetworkId": 3,
-                "tags": [
-                    "xLayerMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0xfe3240995c771f10d2583e8fa95f92ee40e15150",
-                "wrappedChainBridgeAdapter": "0x1a8c4999d32f05b63a227517be0824aed47e4728",
-                "name": "USD Coin",
-                "symbol": "USDC.e"
-            },
-            {
                 "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
                 "tags": [
                     "agglayer",
@@ -191,6 +188,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x4da795edcd1bb95d6cc8fd2cc01e57e211510f8f",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
@@ -223,7 +227,6 @@
             },
             {
                 "wrappedTokenAddress": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
-                "wrappedNetworkId": 20,
                 "tags": [
                     "agglayer",
                     "erc20"
@@ -257,6 +260,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xcbd303263f78e5d93c056e1f778416bcb8d581ac",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
@@ -273,17 +283,24 @@
         ],
         "wrappedTokens": [
             {
+                "wrappedTokenAddress": "0x4d409d638d856430eD1F889cb60986aE0a8d83B7",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
                 "wrappedNetworkId": 24,
                 "tags": [
-                    "lxly",
+                    "agglayer",
                     "governanceToken"
                 ]
             },
             {
-                "wrappedTokenAddress": "0x4d409d638d856430eD1F889cb60986aE0a8d83B7",
+                "wrappedTokenAddress": "0xB8d767444D85AB3298594B2609CBD07A55BaC4D5",
                 "tags": [
-                    "lxly",
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -315,6 +332,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x1755ee1880edb032788f507fdbb9fb3e9bc318c9",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/lumia.png"
@@ -337,6 +361,8 @@
                     "oft",
                     "erc20"
                 ],
+                "symbol": "USDT0",
+                "logoURI": "https://assets.polygon.technology/tokenAssets/usdt0.svg",
                 "originChainBridgeAdapter": "0x6C96dE32CEa08842dcc4058c14d3aaAD7Fa41dee",
                 "wrappedChainBridgeAdapter": "0x6BA10300f0DC58B7a1e4c0e41f5daBb7D7829e13"
             },
@@ -412,6 +438,13 @@
                 ],
                 "originChainBridgeAdapter": "0x4A27aC91c5cD3768F140ECabDe3FC2B2d92eDb98",
                 "wrappedChainBridgeAdapter": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5"
+            },
+            {
+                "wrappedTokenAddress": "0x2ff27ca276ff52a4e7c40ff87983c45a4a049e5e",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg"
@@ -479,7 +512,8 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit"
                 ]
             },
             {
@@ -535,6 +569,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x943f7287136c9badf7b67ecc576b2f1bdbb93fcd",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -561,6 +602,13 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xa19ebba514741c221fa40dc4eaafed7e5cca4a90",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -604,6 +652,13 @@
                     "legacy"
                 ],
                 "wrappedNetworkId": 1
+            },
+            {
+                "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://etherscan.io/token/images/wsteth3_32.png"
@@ -633,6 +688,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xd316c02089d04a3154b7e134636932a3b8cb81e7",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -659,6 +721,13 @@
                 "wrappedTokenAddress": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xe1352c79499847de56a94de97701916d55fdb4a8",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -690,6 +759,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xb5498e1a17600b9f076fc4300ad9fb81dd0a7899",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -709,13 +785,22 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             },
             {
                 "wrappedTokenAddress": "0x31faa1a7fc42510d846736e8fc2af9d76aab9bc6",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x3c9009ae6137ad8649fb058e230234b58c4659f8",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -747,6 +832,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x45382eb53e6403e3db14127502b28a82d6bdc601",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/tel.svg"
@@ -774,6 +866,13 @@
                 "wrappedTokenAddress": "0x6d9b74cdc3b873eb7aaa7dfe469c859bc7dee49a",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x2c641090d5d8a433cdbbd72103d572604bbf919f",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -804,6 +903,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x02a4edfe1ccbbdc31e52a8939738cd284843d4b6",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -832,6 +938,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xc6ce89f58fdaf19e7c52e234c47ab7c920a2d425",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -858,6 +971,13 @@
                 "wrappedTokenAddress": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x8276d71cb96910578b510d5b3d919e0607adad8d",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -889,6 +1009,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x31e87df8779c85ff2f34fb48fd016447ed06b1a9",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -917,6 +1044,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x5d3cbb084cfa4b57af0765207540f9ac97c39b0b",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -943,6 +1077,13 @@
                 "wrappedTokenAddress": "0xbb7835cefec0706829842927a645e64cf0a51bdf",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x989ec77888a6e5f4d06bbcd4e7edefb2f4d8889b",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -974,6 +1115,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x6b8da7f880a798786751d4ffd8cec58d0295e190",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1000,6 +1148,13 @@
                 "wrappedTokenAddress": "0x90c6a9befa477ab3c3ec3b8be8dbc7a3e6ef1415",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xe22ae1f7264cba56c45c3a20fadf5634b7219d48",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1031,6 +1186,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x24c0863ab240170edc1c040c8c8ef62984310c1a",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1059,6 +1221,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x4e2e4cde534982541e815c86519b18720f9f3366",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1085,6 +1254,13 @@
                 "wrappedTokenAddress": "0x2abf77ca05cfae0015d4ec9690c346e6dcdfa151",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xbecc26f8d2a6804d20e1181c8b27171798937b00",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1118,7 +1294,6 @@
             },
             {
                 "wrappedTokenAddress": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
-                "wrappedNetworkId": 20,
                 "tags": [
                     "agglayer",
                     "erc20"
@@ -1152,6 +1327,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x8a4548447d28645202288668d4b1a811d27e1d36",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1180,6 +1362,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x134d70015811fb4cbcd8a9993c1eb8f2bad6c015",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1206,6 +1395,13 @@
                 "wrappedTokenAddress": "0x2548c94a3092494db3af864cc2cf781a72f55678",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x8b2cd634401ff42cfbdafabbb555f2a6c4889351",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1237,6 +1433,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x8196e164dd9986c6b145b2bc2d2a324bada38b03",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1265,6 +1468,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x83e4f3b16084962e9750df54d59e22b4cef30d81",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1291,6 +1501,13 @@
                 "wrappedTokenAddress": "0xf67f1b988d130965f88b83234cf08c7904ae082b",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x1df5bb676695be0c613022273f3af0bfc22b3aad",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1322,6 +1539,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x280bbda949c7b6ed39841477ade4eca32fa02236",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1348,6 +1572,13 @@
                 "wrappedTokenAddress": "0x04474952fb4f60d43f75405411a596e32dfecd3d",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x91040d5353b50a25cb58432105549d052b0dbd46",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1379,6 +1610,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x154b083800777eaae21f2ad93502ec62f60293c4",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://raw.githubusercontent.com/streamr-dev/design-assets/main/Svg/Marks%20and%20Symbols/Token%20symbols/%24DATA%20new%20token%20symbol.svg"
@@ -1406,6 +1644,13 @@
                 "wrappedTokenAddress": "0xa3da72feb11ffdd98c5349ece2355b4f77cace99",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x6adece047d8642d3ed4a4abb53b7e3879b8fbaf4",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1437,6 +1682,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xe02bc004b2a9580acc7505600608e2a913aa80e7",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1463,6 +1715,13 @@
                 "wrappedTokenAddress": "0x1cc9d1812903a17e43cfced261cf5bf089fe669b",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x02a8e6a3ed112d3d6ba8a6d659ce0788e5c0429d",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1494,6 +1753,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x0d4ce20d3a4b35939e1fc1609032f1e08da7ac19",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1520,6 +1786,13 @@
                 "wrappedTokenAddress": "0xbedf4155abc3e869632046222b00d8e0df7ef6d4",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x5d83780628bfbdb1500f7ec1801f5b6094366659",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1551,6 +1824,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x3d5bcee052313712422741c85bfd77ddcbe3f911",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1579,6 +1859,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x0f3d129542536ad78a03845936c7ab7052c071ca",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1605,6 +1892,13 @@
                 "wrappedTokenAddress": "0xa2e94108e830fa41b38340e2110fb66da931692d",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x72baa394bf5f9c41e844b22522ced798904bf521",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1636,6 +1930,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xe2a0836bc67252805fac8c513f5391423637b02a",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1662,6 +1963,13 @@
                 "wrappedTokenAddress": "0xe4047259093960f6ccea2d5676dfc8c6c97901c4",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x0e589b75ef95831219b6747dbfee0f671590ecff",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1692,6 +2000,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xb7c33bb1a9adbfe2fe91cb5729f5899f7e70a10b",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1718,6 +2033,13 @@
                 "wrappedTokenAddress": "0x9698f73945a465a8f0cf63f4084efdb7e25c9e3e",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xd279fa4662f97205424e720122a22b016846f2cb",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1748,6 +2070,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x99252ecfdfc354406e488171b73b247bbbe40b52",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1774,6 +2103,13 @@
                 "wrappedTokenAddress": "0x744ac3fee75d274194205722d5bffade2c872f9d",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xe3f6da3521efb070390a58b7e0dc06e71ad5b13b",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1804,6 +2140,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xc108979b924703fa1bec2a650c1dd7116dc2e3f5",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1832,6 +2175,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xd1aa07731e6a5e176cdb2ade490185064378488c",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1858,6 +2208,13 @@
                 "wrappedTokenAddress": "0x11e316a100c626fbeab02e831dbb0121df15ad1a",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x433d4862b2c986beb1af9252d0a75924f88d87a4",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1889,6 +2246,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xbdc7f9368da5f966168a327f77ccf71716a31a33",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1915,6 +2279,13 @@
                 "wrappedTokenAddress": "0x84b635df855074600ea076b63d03d119b77884bd",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x3dc474326c87902fa4fa8432e7aa4a6245e093e6",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -1945,6 +2316,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x0ae6fa0998284b13b57034a0026f4f4c3e39a6aa",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -1971,6 +2349,13 @@
                 "wrappedTokenAddress": "0xa5aa9ee032ceb0dc7528976cce325ff2eeb8dda2",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x0af088664a06917afdec2c615306badb9424c158",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2001,6 +2386,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x47d1b8a988870212be1f16e6d796a902029aeb21",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2027,6 +2419,13 @@
                 "wrappedTokenAddress": "0xcf89a204673f802aca307437b79640f9c22f4958",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x091adc25b232e8b2361b219342c3545eebeeff42",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2058,6 +2457,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x29f17a22132a8e255e41f491a12f21a7c41dfd37",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dpi.svg"
@@ -2087,6 +2493,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x2b3762bf837be2ab18da379f7d65e32593053873",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2113,6 +2526,13 @@
                 "wrappedTokenAddress": "0x12fa206e36ac93dbbaeed6b3b0fbcb9ba07346bc",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x9e169457cc8c61c24a627a8863d42e33d6804b6b",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2144,6 +2564,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x6c08008d6f356e276d5c9079fbfd900f672b62e6",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2170,6 +2597,13 @@
                 "wrappedTokenAddress": "0x108eb4761edf310b96137b38c5bbf8863a45a4ac",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x626210327f910d4abec2d45aaedf1eeddea94fb0",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2201,6 +2635,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xc9230d92017cb9475ebccde59eeed585ccd50a79",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2227,6 +2668,13 @@
                 "wrappedTokenAddress": "0xc9055f4e9f4dbd16e35156c968eed54983637522",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x006bc2dc3913b300feeef275f2b3c2261cf75b33",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2258,6 +2706,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x8a5894275d175454c91bd3c2ff1ca0b1a487b455",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2284,6 +2739,13 @@
                 "wrappedTokenAddress": "0xa230d5ef2e26382d6263ac7e4ac15d6149bb8bcb",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x52f8328ac3931b145738860201a9368b6456f5a5",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2314,6 +2776,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x2d7e7b2ea0bf25e5268ed65cd2a76d4c80a3a25a",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2340,6 +2809,13 @@
                 "wrappedTokenAddress": "0x046774719419320aac1563169cd304ef8f7fbabd",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x31d3701de00bf9f32b20661aa48413ea5f602cf0",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2370,6 +2846,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x6783aaacbc306998f7ee2ce5c3601946ab7a6331",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2396,6 +2879,13 @@
                 "wrappedTokenAddress": "0x9afe17055c802e680682a2bb0269fe3a78db6727",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x47b44b14b6490a47fd330c8c329fec6a759695cf",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2427,6 +2917,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x6f37c5a1629bda7eacb93a3b907aa176135ff844",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2453,6 +2950,13 @@
                 "wrappedTokenAddress": "0xbe3b2d67f0975b8f8d7c855b804e7ff06b868027",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x8cad7c77b34c891c0ba3e86571f08f4c9af11de4",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2484,6 +2988,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x128a6b2ada6ac34e1d4cf0984d52fb4ec0d5e596",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/umbr.svg"
@@ -2511,6 +3022,13 @@
                 "wrappedTokenAddress": "0x5b87ed163b950a9f3064b4cdca59f9c407ee50d6",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xda5ea80783cd89143541ff3d8be58dab5a61d3fe",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2542,6 +3060,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x178af4bd9f2419fd64519a1c66e3fcdd9891b45e",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dht.svg"
@@ -2569,6 +3094,13 @@
                 "wrappedTokenAddress": "0xdd9b38b06cbc41e013027579211f9bddbe48ca99",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x25d16b52ede07980daa7492c73b96bb3ab355580",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2599,6 +3131,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x0e0a402e63c9634ca48ddc65c4a0b9dd03b9420f",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2627,6 +3166,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x0dde6d7ea55aa94f570aeb4e8cbe71a2836319d6",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2653,6 +3199,13 @@
                 "wrappedTokenAddress": "0x7a61d9e1d0da07747a81c599f48777c5a500f657",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x38e5241a539df0197bf584c9f6235e56e31d905d",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2684,6 +3237,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x729dd144e1374d0e51b7a596c095ae043783717b",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2710,6 +3270,13 @@
                 "wrappedTokenAddress": "0xbc50659bf39ecf4c23b4b996ad014e6d09206030",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xf97a8921dd3393076a2c972e105dd0792596f0cb",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2740,6 +3307,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xc9ae2ac3f51c07fb5a4af219a9b7cb57365436b1",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2766,6 +3340,13 @@
                 "wrappedTokenAddress": "0xa2a0fff71c3e468b890a8ccc513b7f7361563bf1",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xc8be292bc6024e4c7b5213a9f8a01bba43c5f71c",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2796,6 +3377,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x601662e24b7e6745a1f845ad5bd7d23cad2ee632",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2822,6 +3410,13 @@
                 "wrappedTokenAddress": "0x01a8d41b79abffbc6171b4a848219d58111f8d50",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xd966c84dd86191adfb73e18d78b276c3ca8a495d",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2853,6 +3448,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x33fbbe8060ffb0fb127a8a178a38af54e624caec",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2879,6 +3481,13 @@
                 "wrappedTokenAddress": "0xdfa8df74fe15d76c20191f11e957db9338b34374",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x88fcdaf559da676482ecc59d83aaf712afc01c6c",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2910,6 +3519,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x223731fad421b77ba4357e772a4e8641e6aa5eb8",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/mod.svg"
@@ -2937,6 +3553,13 @@
                 "wrappedTokenAddress": "0xebc51440c2e10dcd5329e9a8a12b6798aedf1fd2",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x31b3a3bb7d9a804966b3d22ef0f8958f899cf1a1",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -2967,6 +3590,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xfe88e3e9bd8ec1b76cd7d6aaf630f1c6e6041fa1",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -2995,6 +3625,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x8bc34b6cb3657f64d9ca97465f842a187d937aa1",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -3021,6 +3658,13 @@
                 "wrappedTokenAddress": "0x035452d61ad29648d38ceec1c5bd244358bcefe0",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x88487fdc5c1947d89f4f3939b3c0c418c594a913",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -3054,7 +3698,6 @@
             },
             {
                 "wrappedTokenAddress": "0x985a39b8dfaa7689b05e6e7bd1b2a66b8b5b1e4e",
-                "wrappedNetworkId": 20,
                 "tags": [
                     "agglayer",
                     "erc20"
@@ -3088,6 +3731,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x0cef8f63e6c3a6483730f0f4bf91135bbeba61a1",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -3114,6 +3764,13 @@
                 "wrappedTokenAddress": "0x580155affbc6ccbc23eee5f380dbf740d131d10f",
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xfa454d39c2a7dac4f4958dcf71ce9cdad1c2fbaf",
+                "tags": [
+                    "agglayer",
                     "erc20"
                 ]
             }
@@ -3145,6 +3802,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x3b4e434aceefa5c198d526479c7e016c6827ad7e",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/ankr.svg"
@@ -3166,8 +3830,51 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x3ef690cd94b5bf874bf636243e2073e7c85a3fca",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xfff9094c0fe717a0584c38be78eb24c2137d5c15",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
+                "tags": [
+                    "agglayer",
+                    "erc20"
+                ]
+            }
+        ],
+        "logoURI": "https://assets.katana.network/icons/weeth.svg"
     }
 ]
