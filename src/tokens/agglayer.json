@@ -272,8 +272,8 @@
     },
     {
         "chainId": 747474,
-        "address": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
-        "name": "USD Coin",
+        "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
+        "name": "Vault bridge USDC",
         "symbol": "USDC",
         "decimals": 6,
         "tags": [
@@ -283,7 +283,8 @@
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "lifi"
             ],
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenNetwork": 0

@@ -46,7 +46,7 @@
             "networkId": 0,
             "autoClaimEnabled": false,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 720,
+            "verifiedBatchSubmissionPeriod": 900,
             "active": true
         },
         {
@@ -104,7 +104,7 @@
             "networkId": 3,
             "autoClaimEnabled": true,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 3600,
+            "verifiedBatchSubmissionPeriod": 10800,
             "active": false
         },
         {
@@ -150,7 +150,7 @@
             "networkId": 20,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 3600,
+            "verifiedBatchSubmissionPeriod": 10800,
             "active": true
         },
         {
@@ -226,7 +226,7 @@
             "networkId": 22,
             "autoClaimEnabled": true,
             "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 3600,
+            "verifiedBatchSubmissionPeriod": 10800,
             "active": true
         },
         {
