@@ -283,25 +283,11 @@
         ],
         "wrappedTokens": [
             {
-                "wrappedTokenAddress": "0x4d409d638d856430eD1F889cb60986aE0a8d83B7",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            },
-            {
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
                 "wrappedNetworkId": 24,
                 "tags": [
                     "agglayer",
                     "governanceToken"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0xB8d767444D85AB3298594B2609CBD07A55BaC4D5",
-                "tags": [
-                    "agglayer",
-                    "erc20"
                 ]
             }
         ],
