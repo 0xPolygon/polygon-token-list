@@ -2652,5 +2652,54 @@
             }
         ],
         "logoURI": "https://assets.katana.network/icons/weeth.svg"
+    },
+    {
+      "chainId": 1,
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "originTokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "originNetworkId": 0,
+      "tags": ["erc20"],
+      "wrappedTokens": [
+        {
+          "wrappedTokenAddress": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+          "wrappedNetworkId": -1,
+          "tags": ["pos", "erc20"]
+        },
+        {
+          "wrappedTokenAddress": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
+          "tags": ["lxly", "erc20"]
+        },
+        {
+          "wrappedTokenAddress": "0x4570545894be2140708048781276bbd0fae15514",
+          "tags": ["agglayer", "erc20"]
+        }
+      ],
+      "logoURI": "https://assets.polygon.technology/tokenAssets/link.svg"
+    },
+    {
+      "chainId": 1,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "originTokenAddress": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "originNetworkId": 0,
+      "tags": ["erc20"],
+      "wrappedTokens": [
+        {
+          "wrappedTokenAddress": "0x4805d538c9fc01a3eb4e99e6c4066f0d9fa7bd64",
+          "wrappedNetworkId": -1,
+          "tags": ["fx", "erc20"]
+        },
+        {
+          "wrappedTokenAddress": "0xc291b0753da6fbf8d848374e1bb1588dcad3559a",
+          "tags": ["lxly", "erc20"]
+        },
+        {
+          "wrappedTokenAddress": "0x7fa65cb97efb27ad709b29856aafcbd51a294237",
+          "tags": ["agglayer", "erc20"]
+        }
+      ]
     }
 ]
