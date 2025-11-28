@@ -23,6 +23,10 @@
         "noDeposit": {
             "name": "noDeposit",
             "description": "Token not eligible for deposits"
+        },
+        "wrapped": {
+            "name": "wrapped",
+            "description": "Wrapped token"
         }
     },
     "chains": [
