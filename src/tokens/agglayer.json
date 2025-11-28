@@ -28,13 +28,14 @@
         "symbol": "vbETH",
         "decimals": 18,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0x2DC70fb75b88d2eB4715bc06E1595E6D97c34DFF",
             "originTokenNetwork": 0
@@ -47,13 +48,14 @@
         "symbol": "vbETH",
         "decimals": 18,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0x2DC70fb75b88d2eB4715bc06E1595E6D97c34DFF",
             "originTokenNetwork": 0
@@ -66,13 +68,14 @@
         "symbol": "vbETH",
         "decimals": 18,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0x2DC70fb75b88d2eB4715bc06E1595E6D97c34DFF",
             "originTokenNetwork": 0
@@ -334,14 +337,15 @@
         "symbol": "vbUSDC",
         "decimals": 6,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
                 "agglayer",
-                "lifi"
+                "lifi",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenNetwork": 0
@@ -354,13 +358,14 @@
         "symbol": "vbUSDC",
         "decimals": 6,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenNetwork": 0
@@ -373,13 +378,14 @@
         "symbol": "vbUSDC",
         "decimals": 6,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "originTokenNetwork": 0
@@ -465,13 +471,14 @@
         "symbol": "vbUSDT",
         "decimals": 6,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ]
         }
     },
@@ -518,13 +525,14 @@
         "symbol": "vbUSDT",
         "decimals": 6,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "originTokenNetwork": 0
@@ -537,13 +545,14 @@
         "symbol": "vbUSDT",
         "decimals": 6,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "originTokenNetwork": 0
@@ -771,13 +780,14 @@
         "symbol": "vbWBTC",
         "decimals": 8,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ]
         }
     },
@@ -805,13 +815,14 @@
         "symbol": "vbWBTC",
         "decimals": 8,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ]
         }
     },
@@ -875,13 +886,14 @@
         "symbol": "vbWBTC",
         "decimals": 18,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "originTokenNetwork": 0
@@ -966,13 +978,14 @@
         "symbol": "vbUSDS",
         "decimals": 18,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "originTokenNetwork": 0
@@ -985,13 +998,14 @@
         "symbol": "vbUSDS",
         "decimals": 18,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "originTokenNetwork": 0
@@ -1004,13 +1018,14 @@
         "symbol": "vbUSDS",
         "decimals": 18,
         "tags": [
-            "vault-bridge"
+            "wrapped"
         ],
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "supportedRoutes": [
-                "agglayer"
+                "agglayer",
+                "vault-bridge"
             ],
             "originTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
             "originTokenNetwork": 0
