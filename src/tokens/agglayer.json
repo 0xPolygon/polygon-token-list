@@ -641,23 +641,6 @@
         }
     },
     {
-        "chainId": 747474,
-        "address": "0x815955d051C6262C16c720b19D735426254Bec5B",
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "supportedRoutes": [
-                "lifi"
-            ]
-        }
-    },
-    {
         "chainId": 8453,
         "address": "0x4200000000000000000000000000000000000006",
         "name": "Wrapped Ether",
