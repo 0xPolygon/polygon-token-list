@@ -33,6 +33,7 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "additionalOriginAssetIds": ["eip155:1/erc20:0x0000000000000000000000000000000000000000"],
             "supportedRoutes": [
                 "agglayer",
                 "vault-bridge"
@@ -73,6 +74,7 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "additionalOriginAssetIds": ["eip155:1/erc20:0x0000000000000000000000000000000000000000"],
             "supportedRoutes": [
                 "agglayer",
                 "vault-bridge"
@@ -112,12 +114,7 @@
             "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
             "supportedRoutes": [
                 "lifi"
-            ],
-            "vaultBridge": {
-                "vaultBridgeTokenAddress": "0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62",
-                "name": "Vault Bridge ETH",
-                "symbol": "vbETH"
-            }
+            ]
         }
     },
     {
