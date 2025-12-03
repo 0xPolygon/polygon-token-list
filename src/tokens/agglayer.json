@@ -54,6 +54,7 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "additionalOriginAssetIds": ["eip155:1/erc20:0x0000000000000000000000000000000000000000"],
             "supportedRoutes": [
                 "agglayer",
                 "vault-bridge"
@@ -186,12 +187,7 @@
                 "agglayer"
             ],
             "originTokenAddress": "0x0000000000000000000000000000000000000000",
-            "originTokenNetwork": 0,
-            "vaultBridge": {
-                "vaultBridgeTokenAddress": "0xABb9adE1Bd2A3bDcCD4c91FB149685936aCb758E",
-                "name": "Vault Bridge ETH",
-                "symbol": "vbETH"
-            }
+            "originTokenNetwork": 0
         }
     },
     {
