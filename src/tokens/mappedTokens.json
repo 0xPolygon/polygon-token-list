@@ -60587,6 +60587,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xcf5a8c05940ae17081330de66dd5b93ff2141b3c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     }
