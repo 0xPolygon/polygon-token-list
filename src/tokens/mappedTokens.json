@@ -71010,5 +71010,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "xPlanetIX",
+        "symbol": "xIXT",
+        "decimals": 18,
+        "originTokenAddress": "0x8b04bf3358b88e3630aa64c1c76ff3b6c699c6a7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6ef41f42c7a392f29af7645460210b5893557187",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
