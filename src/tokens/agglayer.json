@@ -33,7 +33,9 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "additionalOriginAssetIds": ["eip155:1/erc20:0x0000000000000000000000000000000000000000"],
+            "additionalOriginAssetIds": [
+                "eip155:1/erc20:0x0000000000000000000000000000000000000000"
+            ],
             "supportedRoutes": [
                 "agglayer",
                 "vault-bridge"
@@ -54,7 +56,9 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "additionalOriginAssetIds": ["eip155:1/erc20:0x0000000000000000000000000000000000000000"],
+            "additionalOriginAssetIds": [
+                "eip155:1/erc20:0x0000000000000000000000000000000000000000"
+            ],
             "supportedRoutes": [
                 "agglayer",
                 "vault-bridge"
@@ -75,7 +79,9 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "additionalOriginAssetIds": ["eip155:1/erc20:0x0000000000000000000000000000000000000000"],
+            "additionalOriginAssetIds": [
+                "eip155:1/erc20:0x0000000000000000000000000000000000000000"
+            ],
             "supportedRoutes": [
                 "agglayer",
                 "vault-bridge"
@@ -253,7 +259,7 @@
         "symbol": "USDC",
         "decimals": 6,
         "tags": [
-            "canonical"
+            "wrapped"
         ],
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
         "extensions": {
