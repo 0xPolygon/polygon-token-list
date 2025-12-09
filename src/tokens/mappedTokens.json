@@ -60529,4 +60529,17 @@
             }
         ]
     }
+    {
+  "chainId": 137,
+  "name": "BeGreenly Coin",
+  "symbol": "BGREEN",
+  "decimals": 18,
+  "originTokenAddress": "0xddaadeef9990a45cb0fa6508d474bec20e273db3",
+  "originNetworkId": 137,
+  "tags": [
+    "erc20"
+  ],
+  "wrappedTokens": [],
+  "logoURI": "https://begreenly.com/assets/img/begreenlycoinlogo.svg"
+}
 ]
