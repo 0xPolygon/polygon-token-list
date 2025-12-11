@@ -50,7 +50,7 @@
             "networkId": 0,
             "autoClaimEnabled": false,
             "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 900,
+            "verifiedBatchSubmissionPeriod": 1200,
             "active": true
         },
         {
@@ -109,7 +109,7 @@
             "autoClaimEnabled": true,
             "lxlyVersion": 1,
             "verifiedBatchSubmissionPeriod": 10800,
-            "active": false
+            "active": true
         },
         {
             "chainId": 1101,
