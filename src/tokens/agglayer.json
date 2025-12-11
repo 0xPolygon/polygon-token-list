@@ -2738,6 +2738,138 @@
         }
     },
     {
+        "chainId": 1,
+        "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": [
+            "canonical"
+        ],
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xA23390ab60fE5482e9230245eb817a8117528b38",
+            "v2WrappedTokenAddress": "0xa703f846105bE911c4F9c45E272e15e7A94814BD",
+            "supportedRoutes": [
+                "lifi"
+            ]
+        }
+    },
+    {
+        "chainId": 137,
+        "address": "0x8F94400CDeF837F388100cfE56D7ebB8a3A3fb44",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": [
+            "canonical"
+        ],
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": [
+                "lifi"
+            ]
+        }
+    },
+    {
+        "chainId": 42161,
+        "address": "0xe7bef5cc7750820516162f5f5b520e9aa510a466",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": [
+            "canonical"
+        ],
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": [
+                "lifi"
+            ]
+        }
+    },
+    {
+        "chainId": 1101,
+        "address": "0xa23390ab60fe5482e9230245eb817a8117528b38",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": [
+            "wrapped"
+        ],
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0xa703f846105be911c4f9c45e272e15e7a94814bd",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": [
+            "wrapped"
+        ],
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 752025,
+        "address": "0xa23390ab60fe5482e9230245eb817a8117528b38",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": [
+            "wrapped"
+        ],
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 196,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "tags": [
+            "governanceToken",
+            "noDeposit"
+        ],
+        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "originTokenNetwork": 0
+        }
+    },
+    {
         "chainId": 752025,
         "address": "0x0000000000000000000000000000000000000000",
         "name": "Capsule Coin",
