@@ -71030,5 +71030,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "SentAI",
+        "symbol": "SENTAI",
+        "decimals": 18,
+        "originTokenAddress": "0x877f035c83df617b6c901891f90eebc78f8ce050",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x5e5065cb0b68b7b2308ed20b0d30cee8cdddb38c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
