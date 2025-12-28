@@ -71050,5 +71050,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Quest Ecosystem",
+        "symbol": "QUEST",
+        "decimals": 6,
+        "originTokenAddress": "0x1fc122fe8b6fa6b8598799baf687539b5d3b2783",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x1f09b1b1e9687794f3864f5145062e72e7a98de4",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
