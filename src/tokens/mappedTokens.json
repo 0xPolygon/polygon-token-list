@@ -60596,5 +60596,30 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Unstoppable Domains",
+        "symbol": "UD",
+        "decimals": 18,
+        "originTokenAddress": "0x049aba7510f45ba5b64ea9e658e342f904db358d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20",
+            "noDeposit",
+            "noWithdraw"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xa9a6A3626993D487d2Dbda3173cf58cA1a9D9e9f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
+                ]
+            }
+        ]
     }
 ]
