@@ -60528,5 +60528,18 @@
                 ]
             }
         ]
-    }
+    },
+    {
+  "chainId": 137,
+  "name": "Swisscoin",
+  "symbol": "CHFS",
+  "address": "0xc9087432323c1fecb3d74a4785eb4d2d97330c2e",
+  "decimals": 18,
+  "logoURI": "https://v0-swisscoin.vercel.app/images/swisscoin-logo.png",
+  "tags": ["pos", "erc20"],
+  "extensions": {
+    "project": "https://v0-swisscoin.vercel.app/",
+    "description": "Swisscoin (CHFS) is a Swiss Franc (CHF) stablecoin on Polygon, 1:1 backed by vCHF reserves."
+  }
+}
 ]
