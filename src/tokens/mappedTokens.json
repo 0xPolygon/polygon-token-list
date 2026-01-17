@@ -71070,5 +71070,25 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "USDC.a",
+        "symbol": "USDC.a",
+        "decimals": 18,
+        "originTokenAddress": "0xb51b3dc407d8722feaeca9229d42eadf5fccdcec",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xce33fa660d5e3eefbd6e9d9e284c7ccd9ae77797",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
