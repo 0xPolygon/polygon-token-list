@@ -2120,5 +2120,23 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
-    }
-]
+
+        {
+
+        {
+         "chainId": 137,
+         "name": "New Global Naira Dec. Token",
+         "symbol": "NGNDT",
+         "decimals": 6,
+         "originTokenAddress": "0x96Cc88f54d28C764436c35B88481d4fb9966D14e",
+         "originNetworkId": 137,
+         "tags": ["polygon", "erc20"],
+         "wrappedTokens": [
+        {
+         "wrappedTokenAddress": "0x96Cc88f54d28C764436c35B88481d4fb9966D14e",
+         "tags": ["polygon", "erc20"]
+        }
+        ],
+         "logoURI": "https://raw.githubusercontent.com/lucydada4214-arch/polygon-token-list/bfa153babaced1c89099d2ff305ff4e1953b4bcd/assets/NGNDT/logo.svg"
+        }
+    ]
