@@ -76,3 +76,27 @@ The JSON schema for the tokens includes: chainId, name, address, decimals, symbo
 
 After raising a PR, please allow us some time to verify the PR.
 We do not follow any particular order in reviewing token additions and updations.
+
+
+{
+    "chainId": 137, // Chain Id of the L2 chain
+    "name": "token_name",
+    "symbol": "token_symbol",
+    "decimals": "<token_decimals>",
+    "address": "token_address on Polygon",
+    "logoURI": "token_icon_uri",
+    "tags": ["<bridge>", "<token_type>", "<optional_tag>", "<optional_tag>", ...], // For all acceptable tags, check the below list
+    "extensions": {
+        "originTokenAddress": "token_address on the origin chain", // If not deployed on ethereum, add noDeposit and noWithdraw tags
+        "originTokenNetwork": "id of the token's origin chain", // Use 0 for Ethereum, 1 for zkEVM, -1 for PoS
+        "wrappedTokenNetwork": "id of the wrapper token's chain", // Only for tokens bridged via LxLy bridge (zkEVM)
+        "project": {
+            "name": "Project_Name",
+            "summary": "Short_Project_Description",
+            "contact": "Project_Support",
+            "website": "Project_Website"
+        },
+        "originChainBridgeAdapter": "Bridge adapter contract address on origin chain", // Only required for tokens bridged using zkEVM messaging layer
+        "wrapperChainBridgeAdapter": "Bridge adapter contract address on wrapper chain" // Only required for tokens bridged using zkEVM messaging layer
+    }
+}
