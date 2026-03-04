@@ -20394,5 +20394,43 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Bridge Test",
+        "symbol": "BT",
+        "decimals": 18,
+        "originTokenAddress": "0x0a0ba80f5d8ce83d9d620ddfd1437507c793171f",
+        "originNetworkId": 52,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf477f07bc53dd35854dad2e265fe7a5ea907afe0",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Buggy ERC20",
+        "symbol": "BUG",
+        "decimals": 18,
+        "originTokenAddress": "0x22939b3a4dfd9fc6211f99cdc6bd9f6708ae2956",
+        "originNetworkId": 52,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x7c9591498bb499d28be320f7534644bdb8d7e1e5",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
