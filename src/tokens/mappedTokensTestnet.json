@@ -20318,5 +20318,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Bridge Test",
+        "symbol": "BT",
+        "decimals": 18,
+        "originTokenAddress": "0x0a0ba80f5d8ce83d9d620ddfd1437507c793171f",
+        "originNetworkId": 51,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xb8947a71d43e98b7a19d5c3a6fff3269bf979d3c",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
