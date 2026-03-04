@@ -20280,5 +20280,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0xe6a3136f060cc22a866abee3e3725311a600f3ee",
+        "originNetworkId": 45,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xcc1c36eaabdebea28269978a07200bce30b500fd",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
