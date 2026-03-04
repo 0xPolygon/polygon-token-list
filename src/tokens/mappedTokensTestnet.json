@@ -20240,5 +20240,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "C1",
+        "symbol": "NFTC1",
+        "decimals": 0,
+        "originTokenAddress": "0x78effc81a366e2f793340e6e08d7f8605280893c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x857503680c194dcf88f1adc296a463df51c3e993",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
