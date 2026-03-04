@@ -20337,5 +20337,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Buggy ERC20",
+        "symbol": "BUG",
+        "decimals": 18,
+        "originTokenAddress": "0x22939b3a4dfd9fc6211f99cdc6bd9f6708ae2956",
+        "originNetworkId": 51,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x761ea575f7ffbeb554c52007993da37bd15b07f5",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
