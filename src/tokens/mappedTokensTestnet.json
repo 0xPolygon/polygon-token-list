@@ -20299,5 +20299,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0xad73118d8a179c17a2653e7342977e82e54cc4a7",
+        "originNetworkId": 45,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x55eba6bdf570cd39d4cfde14e99a8f858b123ba2",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
