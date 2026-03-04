@@ -20261,5 +20261,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "originTokenAddress": "0x75b69949d11013856e60b7386c28163daed1de81",
+        "originNetworkId": 45,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9df5590b0278ab6d2e67d7afbbaf17e971c53bd3",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
