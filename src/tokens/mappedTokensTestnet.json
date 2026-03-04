@@ -20219,5 +20219,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "NFTCollection721A",
+        "symbol": "NFTA",
+        "decimals": 0,
+        "originTokenAddress": "0x839e4b4edbffc1c1e25929cd78eccb8e9842b576",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xe3f004334f4d45f4a1ed1bf7974a7eb736d1b785",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
