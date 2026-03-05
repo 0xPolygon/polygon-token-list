@@ -20451,5 +20451,24 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Mock USDC",
+        "symbol": "mUSDC",
+        "decimals": 18,
+        "originTokenAddress": "0xe70d44453583485155cb80a8d122a7d52c4e11a5",
+        "originNetworkId": 25,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xaed26a7997802e13288f2ff1278fd618c92d1659",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
