@@ -60529,4 +60529,24 @@
             }
         ]
     }
+    {
+        "chainId": 1,
+        "name": "Chemistry",
+        "symbol": "CHEM",
+        "decimals": 18,
+        "originTokenAddress": "0xA05e177110E85A9FeB4A63350e5c5372B93e37D8"
+        "originNetworkId": "0",
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xA05e177110E85A9FeB4A63350e5c5372B93e37D8"
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    }
 ]
