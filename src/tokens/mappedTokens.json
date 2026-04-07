@@ -60254,6 +60254,13 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0xcbd303263f78e5d93c056e1f778416bcb8d581ac",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
