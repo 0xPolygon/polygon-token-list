@@ -60528,5 +60528,425 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "cWUSDT",
+        "symbol": "cWUSDT",
+        "decimals": 6,
+        "originTokenAddress": "0xaF5017d0163ecb99D9B5D94e3b4D7b09Af44D8AE",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0cb0192C056aa425C557BdeAD8E56C7eEabf7acF",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWUSDT",
+                "symbol": "cWUSDT"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cUSDT",
+            "dbisHub138Address": "0x93E66202A11B1772E55407B32B44e5Cd8eda7f22",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWUSDC",
+        "symbol": "cWUSDC",
+        "decimals": 6,
+        "originTokenAddress": "0x2de5F116bFcE3d0f922d9C8351e0c5Fc24b9284a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xd6969bC19b53f866C64f2148aE271B2Dae0C58E4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWUSDC",
+                "symbol": "cWUSDC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cUSDC",
+            "dbisHub138Address": "0xf22258f57794CC8E06237084b353Ab30fFfa640b",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWEURC",
+        "symbol": "cWEURC",
+        "decimals": 6,
+        "originTokenAddress": "0xD4aEAa8cD3fB41Dc8437FaC7639B6d91B60A5e8d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3CD9ee18db7ad13616FCC1c83bC6098e03968E66",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWEURC",
+                "symbol": "cWEURC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cEURC",
+            "dbisHub138Address": "0x8085961F9cF02b4d800A3c6d386D31da4B34266a",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWEURT",
+        "symbol": "cWEURT",
+        "decimals": 6,
+        "originTokenAddress": "0x855d74FFB6CF75721a9bAbc8B2ed35c8119241dC",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xBeF5A0Bcc0E77740c910f197138cdD90F98d2427",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWEURT",
+                "symbol": "cWEURT"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cEURT",
+            "dbisHub138Address": "0xdf4b71c61E5912712C1Bdd451416B9aC26949d72",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWGBPC",
+        "symbol": "cWGBPC",
+        "decimals": 6,
+        "originTokenAddress": "0xc074007dc0bfb384b1cf6426a56287ed23fe4d52",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x948690147D2e50ffe50C5d38C14125aD6a9FA036",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWGBPC",
+                "symbol": "cWGBPC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cGBPC",
+            "dbisHub138Address": "0x003960f16D9d34F2e98d62723B6721Fb92074aD2",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWGBPT",
+        "symbol": "cWGBPT",
+        "decimals": 6,
+        "originTokenAddress": "0x1dDF9970F01c76A692Fdba2706203E6f16e0C46F",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x58a8D8F78F1B65c06dAd7542eC46b299629A60dd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWGBPT",
+                "symbol": "cWGBPT"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cGBPT",
+            "dbisHub138Address": "0x350f54e4D23795f86A9c03988c7135357CCaD97c",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWAUDC",
+        "symbol": "cWAUDC",
+        "decimals": 6,
+        "originTokenAddress": "0x5020Db641B3Fc0dAbBc0c688C845bc4E3699f35F",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xFb4B6Cc81211F7d886950158294A44C312abCA29",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWAUDC",
+                "symbol": "cWAUDC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cAUDC",
+            "dbisHub138Address": "0xD51482e567c03899eecE3CAe8a058161FD56069D",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWJPYC",
+        "symbol": "cWJPYC",
+        "decimals": 6,
+        "originTokenAddress": "0x07EEd0D7dD40984e47B9D3a3bdded1c536435582",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf9f5D0ACD71C76F9476F10B3F3d3E201F0883c68",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWJPYC",
+                "symbol": "cWJPYC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cJPYC",
+            "dbisHub138Address": "0xEe269e1226a334182aace90056EE4ee5Cc8A6770",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWCHFC",
+        "symbol": "cWCHFC",
+        "decimals": 6,
+        "originTokenAddress": "0x0F91C5E6Ddd46403746aAC970D05d70FFe404780",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xeE17bB0322383fecCA2784fbE2d4CD7d02b1905B",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWCHFC",
+                "symbol": "cWCHFC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cCHFC",
+            "dbisHub138Address": "0x873990849DDa5117d7C644f0aF24370797C03885",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWCADC",
+        "symbol": "cWCADC",
+        "decimals": 6,
+        "originTokenAddress": "0x209FE32fe7B541751D190ae4e50cd005DcF8EDb4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xc9750828124D4c10e7a6f4B655cA8487bD3842EB",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWCADC",
+                "symbol": "cWCADC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cCADC",
+            "dbisHub138Address": "0x54dBd40cF05e15906A2C21f600937e96787f5679",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWXAUC",
+        "symbol": "cWXAUC",
+        "decimals": 6,
+        "originTokenAddress": "0x572Be0fa8CA0534d642A567CEDb398B771D8a715",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x328Cd365Bb35524297E68ED28c6fF2C9557d1363",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWXAUC",
+                "symbol": "cWXAUC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cXAUC",
+            "dbisHub138Address": "0x290E52a8819A4fbD0714E517225429aA2B70EC6b",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWXAUT",
+        "symbol": "cWXAUT",
+        "decimals": 6,
+        "originTokenAddress": "0xACE1DBF857549a11aF1322e1f91F2F64b029c906",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x9e6044d730d4183bF7a666293d257d035Fba6d44",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWXAUT",
+                "symbol": "cWXAUT"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cXAUT",
+            "dbisHub138Address": "0x94e408E26c6FD8F4ee00b54dF19082FDA07dC96E",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWBTC",
+        "symbol": "cWBTC",
+        "decimals": 8,
+        "originTokenAddress": "0xcb7c000000000000000000000000000000000089",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xcb7c000000000000000000000000000000000089",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWBTC",
+                "symbol": "cWBTC"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cBTC",
+            "dbisHub138Address": "0xe94260c555ac1d9d3cc9e1632883452ebdf0082e",
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
+    },
+    {
+        "chainId": 1,
+        "name": "cWAUSDT",
+        "symbol": "cWAUSDT",
+        "decimals": 6,
+        "originTokenAddress": "0xe1a51Bc037a79AB36767561B147eb41780124934",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xf12e262F85107df26741726b074606CaFa24AAe7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "customBridge",
+                    "erc20",
+                    "dbis_cw_mesh"
+                ],
+                "name": "cWAUSDT",
+                "symbol": "cWAUSDT"
+            }
+        ],
+        "extensions": {
+            "dbisHubChainId": 138,
+            "dbisHubSymbol": "cWAUSDT",
+            "dbisHub138Address": null,
+            "dbisMeshTransport": "ccip_cw_mesh"
+        }
     }
 ]
