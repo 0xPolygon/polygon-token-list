@@ -857,7 +857,7 @@
         "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
         "name": "Wrapped BTC",
         "symbol": "WBTC",
-        "decimals": 18,
+        "decimals": 8,
         "tags": [
             "wrapped"
         ],
@@ -876,7 +876,7 @@
         "address": "0x593A86cB824e0e3546fAE6bbC56e6f3f3EB6213E",
         "name": "Vault Bridge WBTC",
         "symbol": "vbWBTC",
-        "decimals": 18,
+        "decimals": 8,
         "tags": [
             "wrapped"
         ],
