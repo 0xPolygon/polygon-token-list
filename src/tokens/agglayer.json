@@ -91,23 +91,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x0000000000000000000000000000000000000000",
-        "name": "Ether",
-        "symbol": "ETH",
-        "decimals": 18,
-        "tags": [
-            "governanceToken"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x0000000000000000000000000000000000000000",
-            "supportedRoutes": [
-                "lifi"
-            ]
-        }
-    },
-    {
         "chainId": 747474,
         "address": "0x0000000000000000000000000000000000000000",
         "name": "Ether",
@@ -245,23 +228,6 @@
             "canonical"
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "supportedRoutes": [
-                "lifi"
-            ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "decimals": 6,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
         "extensions": {
             "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "supportedRoutes": [
@@ -457,23 +423,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "decimals": 6,
-        "tags": [
-            "canonical"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "supportedRoutes": [
-                "lifi"
-            ]
-        }
-    },
-    {
         "chainId": 747474,
         "address": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
         "name": "Vault Bridge USDT",
@@ -623,23 +572,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "decimals": 18,
-        "tags": [
-            "canonical"
-        ],
-        "logoURI": "https://static.debank.com/image/pze_token/logo_url/0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9/61844453e63cf81301f845d7864236f6.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "supportedRoutes": [
-                "lifi"
-            ]
-        }
-    },
-    {
         "chainId": 8453,
         "address": "0x4200000000000000000000000000000000000006",
         "name": "Wrapped Ether",
@@ -734,23 +666,6 @@
     {
         "chainId": 137,
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "tags": [
-            "canonical"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "lifi"
-            ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
@@ -1132,25 +1047,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
-        "name": "DAI Stablecoin",
-        "symbol": "DAI",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 747474,
         "address": "0x2ff27ca276ff52a4e7c40ff87983c45a4a049e5e",
         "name": "DAI Stablecoin",
@@ -1246,25 +1142,6 @@
     },
     {
         "chainId": 196,
-        "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
-        "name": "Polygon Ecosystem Token",
-        "symbol": "POL",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 1101,
         "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
         "name": "Polygon Ecosystem Token",
         "symbol": "POL",
@@ -1410,25 +1287,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
-        "name": "ChainLink Token",
-        "symbol": "LINK",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/69425617db0ef93a7c21c4f9b81c7ca5.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x514910771AF9Ca656af840dff83E8264EcF986CA",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 1,
         "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
         "name": "Uniswap",
@@ -1515,25 +1373,6 @@
             "supportedRoutes": [
                 "lifi"
             ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0x2548c94a3092494db3af864cc2cf781a72f55678",
-        "name": "Uniswap",
-        "symbol": "UNI",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0/fcee0c46fc9864f48ce6a40ed1cdd135.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-            "originTokenNetwork": 0
         }
     },
     {
@@ -1664,25 +1503,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
-        "name": "Aave Token",
-        "symbol": "AAVE",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 752025,
         "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
         "name": "Aave Token",
@@ -1775,25 +1595,6 @@
     },
     {
         "chainId": 196,
-        "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
-        "name": "Curve DAO Token",
-        "symbol": "CRV",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/crv.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 1101,
         "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
         "name": "Curve DAO Token",
         "symbol": "CRV",
@@ -1917,25 +1718,6 @@
             "supportedRoutes": [
                 "lifi"
             ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
-        "name": "Balancer",
-        "symbol": "BAL",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8/52990c207f4001bd9090dfd90e54374a.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xba100000625a3754423978a60c9317c58a424e3D",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
-            "originTokenNetwork": 0
         }
     },
     {
@@ -2083,25 +1865,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0xc32cb86ae7921f45c0aa44f638d0ee8b67c98b98",
-        "name": "SushiToken",
-        "symbol": "SUSHI",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 1,
         "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
         "name": "Synthetix Network Token",
@@ -2188,25 +1951,6 @@
             "supportedRoutes": [
                 "lifi"
             ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0x90c6a9befa477ab3c3ec3b8be8dbc7a3e6ef1415",
-        "name": "Synthetix Network Token",
-        "symbol": "SNX",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x50b728d8d964fd00c2d0aad81718b71311fef68a/fb568c26c7902169572abe8fa966e791.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-            "originTokenNetwork": 0
         }
     },
     {
@@ -2299,25 +2043,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0x2450e3153137c14ce4c113d63c427070e85bedec",
-        "name": "1INCH Token",
-        "symbol": "1INCH",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f/73b05710c95a431e9e3c62dd5b8096ae.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x111111111117dC0aa78b770fA6A738034120C302",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 1,
         "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
         "name": "Lido DAO Token",
@@ -2370,25 +2095,6 @@
             "supportedRoutes": [
                 "lifi"
             ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0x7e2feea957b7d1606335e339754f4e52b452b792",
-        "name": "Lido DAO Token",
-        "symbol": "LDO",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60/3a1a90da5ccd4849de3e83755f1fd8b5.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-            "originTokenNetwork": 0
         }
     },
     {
@@ -2519,25 +2225,6 @@
             "supportedRoutes": [
                 "lifi"
             ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0x70d35152fbf63fb312709b11a9bac87519de0019",
-        "name": "Rocket Pool",
-        "symbol": "RPL",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb766039cc6db368759c1e56b79affe831d0cc507/f310ef0bdbf9f72e72cd54ff7f4d3ee6.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
-            "originTokenNetwork": 0
         }
     },
     {
@@ -2719,25 +2406,6 @@
         }
     },
     {
-        "chainId": 1101,
-        "address": "0xbb7835cefec0706829842927a645e64cf0a51bdf",
-        "name": "Graph Token",
-        "symbol": "GRT",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x9623063377ad1b27544c965ccd7342f7ea7e88c7/8a3fcf468cdf3ae0c7a56cfb12ab4816.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 1,
         "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
         "name": "OKB",
@@ -2790,25 +2458,6 @@
             "supportedRoutes": [
                 "lifi"
             ]
-        }
-    },
-    {
-        "chainId": 1101,
-        "address": "0xa23390ab60fe5482e9230245eb817a8117528b38",
-        "name": "OKB",
-        "symbol": "OKB",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/xlayer_token/logo_url/0xe538905cf8410324e03a5a23c1c177a474d59b2b/b58d6980429c56560d9241765bdf9c2b.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x75231F58b43240C9718Dd58B4967c5114342a86c",
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "originTokenAddress": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
-            "originTokenNetwork": 0
         }
     },
     {

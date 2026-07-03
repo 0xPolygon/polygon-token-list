@@ -120,29 +120,6 @@
                 "symbol": "USDC"
             },
             {
-                "wrappedTokenAddress": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "lxly",
-                    "erc20",
-                    "legacy"
-                ],
-                "name": "Legacy Bridge USD Coin",
-                "symbol": "USDC"
-            },
-            {
-                "wrappedTokenAddress": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0x70E70e58ed7B1Cec0D8ef7464072ED8A52d755eB",
-                "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189",
-                "name": "USD Coin",
-                "symbol": "USDC.e"
-            },
-            {
                 "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
                 "tags": [
                     "agglayer",
@@ -407,25 +384,6 @@
                 ]
             },
             {
-                "wrappedTokenAddress": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "lxly",
-                    "erc20",
-                    "legacy"
-                ]
-            },
-            {
-                "wrappedTokenAddress": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0x4A27aC91c5cD3768F140ECabDe3FC2B2d92eDb98",
-                "wrappedChainBridgeAdapter": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5"
-            },
-            {
                 "wrappedTokenAddress": "0x2ff27ca276ff52a4e7c40ff87983c45a4a049e5e",
                 "tags": [
                     "agglayer",
@@ -619,25 +577,6 @@
                     "pos",
                     "erc20"
                 ]
-            },
-            {
-                "wrappedTokenAddress": "0xbf6de60ccd9d22a5820a658fbe9fc87975ea204f",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0xf0CDE1E7F0FAD79771cd526b1Eb0A12F69582C01",
-                "wrappedChainBridgeAdapter": "0xDB5D9c10FD2a92692DB51853e06058EE0436d69B"
-            },
-            {
-                "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-                "tags": [
-                    "lxly",
-                    "erc20",
-                    "legacy"
-                ],
-                "wrappedNetworkId": 1
             },
             {
                 "wrappedTokenAddress": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",

@@ -1,25 +1,5 @@
 [
     {
-        "chainId": 2442,
-        "name": "I am mine",
-        "symbol": "MINE",
-        "decimals": 18,
-        "originTokenAddress": "0xc949f6e273de0fc7e057c39ad3c83859732627c3",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xadaaa72158ee2b174b9b7b1a06fb0d655d582a64",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 11155111,
         "name": "Dummy ERC20",
         "symbol": "DERC20",
@@ -200,26 +180,6 @@
         ]
     },
     {
-        "chainId": 2442,
-        "name": "PayToken",
-        "symbol": "PTK",
-        "decimals": 18,
-        "originTokenAddress": "0xc3e9a9ef91982aaff10274be170b28d6a1d952d3",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x4973a09fea4bef8f089ab849d520af8c99813d72",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 11155111,
         "name": "USDC",
         "symbol": "USDC",
@@ -360,26 +320,6 @@
         ]
     },
     {
-        "chainId": 2442,
-        "name": "PayToken",
-        "symbol": "PTK",
-        "decimals": 18,
-        "originTokenAddress": "0x6780f3acb82b5fd847a4d420cfac7d901ee84076",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x83147790e2b569604dc9adf136f9b177ce32eb1d",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 11155111,
         "name": "Bikera",
         "symbol": "MERA",
@@ -392,26 +332,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x9c78bb41121726ec62d657dfb9124051e9c6ca66",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 2442,
-        "name": "NEEV NETWORK TESTNET",
-        "symbol": "tNEEV",
-        "decimals": 18,
-        "originTokenAddress": "0x9a23b162ebe81cdf7095724af601b102469ac07d",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x84d9ec2fe586d650375cc37bb180750c49d4d17a",
                 "tags": [
                     "lxly",
                     "erc20"
@@ -484,46 +404,6 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 2442,
-        "name": "Cardona Points",
-        "symbol": "CRDNA",
-        "decimals": 18,
-        "originTokenAddress": "0x94ab230b92a3f2899e81d46d4e874c6f006c88aa",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa1748f5e8939776a9cf74fb8e78b22e00210d31b",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 2442,
-        "name": "hajmola",
-        "symbol": "HJ",
-        "decimals": 18,
-        "originTokenAddress": "0xba73866cb1d2407bb6c62cb612e3b4ddf035ae05",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x926b8d456b0b840a9eda949ad5df5e039a596c0c",
-                "tags": [
-                    "lxly",
                     "erc20"
                 ]
             }
@@ -976,26 +856,6 @@
         ]
     },
     {
-        "chainId": 2442,
-        "name": "Mitosis Wrapped EtherFi Ether",
-        "symbol": "miweETH",
-        "decimals": 18,
-        "originTokenAddress": "0x4116f5aa85fdfc063a19bedd740c08c1b3ad15c5",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x7c4ede3e553b7ef836fbc85ca90d9acec408cc17",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 11155111,
         "name": "STOS Token",
         "symbol": "STOS",
@@ -1174,26 +1034,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x1e9e294e9003fe3471a6d7be6b302fcba6621271",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 2442,
-        "name": "TEST1",
-        "symbol": "TT",
-        "decimals": 18,
-        "originTokenAddress": "0xd7704eccb6d9355e7723fa92d5704c5c70031c8d",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x262fec096869bf57bddaffb2fe6b4f37e6383055",
                 "tags": [
                     "lxly",
                     "erc20"
@@ -2557,46 +2397,6 @@
         ]
     },
     {
-        "chainId": 2442,
-        "name": "A COIN",
-        "symbol": "ACO",
-        "decimals": 18,
-        "originTokenAddress": "0xaf06af0885aad7791dba0da07d91db7e1024d46b",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x43ded846016e018986e5f4ed84f0fb10f06615f7",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 2442,
-        "name": "A COIN",
-        "symbol": "ACO",
-        "decimals": 18,
-        "originTokenAddress": "0x40867603ba72cefe945233d923b4b04e6364cacd",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x709ef363c2554ceca37472bf39451ed2eb0eb5af",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 11155111,
         "name": "USDC",
         "symbol": "USDC",
@@ -3067,26 +2867,6 @@
         ]
     },
     {
-        "chainId": 2442,
-        "name": "A COIN",
-        "symbol": "ACO",
-        "decimals": 18,
-        "originTokenAddress": "0x7f9f26bcc8fc483804a07df3e852266cc321933e",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xfc49e626ca1cf2f8be17a52b4f015cacb3a56460",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 11155111,
         "name": "LUSD",
         "symbol": "LUSD",
@@ -3169,26 +2949,6 @@
         ]
     },
     {
-        "chainId": 2442,
-        "name": "Aggregation Layer Token",
-        "symbol": "AGG",
-        "decimals": 18,
-        "originTokenAddress": "0x88342beb50513c9994696c1dadeedad5e8b763df",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa239f92e2d4356b26118a0cfb1d515c5c5ac5f16",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 11155111,
         "name": "Aggregation Layer Token",
         "symbol": "AGG",
@@ -3261,46 +3021,6 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "plasma",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "UnirisToken",
-        "symbol": "UCO",
-        "decimals": 18,
-        "originTokenAddress": "0x1ac1544bba39d35951a10375465d18ae6a75a86a",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xcdf374bf62756cf8f3da0f088cbb68678881f4f7",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Wrapped Bitcoin",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "originTokenAddress": "0xad9d14ca82d9bf97fff745ffc7d48172a1c0969e",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x181fed81cf25388eb4e4e9f81c7ddf82b9b07f79",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "lxly",
                     "erc20"
                 ]
             }
@@ -3576,29 +3296,6 @@
                     "fx",
                     "erc721"
                 ]
-            }
-        ]
-    },
-    {
-        "chainId": 11155111,
-        "name": "DevStudio",
-        "symbol": "DST",
-        "decimals": 18,
-        "originTokenAddress": "0x0FDF2329163cA2144704eA251e88B3c59793e266",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x6295453Cc3dC3DDAE9592C1390507Ff509f5023C",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0x6DE95796C049Fbe47578211183cDC0223f9692Cb",
-                "wrappedChainBridgeAdapter": "0xa2A2b7e365612795E5381214d1c321f245a34E31"
             }
         ]
     },

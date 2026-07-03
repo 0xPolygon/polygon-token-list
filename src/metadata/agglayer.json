@@ -112,29 +112,6 @@
             "active": true
         },
         {
-            "chainId": 1101,
-            "blockExplorerUrl": "https://www.oklink.com/polygon-zkevm",
-            "chainType": "EVM",
-            "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/zkevm.svg",
-            "name": "Polygon zkEVM",
-            "nativeCurrency": {
-                "decimals": 18,
-                "name": "Ether",
-                "symbol": "ETH",
-                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
-            },
-            "rpcURL": "https://zkevm-rpc.com",
-            "supportedRoutes": [
-                "lifi",
-                "agglayer"
-            ],
-            "networkId": 1,
-            "autoClaimEnabled": true,
-            "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 10800,
-            "active": true
-        },
-        {
             "chainId": 747474,
             "blockExplorerUrl": "https://katanascan.com",
             "chainType": "EVM",
