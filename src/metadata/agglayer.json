@@ -209,28 +209,6 @@
             "lxlyVersion": 2,
             "verifiedBatchSubmissionPeriod": 10800,
             "active": true
-        },
-        {
-            "chainId": 752025,
-            "blockExplorerUrl": "https://explorer-mainnet.zkevm.ternoa.network",
-            "chainType": "EVM",
-            "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg",
-            "name": "Ternoa",
-            "nativeCurrency": {
-                "decimals": 18,
-                "name": "Capsule Coin",
-                "symbol": "CAPS",
-                "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
-            },
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "rpcURL": "https://rpc-mainnet.zkevm.ternoa.network",
-            "networkId": 13,
-            "autoClaimEnabled": true,
-            "lxlyVersion": 1,
-            "verifiedBatchSubmissionPeriod": 10800,
-            "active": true
         }
     ]
 }
