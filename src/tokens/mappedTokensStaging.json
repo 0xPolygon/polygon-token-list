@@ -184,29 +184,6 @@
                 "symbol": "USDC"
             },
             {
-                "wrappedTokenAddress": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "lxly",
-                    "erc20",
-                    "legacy"
-                ],
-                "name": "Legacy Bridge USD Coin",
-                "symbol": "USDC"
-            },
-            {
-                "wrappedTokenAddress": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0x70E70e58ed7B1Cec0D8ef7464072ED8A52d755eB",
-                "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189",
-                "name": "USD Coin",
-                "symbol": "USDC.e"
-            },
-            {
                 "wrappedTokenAddress": "0xfd415d011ffaa8e6f17fa753cdb080d1de266784",
                 "tags": [
                     "agglayer",
@@ -346,16 +323,6 @@
                     "erc20",
                     "legacy"
                 ]
-            },
-            {
-                "wrappedTokenAddress": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0x4A27aC91c5cD3768F140ECabDe3FC2B2d92eDb98",
-                "wrappedChainBridgeAdapter": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5"
             },
             {
                 "wrappedTokenAddress": "0x6499d97a606074cb8287dd1570fadba387133e40",
@@ -39384,26 +39351,6 @@
         ],
         "wrappedTokens": [
             {
-                "wrappedTokenAddress": "0xbf6de60ccd9d22a5820a658fbe9fc87975ea204f",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0xf0CDE1E7F0FAD79771cd526b1Eb0A12F69582C01",
-                "wrappedChainBridgeAdapter": "0xDB5D9c10FD2a92692DB51853e06058EE0436d69B"
-            },
-            {
-                "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-                "tags": [
-                    "lxly",
-                    "erc20",
-                    "legacy",
-                    "noDeposit"
-                ],
-                "wrappedNetworkId": 1
-            },
-            {
                 "wrappedTokenAddress": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
                 "wrappedNetworkId": -1,
                 "tags": [
@@ -51662,26 +51609,6 @@
         ]
     },
     {
-        "chainId": 1101,
-        "name": "CHERRY_NATIVE_1",
-        "symbol": "CN1",
-        "decimals": 18,
-        "originTokenAddress": "0x47c75a082a748264deea783b587a9bcaa26b3d24",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x47c75a082a748264deea783b587a9bcaa26b3d24",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 1,
         "name": "MAGA",
         "symbol": "TRUMP",
@@ -51694,146 +51621,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x88152f9b973b86c0e31d16f7c4d2896572712131",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "decimals": 18,
-        "originTokenAddress": "0xf4717d8b9b91a0944a2160f4645d63ebb4ec9577",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xf4717d8b9b91a0944a2160f4645d63ebb4ec9577",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "AKADAMA",
-        "symbol": "AKD",
-        "decimals": 18,
-        "originTokenAddress": "0x9ec972dd801305bebbf72dadb68a78ec72bd80b3",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x9ec972dd801305bebbf72dadb68a78ec72bd80b3",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "Leet",
-        "symbol": "LEET",
-        "decimals": 18,
-        "originTokenAddress": "0xea0b7a3256829190ea5f587509dee953d213461c",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xea0b7a3256829190ea5f587509dee953d213461c",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "PancakeSwap Token",
-        "symbol": "Cake",
-        "decimals": 18,
-        "originTokenAddress": "0x0d1e753a25ebda689453309112904807625befbe",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x0d1e753a25ebda689453309112904807625befbe",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "agEUR",
-        "symbol": "agEUR",
-        "decimals": 18,
-        "originTokenAddress": "0xa61beb4a3d02decb01039e378237032b351125b4",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xa61beb4a3d02decb01039e378237032b351125b4",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "decimals": 18,
-        "originTokenAddress": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "Frax",
-        "symbol": "FRAX",
-        "decimals": 18,
-        "originTokenAddress": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
                 "tags": [
                     "lxly",
                     "erc20"
@@ -52188,26 +51975,6 @@
         ]
     },
     {
-        "chainId": 1101,
-        "name": "Dyson Sphere",
-        "symbol": "DYSN",
-        "decimals": 18,
-        "originTokenAddress": "0x9cbd81b43ba263ca894178366cfb89a246d1159c",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x9cbd81b43ba263ca894178366cfb89a246d1159c",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 1,
         "name": "KuCoin Token",
         "symbol": "KCS",
@@ -52382,26 +52149,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x91eba9dd8dfde0e2681d48122d6c7a122d0eeb0e",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1101,
-        "name": "Frax Ether",
-        "symbol": "frxETH",
-        "decimals": 18,
-        "originTokenAddress": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
                 "tags": [
                     "lxly",
                     "erc20"
@@ -57994,26 +57741,6 @@
         ]
     },
     {
-        "chainId": 1101,
-        "name": "Ankr Staked ETH",
-        "symbol": "ankrETH",
-        "decimals": 18,
-        "originTokenAddress": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x9ff5f723452a272cec81cb4591e071297b05589e",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 1,
         "name": "KOSHER CERTIFIED | VERIFIED | VERITY",
         "symbol": "KOSHER",
@@ -58609,26 +58336,6 @@
         ]
     },
     {
-        "chainId": 1101,
-        "name": "Aura",
-        "symbol": "AURA",
-        "decimals": 18,
-        "originTokenAddress": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
-        "originNetworkId": 1,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x741971af1fb2951bcf25ac0a61411687be5869de",
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
         "chainId": 1,
         "name": "Frankencoin Pool Share",
         "symbol": "FPS",
@@ -59038,40 +58745,6 @@
                     "lxly",
                     "erc20"
                 ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "Gyro Dollar",
-        "symbol": "GYD",
-        "decimals": 18,
-        "originTokenAddress": "0xe07F9D810a48ab5c3c914BA3cA53AF14E4491e8A",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "logoURI": "https://app.gyro.finance/_next/static/media/gyd.aab5a49d.svg",
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0xF3387a880998C9B9169bc9973E8826Fc9035c171",
-                "wrappedChainBridgeAdapter": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8"
-            },
-            {
-                "wrappedTokenAddress": "0x9496C473A7b1809dE32198aE1C23a7Ba844D9f6d",
-                "tags": [
-                    "lxly",
-                    "erc20",
-                    "legacy",
-                    "noDeposit"
-                ],
-                "wrappedNetworkId": 1
             }
         ]
     },

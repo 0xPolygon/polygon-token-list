@@ -135,29 +135,6 @@
     },
     {
         "chainId": 11155111,
-        "name": "DevStudio",
-        "symbol": "DST",
-        "decimals": 18,
-        "originTokenAddress": "0x0FDF2329163cA2144704eA251e88B3c59793e266",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0x6295453Cc3dC3DDAE9592C1390507Ff509f5023C",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "zkevmMessageBridge",
-                    "erc20"
-                ],
-                "originChainBridgeAdapter": "0x6DE95796C049Fbe47578211183cDC0223f9692Cb",
-                "wrappedChainBridgeAdapter": "0xa2A2b7e365612795E5381214d1c321f245a34E31"
-            }
-        ]
-    },
-    {
-        "chainId": 11155111,
         "name": "Dummy ERC20",
         "symbol": "DERC20",
         "decimals": 18,
