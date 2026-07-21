@@ -60826,5 +60826,29 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 137,
+        "name": "MBT",
+        "symbol": "MBT",
+        "decimals": 18,
+        "originTokenAddress": "0x0ea63cbe00B9F8B6B9879B34248704f49587468d",
+        "originNetworkId": -1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0ea63cbe00B9F8B6B9879B34248704f49587468d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
+                ]
+            }
+        ],
+        "logoURI": "https://raw.githubusercontent.com/mbtampus/polygon-token-list/main/logos/0x0ea63cbe00B9F8B6B9879B34248704f49587468d.png"
     }
 ]
