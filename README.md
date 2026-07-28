@@ -1,5 +1,17 @@
 # Tokenlists
 
+> [!WARNING]
+> **This service is deprecated and being wound down — do not add new consumers.**
+>
+> Per the 2026-07-23 Apps Team product review, this legacy plain-JS token list
+> is superseded by Sequence's token-list/metadata services. The one remaining
+> gap — POS/Ethereum canonical-bridge token mappings — is resolvable on-contract
+> rather than from a maintained list; AggLayer-side mappings fall away as the
+> AggLayer UI is retired.
+>
+> No new tokens or consumers should be added here. This repository will be
+> archived once remaining consumers have migrated to Sequence.
+
 This repo contains lists of tokens mapped to the Polygon chains that may be used in certain interfaces.
 
 ## Different Token Lists in JSON
