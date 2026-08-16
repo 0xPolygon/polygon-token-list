@@ -655,15 +655,15 @@
             {
                 "wrappedTokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
+                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
             },
             {
                 "wrappedTokenAddress": "0xc98d35ae65171aa38c0d6afd5416e4ba856afb86",
-                "tags": ["lxly", "erc20"]
+                "tags": ["lxly", "erc20", "noDeposit", "noWithdraw"]
             },
             {
                 "wrappedTokenAddress": "0x5d3cbb084cfa4b57af0765207540f9ac97c39b0b",
-                "tags": ["agglayer", "erc20"]
+                "tags": ["agglayer", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
