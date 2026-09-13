@@ -38663,6 +38663,30 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/20692.png"
     },
     {
+        "chainId": 137,
+        "name": "ZUGU Token",
+        "symbol": "ZUGU",
+        "decimals": 18,
+        "originTokenAddress": "0x53b271438f7c9e5d0789EC3AAaA9a0631aE1d1e4",
+        "originNetworkId": -1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x53b271438f7c9e5d0789EC3AAaA9a0631aE1d1e4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
+                ]
+            }
+        ],
+        "logoURI": "https://www.zugu.cc/images/zugu-32x32.svg"
+    },
+    {
         "chainId": 1,
         "name": "WrappedPeercoin",
         "symbol": "wPPC",
