@@ -2120,5 +2120,14 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
-    }
+    },
+
+      {
+    "chainId": 137,
+    "address": "0xEE697C14D0F2CcaA1c833D6D4403e391F4327624",
+    "name": "Wrapped DINEC",
+    "symbol": "wDINEC",
+    "decimals": 18,
+    "logoURI": "https://proyecto-dinec.com/dhp-launch/logo.png"
+  }
 ]
