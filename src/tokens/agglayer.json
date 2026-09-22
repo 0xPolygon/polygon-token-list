@@ -2340,5 +2340,85 @@
             "originTokenAddress": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
             "originTokenNetwork": 0
         }
+    },
+    {
+        "chainId": 1,
+        "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "tags": [
+            "canonical"
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/weeth.svg",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+            "originTokenAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0xcD68DFf4415358c35a28f96Fd5bF7083B22De1D6",
+            "v2WrappedTokenAddress": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
+            "supportedRoutes": [
+                "agglayer"
+            ]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x9893989433e7a383Cb313953e4c2365107dc19a7",
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "tags": [
+            "wrapped"
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/weeth.svg",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 1,
+        "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+        "name": "Morpho Token",
+        "symbol": "MORPHO",
+        "decimals": 18,
+        "tags": [
+            "canonical"
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/morpho.svg",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+            "originTokenAddress": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+            "originTokenNetwork": 0,
+            "v1WrappedTokenAddress": "0x61733989180f5340BC94357294eF09C7CD3f5653",
+            "v2WrappedTokenAddress": "0x1e5eFCA3D0dB2c6d5C67a4491845c43253eB9e4e",
+            "supportedRoutes": [
+                "agglayer"
+            ]
+        }
+    },
+    {
+        "chainId": 747474,
+        "address": "0x1e5eFCA3D0dB2c6d5C67a4491845c43253eB9e4e",
+        "name": "Morpho Token",
+        "symbol": "MORPHO",
+        "decimals": 18,
+        "tags": [
+            "wrapped"
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/morpho.svg",
+        "extensions": {
+            "originAssetId": "eip155:1/erc20:0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+            "supportedRoutes": [
+                "agglayer"
+            ],
+            "originTokenAddress": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+            "originTokenNetwork": 0
+        }
     }
 ]
