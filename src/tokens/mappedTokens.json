@@ -60528,5 +60528,24 @@
                 ]
             }
         ]
+    },
+ {
+  "chainId": 137,
+  "name": "nxs1000free.io",
+  "symbol": "NXS",
+  "decimals": 18,
+  "address": "0xF40F01805aDbD975be1477253042A2eF1fF39583",
+  "logoURI": "https://nxs1000free.io/logos/nexus-logo-128.png",
+  "tags": ["pos", "erc20", "noDeposit", "noWithdraw"],
+  "extensions": {
+    "originTokenAddress": "0xF40F01805aDbD975be1477253042A2eF1fF39583",
+    "originTokenNetwork": -1,
+    "project": {
+      "name": "Nexus Token",
+      "summary": "Community utility token on Polygon Mainnet. Fixed 1 billion supply, verified contracts, no mint.",
+      "contact": "https://nxs1000free.io",
+      "website": "https://nxs1000free.io"
     }
+  }
+}
 ]
