@@ -187,28 +187,6 @@
             "blockExplorerUrl": "https://arbiscan.io",
             "rpcURL": "https://arbitrum.rpc.subquery.network/public",
             "active": true
-        },
-        {
-            "chainId": 8338,
-            "blockExplorerUrl": "https://forkscan.org",
-            "chainType": "EVM",
-            "logoURI": "https://explorer-forknet.t.conduit.xyz/assets/configs/network_icon_dark.svg",
-            "name": "Forknet",
-            "nativeCurrency": {
-                "decimals": 18,
-                "name": "Ether",
-                "symbol": "ETH",
-                "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg"
-            },
-            "supportedRoutes": [
-                "agglayer"
-            ],
-            "rpcURL": "https://rpc-forknet.t.conduit.xyz/",
-            "networkId": 22,
-            "autoClaimEnabled": true,
-            "lxlyVersion": 2,
-            "verifiedBatchSubmissionPeriod": 10800,
-            "active": true
         }
     ]
 }
