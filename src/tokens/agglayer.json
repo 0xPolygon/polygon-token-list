@@ -45,29 +45,6 @@
         }
     },
     {
-        "chainId": 8338,
-        "address": "0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62",
-        "name": "Vault Bridge ETH",
-        "symbol": "vbETH",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "additionalOriginAssetIds": [
-                "eip155:1/erc20:0x0000000000000000000000000000000000000000"
-            ],
-            "supportedRoutes": [
-                "agglayer",
-                "vault-bridge"
-            ],
-            "originTokenAddress": "0x2DC70fb75b88d2eB4715bc06E1595E6D97c34DFF",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 747474,
         "address": "0x0000000000000000000000000000000000000000",
         "name": "Ether",
@@ -285,26 +262,6 @@
         }
     },
     {
-        "chainId": 8338,
-        "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
-        "name": "Vault Bridge USDC",
-        "symbol": "vbUSDC",
-        "decimals": 6,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "supportedRoutes": [
-                "agglayer",
-                "vault-bridge"
-            ],
-            "originTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "originTokenNetwork": 0
-        }
-    },
-    {
         "chainId": 1,
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "name": "Tether USD",
@@ -409,26 +366,6 @@
             "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "supportedRoutes": [
                 "agglayer"
-            ],
-            "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 8338,
-        "address": "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
-        "name": "Vault Bridge USDT",
-        "symbol": "vbUSDT",
-        "decimals": 6,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "supportedRoutes": [
-                "agglayer",
-                "vault-bridge"
             ],
             "originTokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "originTokenNetwork": 0
@@ -634,24 +571,6 @@
         }
     },
     {
-        "chainId": 8338,
-        "address": "0x0913DA6Da4b42f538B445599b46Bb4622342Cf52",
-        "name": "Vault Bridge WBTC",
-        "symbol": "vbWBTC",
-        "decimals": 8,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-            "supportedRoutes": [
-                "agglayer",
-                "vault-bridge"
-            ]
-        }
-    },
-    {
         "chainId": 43114,
         "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
         "name": "Wrapped BTC",
@@ -778,26 +697,6 @@
     },
     {
         "chainId": 747474,
-        "address": "0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3",
-        "name": "Vault Bridge USDS",
-        "symbol": "vbUSDS",
-        "decimals": 18,
-        "tags": [
-            "wrapped"
-        ],
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
-        "extensions": {
-            "originAssetId": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
-            "supportedRoutes": [
-                "agglayer",
-                "vault-bridge"
-            ],
-            "originTokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 8338,
         "address": "0x62D6A123E8D19d06d68cf0d2294F9A3A0362c6b3",
         "name": "Vault Bridge USDS",
         "symbol": "vbUSDS",
