@@ -1,4 +1,12 @@
-[
+ {
+    "chainId": 137,
+    "name": "Harpija Jaguar Token",
+    "symbol": "HTO",
+    "decimals": 18,
+    "address": "0x41b83F3B1A2bF7E2F2E45672A70d9B3F40B67F42",
+    "logoURI": "COLE_O_LINK_DA_SUA_FOTO_AQUI",
+    "tags": ["pos", "erc20"]
+  },
     {
         "chainId": 1,
         "name": "Ether",
